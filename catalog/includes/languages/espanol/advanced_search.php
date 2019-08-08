@@ -35,7 +35,7 @@ define('ENTRY_DATE_TO_TEXT', '');
 define('TEXT_ALL_CATEGORIES', 'Todas');
 define('TEXT_ALL_MANUFACTURERS', 'Todos');
 
-define('TEXT_SEARCH_HELP_LINK', '<span class="fa fa-info-circle"></span> Ayuda');
+define('TEXT_SEARCH_HELP_LINK', '<i class="fas fa-info-circle"></i> Ayuda');
 
 define('TEXT_ALL_CATEGORIES', 'Todas las Categorías');
 define('TEXT_ALL_MANUFACTURERS', 'Todos los Fabricantes');

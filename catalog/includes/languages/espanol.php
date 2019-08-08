@@ -200,8 +200,8 @@ define('TEXT_VIEW_GRID', 'Cuadrícula');
 define('TEXT_SEARCH_PLACEHOLDER','Buscar');
 
 // message for required inputs
-define('FORM_REQUIRED_INFORMATION', '<span class="fa fa-asterisk text-danger"></span> Información requerida');
-define('FORM_REQUIRED_INPUT', '<span class="form-control-feedback text-danger"><span class="fa fa-asterisk"></span></span>');
+define('FORM_REQUIRED_INFORMATION', '<i class="fas fa-asterisk text-danger"></i> Información requerida');
+define('FORM_REQUIRED_INPUT', '<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>');
 
 // reviews
 define('REVIEWS_TEXT_RATED', 'Comentado %s por <cite title="%s">%s</cite>');
@@ -233,3 +233,9 @@ define('MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION', '');
 
 // noscript helper
 define('TEXT_NOSCRIPT', '<p><strong>Parece que JavaScript está deshabilitado en su navegador.</strong></p><p>Debe tener activado Javascript en su navegador para aprovechar la funcionalidad de este sitio web.<br><a class="alert-link" href="https://www.enable-javascript.com/" target="_blank" rel="nofollow">Haga clic aquí para obtener instrucciones sobre cómo activar JavaScript en su navegador.</a></p>');
+
+// sitewide is-product 
+define('IS_PRODUCT_SHOW_PRICE', '%s');
+define('IS_PRODUCT_SHOW_PRICE_SPECIAL', '<del>%s</del> <span class="text-danger">ahora %s</span>');
+define('IS_PRODUCT_BUTTON_BUY', '<i class="fas fa-shopping-cart"></i>');
+define('IS_PRODUCT_BUTTON_VIEW', '<i class="fas fa-eye"></i> Ver');
