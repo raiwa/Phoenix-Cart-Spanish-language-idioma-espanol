@@ -216,7 +216,7 @@ define('TABLE_HEADING_IMAGE', '');
 define('TABLE_HEADING_MODEL', 'Modelo');
 define('TABLE_HEADING_PRODUCTS', 'Nombre Producto');
 define('TABLE_HEADING_MANUFACTURER', 'Fabricante');
-define('TABLE_HEADING_QUANTITY', 'Cantidad');
+define('TABLE_HEADING_QUANTITY', 'Existencia');
 define('TABLE_HEADING_PRICE', 'Precio');
 define('TABLE_HEADING_WEIGHT', 'Peso');
 define('TABLE_HEADING_BUY_NOW', 'Comprar Ahora');
@@ -239,3 +239,8 @@ define('IS_PRODUCT_SHOW_PRICE', '%s');
 define('IS_PRODUCT_SHOW_PRICE_SPECIAL', '<del>%s</del> <span class="text-danger">ahora %s</span>');
 define('IS_PRODUCT_BUTTON_BUY', '<i class="fas fa-shopping-cart"></i>');
 define('IS_PRODUCT_BUTTON_VIEW', '<i class="fas fa-eye"></i> Ver');
+
+// sitewide product listing
+define('LISTING_SORT_DOWN', '<i class="fas fa-level-down-alt text-primary"></i>');
+define('LISTING_SORT_UP', '<i class="fas fa-level-up-alt text-primary"></i>');
+define('LISTING_SORT_UNSELECTED', '<i class="fas fa-level-up-alt text-black-50"></i>');

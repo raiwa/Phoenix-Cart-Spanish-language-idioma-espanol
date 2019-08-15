@@ -18,6 +18,3 @@
   const MODULE_CONTENT_IN_CARD_PRODUCTS_DESCRIPTION = 'Muestra el módulo "Nuevos Productos" en las páginas de Categoría.';
 
   const MODULE_CONTENT_IN_CARD_PRODUCTS_HEADING     = 'Nuevos productos en %s';
-
-  const MODULE_CONTENT_IN_CARD_PRODUCTS_BUTTON_VIEW = '<i class="fas fa-eye"></i> Ver';
-  const MODULE_CONTENT_IN_CARD_PRODUCTS_BUTTON_BUY  = '<i class="fas fa-shopping-cart"></i> Comprar';
