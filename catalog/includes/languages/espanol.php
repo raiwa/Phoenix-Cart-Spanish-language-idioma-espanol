@@ -143,7 +143,6 @@ define('PASSWORD_HIDDEN', '--OCULTO--');
 // constants for use in tep_prev_next_display function
 define('TEXT_RESULT_PAGE', 'Páginas de Resultados:');
 define('TEXT_DISPLAY_NUMBER_OF_PRODUCTS', 'Viendo del <b>%d</b> al <b>%d</b> (de <b>%d</b> productos)');
-define('TEXT_DISPLAY_NUMBER_OF_REVIEWS', 'Viendo del <b>%d</b> al <b>%d</b> (de <b>%d</b> comentarios)');
 
 define('PREVNEXT_TITLE_FIRST_PAGE', 'Principio');
 define('PREVNEXT_TITLE_PREVIOUS_PAGE', 'Anterior');
@@ -169,7 +168,6 @@ define('IMAGE_BUTTON_LOGIN', 'Entrar');
 define('IMAGE_BUTTON_IN_CART', 'Añadir a la Cesta');
 define('IMAGE_BUTTON_SEARCH', 'Buscar');
 define('IMAGE_BUTTON_UPDATE', 'Actualizar');
-define('IMAGE_BUTTON_WRITE_REVIEW', 'Escribir Comentario');
 
 define('SMALL_IMAGE_BUTTON_DELETE', 'Eliminar');
 define('SMALL_IMAGE_BUTTON_EDIT', 'Modificar');
@@ -182,8 +180,6 @@ define('TEXT_SORT_PRODUCTS', 'Ordenar');
 define('TEXT_DESCENDINGLY', 'Descendentemente');
 define('TEXT_ASCENDINGLY', 'Ascendentemente');
 define('TEXT_BY', ' por ');
-
-define('TEXT_NO_REVIEWS', 'En este momento, no hay ningun comentario.');
 
 define('TEXT_UNKNOWN_TAX_RATE', 'Impuesto desconocido');
 
@@ -202,11 +198,6 @@ define('TEXT_SEARCH_PLACEHOLDER','Buscar');
 // message for required inputs
 define('FORM_REQUIRED_INFORMATION', '<i class="fas fa-asterisk text-danger"></i> Información requerida');
 define('FORM_REQUIRED_INPUT', '<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>');
-
-// reviews
-define('REVIEWS_TEXT_RATED', 'Comentado %s por <cite title="%s">%s</cite>');
-define('REVIEWS_TEXT_AVERAGE', 'Valoración media basada en %s comentarios(s) %s');
-define('REVIEWS_TEXT_TITLE', 'Lo que opinan nuestros clientes...');
 
 // grid/list
 define('TEXT_SORT_BY', 'Ordenar por ');

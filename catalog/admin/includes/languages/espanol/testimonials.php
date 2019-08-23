@@ -12,6 +12,7 @@
 
 define('HEADING_TITLE', 'Testimonios');
 
+define('TABLE_HEADING_CUSTOMER_ID', 'ID Cliente');
 define('TABLE_HEADING_CUSTOMER_NAME', 'Cliente');
 define('TABLE_HEADING_DATE_ADDED', 'Fecha alta');
 define('TABLE_HEADING_ACTION', 'Acción');
