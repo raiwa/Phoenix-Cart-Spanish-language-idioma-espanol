@@ -13,7 +13,7 @@
   define('MODULE_NAVBAR_SHOPPING_CART_TITLE', 'Carrito de compra');
   define('MODULE_NAVBAR_SHOPPING_CART_DESCRIPTION', 'Mostrar el Carrito de Compra en el menú de navegación');
 
-  define('MODULE_NAVBAR_SHOPPING_CART_CONTENTS', '<i class="fa fa-shopping-cart"></i> %s producto(s) <span class="caret"></span>');
+  define('MODULE_NAVBAR_SHOPPING_CART_CONTENTS', '<i title="Carrito de Compra" class="fas fa-shopping-cart fa-fw"></i><span class="d-inline d-sm-none d-md-inline"> %1$s producto(s)</span> <span class="caret"></span>');
   define('MODULE_NAVBAR_SHOPPING_CART_NO_CONTENTS', '<i class="fa fa-shopping-cart"></i> 0 productos');
   define('MODULE_NAVBAR_SHOPPING_CART_HAS_CONTENTS', '%s producto(s), %s');
   define('MODULE_NAVBAR_SHOPPING_CART_VIEW_CART', 'Ver Carrito');

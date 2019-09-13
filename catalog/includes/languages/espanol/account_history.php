@@ -24,6 +24,8 @@ define('TEXT_ORDER_PRODUCTS', 'Productos:');
 define('TEXT_ORDER_COST', 'Precio:');
 define('TEXT_VIEW_ORDER', 'Ver Pedido');
 
+define('BUTTON_VIEW_ORDER', '<i title="Ver este Pedido" class="fas fa-eye"></i>');
+
 define('TEXT_NO_PURCHASES', 'Aún no ha realizado ningún pedido.');
 
 define('TEXT_DISPLAY_NUMBER_OF_ORDERS', 'Viendo del <b>%d</b> al <b>%d</b> (de <b>%d</b> pedidos)');
