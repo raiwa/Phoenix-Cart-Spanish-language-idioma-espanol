@@ -62,7 +62,6 @@ define('DOB_FORMAT_STRING', 'dd/mm/aaaa');
 define('BOX_HEADING_CONFIGURATION', 'Configuración');
 define('BOX_CONFIGURATION_MYSTORE', 'Mi Tienda');
 define('BOX_CONFIGURATION_LOGGING', 'Registro');
-define('BOX_CONFIGURATION_CACHE', 'Caché');
 define('BOX_CONFIGURATION_ADMINISTRATORS', 'Administradores');
 define('BOX_CONFIGURATION_STORE_LOGO', 'Logo de la tienda');
 
@@ -104,8 +103,6 @@ define('BOX_REPORTS_ORDERS_TOTAL', 'Total por Cliente');
 define('BOX_HEADING_TOOLS', 'Herramientas');
 define('BOX_TOOLS_ACTION_RECORDER', 'Registro de Acciones');
 define('BOX_TOOLS_BACKUP', 'Copia de Seguridad');
-define('BOX_TOOLS_BANNER_MANAGER', 'Gestor de Banners');
-define('BOX_TOOLS_CACHE', 'Control de Caché');
 define('BOX_TOOLS_DEFINE_LANGUAGE', 'Definir Idiomas');
 define('BOX_TOOLS_MAIL', 'Enviar Correo Electrónico');
 define('BOX_TOOLS_NEWSLETTER_MANAGER', 'Gestor de Boletines');
@@ -213,7 +210,6 @@ define('IMAGE_LOCK', 'Bloquear');
 define('IMAGE_MODULE_INSTALL', 'Instalar Módulo');
 define('IMAGE_MODULE_REMOVE', 'Quitar Módulo');
 define('IMAGE_MOVE', 'Mover');
-define('IMAGE_NEW_BANNER', 'Nuevo Banner');
 define('IMAGE_NEW_CATEGORY', 'Nueva Categoría');
 define('IMAGE_NEW_COUNTRY', 'Nuevo País');
 define('IMAGE_NEW_CURRENCY', 'Nueva Moneda');
@@ -260,7 +256,6 @@ define('ICON_WARNING', 'Advertencia');
 
 // constants for use in tep_prev_next_display function
 define('TEXT_RESULT_PAGE', 'Página %s de %d');
-define('TEXT_DISPLAY_NUMBER_OF_BANNERS', 'Viendo del <b>%d</b> al <b>%d</b> (de <b>%d</b> banners)');
 define('TEXT_DISPLAY_NUMBER_OF_COUNTRIES', 'Viendo del <b>%d</b> al <b>%d</b> (de <b>%d</b> países)');
 define('TEXT_DISPLAY_NUMBER_OF_CUSTOMERS', 'Viendo del <b>%d</b> al <b>%d</b> (de <b>%d</b> clientes)');
 define('TEXT_DISPLAY_NUMBER_OF_CURRENCIES', 'Viendo de la <b>%d</b> a la <b>%d</b> (de <b>%d</b> monedas)');
@@ -285,10 +280,6 @@ define('PREVNEXT_BUTTON_NEXT', '&gt;&gt;');
 define('TEXT_DEFAULT', 'predeterminado/a');
 define('TEXT_SET_DEFAULT', 'Establecer como predeterminado/a');
 define('TEXT_FIELD_REQUIRED', '&nbsp;<span class="fieldRequired">* Obligatorio</span>');
-
-define('TEXT_CACHE_CATEGORIES', 'Categorías');
-define('TEXT_CACHE_MANUFACTURERS', 'Fabricantes');
-define('TEXT_CACHE_ALSO_PURCHASED', 'También Han Comprado');
 
 define('TEXT_NONE', '--ninguno--');
 define('TEXT_TOP', 'Principio');

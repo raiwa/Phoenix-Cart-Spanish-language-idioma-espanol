@@ -15,4 +15,4 @@
 
   define('MODULE_CONTENT_CHECKOUT_SUCCESS_PRODUCT_NOTIFICATIONS_TEXT_NOTIFY_PRODUCTS_TITLE', 'Notificaciones de Productos');
 
-  define('MODULE_CONTENT_CHECKOUT_SUCCESS_PRODUCT_NOTIFICATIONS_TEXT_NOTIFY_PRODUCTS', 'Por favor, notifíqueme de las actualizaciones de los productos que he seleccionado a continuación:');
+  define('MODULE_CONTENT_CHECKOUT_SUCCESS_PRODUCT_NOTIFICATIONS_TEXT_NOTIFY_PRODUCTS', 'Suscríbase a las actualizaciones de...');

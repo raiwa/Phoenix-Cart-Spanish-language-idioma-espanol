@@ -11,11 +11,12 @@
 */
 
 define('HEADING_TITLE', 'Entrada Administrador');
+define('HEADING_TITLE', '<i class="fa fa-lock"></i> Acceso seguro');
 
-define('TEXT_USERNAME', 'Usuario:');
-define('TEXT_PASSWORD', 'Contraseña:');
+define('TEXT_USERNAME', 'Usuario');
+define('TEXT_PASSWORD', 'Contraseña');
 
-define('TEXT_CREATE_FIRST_ADMINISTRATOR', 'No existen administradores en la Base de Datos. Por favor rellene la siguiente información para crear el primer administrador. (Una entrada manual es requerido después de este paso)');
+define('TEXT_CREATE_FIRST_ADMINISTRATOR', '<div class="card-body"><div class="alert alert-danger card-text">No existen administradores en la Base de Datos. Por favor rellene la siguiente información para crear el primer administrador.<br><strong>Una entrada manual es requerido después de este paso.</strong></div></div>');
 
 define('ERROR_INVALID_ADMINISTRATOR', 'Error: Intento de entrar en administrador inválido.');
 

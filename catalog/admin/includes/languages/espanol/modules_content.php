@@ -15,6 +15,7 @@ define('HEADING_TITLE', 'Módulos Contenido');
 define('TABLE_HEADING_MODULES', 'Módulos');
 define('TABLE_HEADING_GROUP', 'Grupo');
 define('TABLE_HEADING_SORT_ORDER', 'Orden');
+define('TABLE_HEADING_MODULE_ACTIVE', 'Activo');                                               
 define('TABLE_HEADING_ACTION', 'Acción');
 
 define('TEXT_INFO_VERSION', 'versión:');

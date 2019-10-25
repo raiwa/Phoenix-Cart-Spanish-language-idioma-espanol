@@ -13,13 +13,17 @@
 define('HEADING_TITLE', 'Categorías / Productos');
 define('HEADING_TITLE_SEARCH', 'Buscar:');
 define('HEADING_TITLE_GOTO', 'Ir a:');
+define('SECTION_HEADING_GENERAL', 'Específico para idioma');
+define('SECTION_HEADING_DATA', 'Específico para producto');
+define('SECTION_HEADING_IMAGES', 'Imágenes de producto');
 
 define('TABLE_HEADING_ID', 'ID');
 define('TABLE_HEADING_CATEGORIES_PRODUCTS', 'Categorías / Productos');
 define('TABLE_HEADING_ACTION', 'Acción');
 define('TABLE_HEADING_STATUS', 'Estado');
 
-define('TEXT_NEW_PRODUCT', 'Nuevo Producto en &quot;%s&quot;');
+define('TEXT_NEW_PRODUCT', 'Añadiendo Producto en &quot;%s&quot;');
+define('TEXT_EXISTING_PRODUCT', 'Editando producto en &quot;%s&quot;');
 define('TEXT_CATEGORIES', 'Categorías:');
 define('TEXT_SUBCATEGORIES', 'Subcategorías:');
 define('TEXT_PRODUCTS', 'Productos:');

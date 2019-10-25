@@ -32,3 +32,6 @@ define('TEXT_EDIT', 'Cambio');
 define('IMAGE_BUTTON_FINALISE_ORDER', 'Finalizar y Pagar mi pedido');
 
 define('HEADING_QTY', 'Cant.');
+
+define('LIST_PRODUCTS', 'Productos');
+define('ORDER_DETAILS', 'Detalles del Pedido');
