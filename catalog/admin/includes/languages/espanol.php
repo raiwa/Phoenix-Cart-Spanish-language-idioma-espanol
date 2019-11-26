@@ -47,10 +47,11 @@ define('TITLE', 'OSCOM CE Phoenix Herramienta de Administración');
 
 // header text in includes/header.php
 define('HEADER_TITLE_TOP', 'Administración');
-define('HEADER_TITLE_SUPPORT_SITE', 'Soporte');
-define('HEADER_TITLE_ONLINE_CATALOG', 'Catálogo');
-define('HEADER_TITLE_ADMINISTRATION', 'Administración');
-
+define('HEADER_TITLE_SUPPORT_SITE', '<span class="border-bottom border-primary">Soporte</span>');
+define('HEADER_TITLE_ONLINE_CATALOG', '<span class="border-bottom border-primary">Catálogo</span>');
+define('HEADER_TITLE_ADMINISTRATION', '<span class="border-bottom border-primary">Administración</span>');
+define('HEADER_TITLE_PHOENIX_CLUB', '<span class="border-bottom border-primary">Phoenix Club</span>');
+define('HEADER_TITLE_LOGOFF', '<i class="fas fa-lock"></i> <span class="border-bottom border-danger"> %s, salir de modo seguro</span>');
 // text for gender
 define('MALE', 'Señor');
 define('FEMALE', 'Señora');
@@ -62,60 +63,30 @@ define('DOB_FORMAT_STRING', 'dd/mm/aaaa');
 define('BOX_HEADING_CONFIGURATION', 'Configuración');
 define('BOX_CONFIGURATION_MYSTORE', 'Mi Tienda');
 define('BOX_CONFIGURATION_LOGGING', 'Registro');
-define('BOX_CONFIGURATION_ADMINISTRATORS', 'Administradores');
-define('BOX_CONFIGURATION_STORE_LOGO', 'Logo de la tienda');
 
 // modules box text in includes/boxes/modules.php
 define('BOX_HEADING_MODULES', 'Módulos');
 
 // categories box text in includes/boxes/catalog.php
 define('BOX_HEADING_CATALOG', 'Catálogo');
-define('BOX_CATALOG_CATEGORIES_PRODUCTS', 'Categorias/Productos');
-define('BOX_CATALOG_CATEGORIES_PRODUCTS_ATTRIBUTES', 'Atributos de Productos');
-define('BOX_CATALOG_MANUFACTURERS', 'Fabricantes');
-define('BOX_CATALOG_REVIEWS', 'Comentarios');
-define('BOX_CATALOG_SPECIALS', 'Ofertas');
-define('BOX_CATALOG_PRODUCTS_EXPECTED', 'Productos próximamente disponibles');
 
 // customers box text in includes/boxes/customers.php
 define('BOX_HEADING_CUSTOMERS', 'Clientes');
-define('BOX_CUSTOMERS_CUSTOMERS', 'Clientes');
 
 // orders box text in includes/boxes/orders.php
 define('BOX_HEADING_ORDERS', 'Pedidos');
-define('BOX_ORDERS_ORDERS', 'Pedidos');
 
 // taxes box text in includes/boxes/taxes.php
 define('BOX_HEADING_LOCATION_AND_TAXES', 'Zonas/Impuestos');
-define('BOX_TAXES_COUNTRIES', 'Paises');
-define('BOX_TAXES_ZONES', 'Provincias');
-define('BOX_TAXES_GEO_ZONES', 'Zonas de Impuestos');
-define('BOX_TAXES_TAX_CLASSES', 'Tipos de Impuestos');
-define('BOX_TAXES_TAX_RATES', 'Tasas de Impuestos');
 
 // reports box text in includes/boxes/reports.php
 define('BOX_HEADING_REPORTS', 'Informes');
-define('BOX_REPORTS_PRODUCTS_VIEWED', 'Los Más Vistos');
-define('BOX_REPORTS_PRODUCTS_PURCHASED', 'Los Más Comprados');
-define('BOX_REPORTS_ORDERS_TOTAL', 'Total por Cliente');
 
 // tools text in includes/boxes/tools.php
 define('BOX_HEADING_TOOLS', 'Herramientas');
-define('BOX_TOOLS_ACTION_RECORDER', 'Registro de Acciones');
-define('BOX_TOOLS_BACKUP', 'Copia de Seguridad');
-define('BOX_TOOLS_DEFINE_LANGUAGE', 'Definir Idiomas');
-define('BOX_TOOLS_MAIL', 'Enviar Correo Electrónico');
-define('BOX_TOOLS_NEWSLETTER_MANAGER', 'Gestor de Boletines');
-define('BOX_TOOLS_SEC_DIR_PERMISSIONS', 'Permisos de seguridad de directorios');
-define('BOX_TOOLS_SERVER_INFO', 'Información del Servidor');
-define('BOX_TOOLS_VERSION_CHECK', 'Comprobar Versión');
-define('BOX_TOOLS_WHOS_ONLINE', 'Usuarios conectados');
 
 // localizaion box text in includes/boxes/localization.php
 define('BOX_HEADING_LOCALIZATION', 'Localización');
-define('BOX_LOCALIZATION_CURRENCIES', 'Monedas');
-define('BOX_LOCALIZATION_LANGUAGES', 'Idiomas');
-define('BOX_LOCALIZATION_ORDERS_STATUS', 'Estados de Pedidos');
 
 // javascript messages
 define('JS_ERROR', '¡Ha habido errores procesando su formulario!\nPor favor, haga las siguientes modificaciones:\n\n');
