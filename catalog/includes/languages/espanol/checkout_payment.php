@@ -21,4 +21,4 @@ define('TABLE_HEADING_PAYMENT_METHOD', 'Forma de pago');
 
 define('TEXT_ENTER_PAYMENT_INFORMATION', 'Esta es la única forma de pago disponible para este pedido.');
 
-define('TITLE_CONTINUE_CHECKOUT_PROCEDURE', 'Continuar con el proceso de compra');
+define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'Continuar con el proceso de compra');

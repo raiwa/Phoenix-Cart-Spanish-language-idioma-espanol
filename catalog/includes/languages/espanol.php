@@ -107,7 +107,6 @@ define('ENTRY_POST_CODE_TEXT', '');
 define('ENTRY_CITY', 'Población:');
 define('ENTRY_CITY_ERROR', 'Su población debe tener al menos ' . ENTRY_CITY_MIN_LENGTH . ' letras.');
 define('ENTRY_CITY_TEXT', '');
-define('ENTRY_NAME_TEXT', '');
 define('ENTRY_STATE', 'Provincia:');
 define('ENTRY_STATE_ERROR', 'Su provincia debe tener al menos ' . ENTRY_STATE_MIN_LENGTH . ' letras.');
 define('ENTRY_STATE_ERROR_SELECT', 'Por favor, seleccione una Provincia de la lista.');
