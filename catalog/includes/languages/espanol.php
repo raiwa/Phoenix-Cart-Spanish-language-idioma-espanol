@@ -70,9 +70,6 @@ define('PULL_DOWN_DEFAULT', 'Seleccione, por favor');
 // javascript messages
 define('JS_ERROR', '¡Hay errores en su formulario!\n\nPor favor, haga las siguientes correciones:\n\n');
 
-define('JS_REVIEW_TEXT', '* Su \'Comentario\' debe tener al menos ' . REVIEW_TEXT_MIN_LENGTH . ' letras.\n');
-define('JS_REVIEW_RATING', '* Debe evaluar el producto sobre el que opina.\n');
-
 define('JS_ERROR_NO_PAYMENT_MODULE_SELECTED', '* Por favor, seleccione un método de pago para su pedido.\n');
 
 define('ERROR_NO_PAYMENT_MODULE_SELECTED', 'Por favor, seleccione un método de pago para su pedido.');

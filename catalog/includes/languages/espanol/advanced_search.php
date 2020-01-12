@@ -22,18 +22,16 @@ define('TEXT_SEARCH_IN_DESCRIPTION', 'Buscar también en la descripción');
 define('ENTRY_CATEGORIES', 'Categoría:');
 define('ENTRY_INCLUDE_SUBCATEGORIES', 'Incluir Subcategorías');
 define('ENTRY_MANUFACTURERS', 'Fabricante:');
-define('ENTRY_PRICE_FROM', ' Precio desde:');
+define('ENTRY_PRICE_FROM', 'Precio desde:');
 define('ENTRY_PRICE_TO', 'hasta:');
 define('ENTRY_DATE_FROM', 'De fecha de alta:');
 define('ENTRY_DATE_TO', 'hasta:');
 
-define('ENTRY_PRICE_FROM_TEXT', '');
-define('ENTRY_PRICE_TO_TEXT', '');
-define('ENTRY_DATE_FROM_TEXT', '');
-define('ENTRY_DATE_TO_TEXT', '');
+define('ENTRY_PRICE_FROM_TEXT', 'de');
+define('ENTRY_PRICE_TO_TEXT', 'a');
 
-define('TEXT_ALL_CATEGORIES', 'Todas');
-define('TEXT_ALL_MANUFACTURERS', 'Todos');
+define('ENTRY_DATE', 'Fecha');
+define('ENTRY_PRICE', 'Precio');
 
 define('TEXT_SEARCH_HELP_LINK', '<i class="fas fa-info-circle"></i> Ayuda');
 
