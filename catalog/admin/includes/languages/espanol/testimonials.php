@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2016 osCommerce
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
@@ -18,20 +18,19 @@ define('TABLE_HEADING_DATE_ADDED', 'Fecha alta');
 define('TABLE_HEADING_ACTION', 'Acción');
 define('TABLE_HEADING_STATUS', 'Estado');
 
-define('ENTRY_PRODUCT', 'Producto:');
+define('ENTRY_FROM_NICKNAME', 'Nombre/Apodo');
 define('ENTRY_FROM', 'De:');
 define('ENTRY_DATE', 'Fecha:');
 define('ENTRY_TESTIMONIAL', 'Testimonio:');
-define('ENTRY_TESTIMONIAL_TEXT', '<small><font color="#ff0000"><strong>NOTA:</strong></font></small>&nbsp;HTML no será traducido!&nbsp;');
 
 define('TEXT_INFO_DELETE_TESTIMONIAL_INTRO', '¿Seguro que quiere eliminar este testimonio?');
 
-define('TEXT_INFO_DATE_ADDED', 'Fecha alta:');
-define('TEXT_INFO_LAST_MODIFIED', 'Última modificación:');
+define('TEXT_INFO_DATE_ADDED', 'Fecha alta: %s');
+define('TEXT_INFO_LAST_MODIFIED', 'Última modificación: %s');
 
-define('TEXT_INFO_TESTIMONIAL_AUTHOR', 'Autor:');
-define('TEXT_INFO_TESTIMONIAL_SIZE', 'Tamaño:');
-define('TEXT_INFO_TESTIMONIAL_STATUS', 'Estado del Testimonio:');
+define('TEXT_INFO_TESTIMONIAL_AUTHOR', 'Autor: %s');
+define('TEXT_INFO_TESTIMONIAL_SIZE', 'Tamaño: %s palabras');
+define('TEXT_INFO_TESTIMONIAL_STATUS', 'Estado del Testimonio');
 
 define('TEXT_TESTIMONIAL_PUBLISHED', 'Publicado');
 define('TEXT_TESTIMONIAL_NOT_PUBLISHED', 'No publicado');

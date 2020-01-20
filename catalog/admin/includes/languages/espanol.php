@@ -46,11 +46,9 @@ define('CHARSET', 'utf-8');
 define('TITLE', 'OSCOM CE Phoenix Herramienta de Administración');
 
 // header text in includes/header.php
-define('HEADER_TITLE_TOP', 'Administración');
-define('HEADER_TITLE_SUPPORT_SITE', '<span class="border-bottom border-primary">Soporte</span>');
 define('HEADER_TITLE_ONLINE_CATALOG', '<span class="border-bottom border-primary">Catálogo</span>');
-define('HEADER_TITLE_ADMINISTRATION', '<span class="border-bottom border-primary">Administración</span>');
 define('HEADER_TITLE_PHOENIX_CLUB', '<span class="border-bottom border-primary">Phoenix Club</span>');
+define('HEADER_TITLE_CERTIFIED_ADDONS', '<span class="border-bottom border-primary">Addons certificados</span>');
 define('HEADER_TITLE_LOGOFF', '<i class="fas fa-lock"></i> <span class="border-bottom border-danger"> %s, salir de modo seguro</span>');
 // text for gender
 define('MALE', 'Señor');

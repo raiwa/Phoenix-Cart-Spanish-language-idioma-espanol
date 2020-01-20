@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2016 osCommerce
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
@@ -24,7 +24,7 @@ define('ENTRY_INCLUDE_SUBCATEGORIES', 'Incluir Subcategorías');
 define('ENTRY_MANUFACTURERS', 'Fabricante:');
 define('ENTRY_PRICE_FROM', 'Precio desde:');
 define('ENTRY_PRICE_TO', 'hasta:');
-define('ENTRY_DATE_FROM', 'De fecha de alta:');
+define('ENTRY_DATE_FROM', 'De fecha de alta');
 define('ENTRY_DATE_TO', 'hasta:');
 
 define('ENTRY_PRICE_FROM_TEXT', 'de');

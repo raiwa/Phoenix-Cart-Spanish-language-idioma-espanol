@@ -18,3 +18,5 @@ define('MODULE_ADMIN_DASHBOARD_PHOENIX_ADDONS_RATING', 'Valoración');
 define('MODULE_ADMIN_DASHBOARD_PHOENIX_ADDONS_DATE', 'Fecha');
 
 define('MODULE_ADMIN_DASHBOARD_PHOENIX_JOIN_CLUB', 'Unirse al club');
+
+define('MODULE_ADMIN_DASHBOARD_PHOENIX_VIEW_ALL', 'Ver la lista completa de Add-ons certificados');
