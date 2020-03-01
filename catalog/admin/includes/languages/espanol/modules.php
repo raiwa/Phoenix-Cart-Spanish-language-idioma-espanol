@@ -10,13 +10,16 @@
   Released under the GNU General Public License
 */
 
-define('TABLE_HEADING_MODULES', 'Módulos');
-define('TABLE_HEADING_SORT_ORDER', 'Orden');
-define('TABLE_HEADING_ENABLED', 'Activo');
-define('TABLE_HEADING_ACTION', 'Acción');
+const TABLE_HEADING_MODULES = 'Módulos';
+const TABLE_HEADING_SORT_ORDER = 'Orden';
+const TABLE_HEADING_ENABLED = 'Activo';
+const TABLE_HEADING_ACTION = 'Acción';
 
-define('TEXT_INFO_VERSION', 'Versión:');
-define('TEXT_INFO_ONLINE_STATUS', 'Estado de conexión');
-define('TEXT_INFO_API_VERSION', 'Versión de la API:');
+const TEXT_INFO_VERSION = 'Versión:';
+const TEXT_INFO_ONLINE_STATUS = 'Estado de conexión';
+const TEXT_INFO_API_VERSION = 'Versión de la API:';
 
-define('TEXT_MODULE_DIRECTORY', 'Directorio de Módulos:');
+const TEXT_MODULE_DIRECTORY = 'Directorio de Módulos:';
+
+const ERROR_MODULE_UNMET_REQUIREMENT = 'This module has an unmet dependency.';
+const ERROR_MODULE_HAS_DEPENDENTS = 'Other modules are dependent on this module.';

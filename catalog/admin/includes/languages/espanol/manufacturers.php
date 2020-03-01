@@ -52,3 +52,5 @@ const TEXT_MANUFACTURERS_SEO_TITLE = 'Título Fabricante para SEO:<br><small>Opc
 const TEXT_EDIT_MANUFACTURERS_SEO_TITLE = 'Editar Título Fabricante para SEO:<br><small>Opcionalmente reemplaza el nombre del fabricante en el elemento Meta &lt;title&gt;<br>y en la ruta de navegación.<br>Dejar en blanco para usar por defecto el nombre del fabricante.</small>';
 
 define('BUTTON_INSERT_NEW_MANUFACTURER', 'Nuevo Fabricante');
+
+define('TEXT_MANUFACTURERS_IMAGE_LABEL', 'Seleccionar Fabricante');
