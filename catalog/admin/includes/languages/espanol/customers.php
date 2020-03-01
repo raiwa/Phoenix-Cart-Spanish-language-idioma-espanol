@@ -10,22 +10,28 @@
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Clientes');
-define('HEADING_TITLE_SEARCH', 'Buscar:');
+const HEADING_TITLE = 'Clientes';
+const HEADING_TITLE_SEARCH = 'Buscar:';
 
-define('TABLE_HEADING_FIRSTNAME', 'Nombre');
-define('TABLE_HEADING_LASTNAME', 'Apellidos');
-define('TABLE_HEADING_ACCOUNT_CREATED', 'Cuenta Creada');
-define('TABLE_HEADING_ACTION', 'Acción');
+const TABLE_HEADING_FIRSTNAME = 'Nombre';
+const TABLE_HEADING_LASTNAME = 'Apellidos';
+const TABLE_HEADING_ACCOUNT_CREATED = 'Cuenta Creada';
+const TABLE_HEADING_ACTION = 'Acción';
 
-define('TEXT_DATE_ACCOUNT_CREATED', 'Cuenta Creada:');
-define('TEXT_DATE_ACCOUNT_LAST_MODIFIED', 'Última Modificación:');
-define('TEXT_INFO_DATE_LAST_LOGON', 'Última Visita:');
-define('TEXT_INFO_NUMBER_OF_LOGONS', 'Número de visitas:');
-define('TEXT_INFO_COUNTRY', 'País:');
-define('TEXT_INFO_NUMBER_OF_REVIEWS', 'Número de Comentarios:');
-define('TEXT_DELETE_INTRO', '¿Seguro que desea eliminar este cliente?');
-define('TEXT_DELETE_REVIEWS', 'Eliminar %s comentario(s)');
-define('TEXT_INFO_HEADING_DELETE_CUSTOMER', 'Eliminar Cliente');
-define('TYPE_BELOW', 'Escriba debajo');
-define('PLEASE_SELECT', 'Seleccione');
+const TEXT_DATE_ACCOUNT_CREATED = 'Cuenta Creada:';
+const TEXT_DATE_ACCOUNT_LAST_MODIFIED = 'Última Modificación:';
+const TEXT_INFO_DATE_LAST_LOGON = 'Última Visita:';
+const TEXT_INFO_NUMBER_OF_LOGONS = 'Número de visitas:';
+const TEXT_INFO_COUNTRY = 'País:';
+const TEXT_INFO_NUMBER_OF_REVIEWS = 'Número de Comentarios:';
+const TEXT_DELETE_INTRO = '¿Seguro que desea eliminar este cliente?';
+const TEXT_DELETE_REVIEWS = 'Eliminar %s comentario(s)';
+const TEXT_INFO_HEADING_DELETE_CUSTOMER = 'Eliminar Cliente';
+const TYPE_BELOW = 'Escriba debajo';
+const PLEASE_SELECT = 'Seleccione';
+
+const PULL_DOWN_DEFAULT = PLEASE_SELECT;
+
+const ERROR_PAGE_HAS_UNMET_REQUIREMENT = <<<'EOT'
+  La página de clientes requiere que se instalen los módulos de datos de cliente 'sortable_name', 'name', 'email_address', 'country_id' y 'id'. Falta:
+EOT;
