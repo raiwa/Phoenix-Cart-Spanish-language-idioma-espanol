@@ -10,16 +10,17 @@
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Enviar Correo Electrónico a Cliente(s)');
+const HEADING_TITLE = 'Enviar Correo Electrónico a Cliente(s)';
 
-define('TEXT_CUSTOMER', 'Cliente');
-define('TEXT_SUBJECT', 'Asunto');
-define('TEXT_FROM', 'Desde');
-define('TEXT_MESSAGE', 'Mensaje');
+const TEXT_CUSTOMER = 'Cliente';
+const TEXT_SUBJECT = 'Asunto';
+const TEXT_FROM = 'Desde';
+const TEXT_FROM_ADDRESS = 'Desde dirección';
+const TEXT_MESSAGE = 'Mensaje';
 
-define('TEXT_SELECT_CUSTOMER', 'Seleccionar Cliente');
-define('TEXT_ALL_CUSTOMERS', 'Todos los Clientes');
-define('TEXT_NEWSLETTER_CUSTOMERS', 'Todos los Suscritos');
+const TEXT_SELECT_CUSTOMER = 'Seleccionar Cliente';
+const TEXT_ALL_CUSTOMERS = 'Todos los Clientes';
+const TEXT_NEWSLETTER_CUSTOMERS = 'Todos los Suscritos';
 
-define('NOTICE_EMAIL_SENT_TO', 'Aviso: Correo Electrónico enviado a: %s');
-define('ERROR_NO_CUSTOMER_SELECTED', 'Error: No ha seleccionado ningún cliente.');
+const NOTICE_EMAIL_SENT_TO = 'Aviso: Correo Electrónico enviado a: %s';
+const ERROR_NO_CUSTOMER_SELECTED = 'Error: No ha seleccionado ningún cliente.';

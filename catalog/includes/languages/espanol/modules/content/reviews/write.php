@@ -21,7 +21,9 @@ define('SUB_TITLE_REVIEW_TEXT', 'Su Comentario...');
 define('TEXT_BAD', '%s (Peor)');
 define('TEXT_GOOD', '%s (Mejor)');
 
-define('IMAGE_BUTTON_ADD_REVIEW', 'Enviar este comentario al propietario de la tienda');
+define('IMAGE_BUTTON_ADD_REVIEW', 'Califique este producto a %s');
+
+define('IMAGE_BUTTON_ADD_REVIEW', 'Enviar su valoración al propietario de la tienda');
 
 define('TEXT_REVIEW_RECEIVED', '%s gracias por su opinión. Se ha presentado al administrador de la web para su aprobación y deberá aparecer en breve.');
 
