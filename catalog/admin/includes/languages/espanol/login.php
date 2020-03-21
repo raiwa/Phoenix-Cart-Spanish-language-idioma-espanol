@@ -10,7 +10,6 @@
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Entrada Administrador');
 define('HEADING_TITLE', '<i class="fa fa-lock"></i> Acceso seguro');
 
 define('TEXT_USERNAME', 'Usuario');
