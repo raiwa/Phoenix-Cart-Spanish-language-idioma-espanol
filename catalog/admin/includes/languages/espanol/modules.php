@@ -16,10 +16,10 @@ const TABLE_HEADING_ENABLED = 'Activo';
 const TABLE_HEADING_ACTION = 'Acción';
 
 const TEXT_INFO_VERSION = 'Versión:';
-const TEXT_INFO_ONLINE_STATUS = 'Estado de conexión';
+const TEXT_INFO_ONLINE_STATUS = 'Estado';
 const TEXT_INFO_API_VERSION = 'Versión de la API:';
 
 const TEXT_MODULE_DIRECTORY = 'Directorio de Módulos:';
 
-const ERROR_MODULE_UNMET_REQUIREMENT = 'This module has an unmet dependency.';
-const ERROR_MODULE_HAS_DEPENDENTS = 'Other modules are dependent on this module.';
+const ERROR_MODULE_UNMET_REQUIREMENT = 'Este módulo tiene una dependencia no cumplida.';
+const ERROR_MODULE_HAS_DEPENDENTS = 'Otros módulos dependen de este módulo.';

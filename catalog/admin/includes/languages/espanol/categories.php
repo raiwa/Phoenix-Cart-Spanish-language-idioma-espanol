@@ -60,8 +60,7 @@ define('TEXT_INFO_HEADING_COPY_TO', 'Copiar a');
 define('TEXT_DELETE_CATEGORY_INTRO', '¿Seguro que desea eliminar esta categoría?');
 define('TEXT_DELETE_PRODUCT_INTRO', '¿Está usted seguro que desea eliminar permanentemente este producto?');
 
-define('TEXT_DELETE_WARNING_CHILDS', '<strong>ADVERTENCIA:</strong> ¡Hay %s categorías que pertenecen a esta categoría!');
-define('TEXT_DELETE_WARNING_PRODUCTS', '<strong>ADVERTENCIA:</strong> ¡Hay %s productos en esta categoría!');
+define('TEXT_DELETE_WARNING', '<strong>ADVERTENCIA:</strong> ¡Hay subcategorías y/o productos que pertenecen a esta categoría!');
 
 define('TEXT_MOVE_PRODUCTS_INTRO', 'Elija la categoría hacia donde quiera mover <strong>%s</strong>');
 define('TEXT_MOVE_CATEGORIES_INTRO', 'Elija la categoría hacia donde quiera mover <strong>%s</strong>');
