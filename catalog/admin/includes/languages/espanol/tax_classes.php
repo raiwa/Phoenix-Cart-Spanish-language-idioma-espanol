@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2013 osCommerce
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
@@ -17,9 +17,9 @@ define('TABLE_HEADING_ACTION', 'Acción');
 
 define('TEXT_INFO_EDIT_INTRO', 'Por favor realice los cambios necesarios');
 define('TEXT_INFO_CLASS_TITLE', 'Nombre del Impuesto:');
-define('TEXT_INFO_CLASS_DESCRIPTION', 'Descripción:');
-define('TEXT_INFO_DATE_ADDED', 'Creado:');
-define('TEXT_INFO_LAST_MODIFIED', 'Modificado:');
+define('TEXT_INFO_CLASS_DESCRIPTION', 'Descripción:<br>%s');
+define('TEXT_INFO_DATE_ADDED', 'Creado: %s');
+define('TEXT_INFO_LAST_MODIFIED', 'Modificado: %s');
 define('TEXT_INFO_INSERT_INTRO', 'Introduzca los datos del nuevo tipo de impuesto');
 define('TEXT_INFO_DELETE_INTRO', 'Seguro que desea eliminar este tipo de impuesto ?');
 define('TEXT_INFO_HEADING_NEW_TAX_CLASS', 'Nuevo Tipo de Impuesto');

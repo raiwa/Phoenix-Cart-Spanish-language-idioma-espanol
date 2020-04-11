@@ -27,7 +27,7 @@ define('HEADING_PAYMENT_METHOD', 'Forma de Pago');
 define('HEADING_PAYMENT_INFORMATION', 'Datos del Pago');
 define('HEADING_ORDER_COMMENTS', 'Comentarios');
 
-define('TEXT_EDIT', 'Cambio');
+define('TEXT_EDIT', 'Modificar');
 
 define('IMAGE_BUTTON_FINALISE_ORDER', 'Finalizar y Pagar mi pedido');
 

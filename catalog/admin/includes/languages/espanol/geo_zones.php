@@ -35,11 +35,11 @@ define('TEXT_INFO_EDIT_SUB_ZONE_INTRO', 'Por favor realice los cambios necesario
 define('TEXT_INFO_HEADING_DELETE_SUB_ZONE', 'Eliminar Subzona');
 define('TEXT_INFO_DELETE_SUB_ZONE_INTRO', '¿Seguro que quiere eliminar esta subzona?');
 
-define('TEXT_INFO_DATE_ADDED', 'Añadido el:');
-define('TEXT_INFO_LAST_MODIFIED', 'Modificado:');
+define('TEXT_INFO_DATE_ADDED', 'Añadido el: %s');
+define('TEXT_INFO_LAST_MODIFIED', 'Modificado: %s');
 define('TEXT_INFO_ZONE_NAME', 'Nombre de la Zona:');
-define('TEXT_INFO_NUMBER_ZONES', 'Número de las Zonas:');
-define('TEXT_INFO_ZONE_DESCRIPTION', 'Descripción:');
+define('TEXT_INFO_NUMBER_ZONES', 'Número de las Zonas: %s');
+define('TEXT_INFO_ZONE_DESCRIPTION', 'Descripción: %s');
 define('TEXT_INFO_COUNTRY', 'País:');
 define('TEXT_INFO_COUNTRY_ZONE', 'Zona:');
 define('TYPE_BELOW', 'Todas las zonas');

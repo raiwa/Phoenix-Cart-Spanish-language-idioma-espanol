@@ -11,4 +11,4 @@
 */
 
   define('MODULE_CONTENT_IP_CATEGORY_DESCRIPTION_TITLE', 'Descripción Categoría/Fabricante');
-  define('MODULE_CONTENT_IP_CATEGORY_DESCRIPTION_DESCRIPTION', 'Muestra la descripción de Categoría/Fabricantge a nivel de productos em Index');
+  define('MODULE_CONTENT_IP_CATEGORY_DESCRIPTION_DESCRIPTION', 'Muestra la descripción de Categoría/Fabricante a nivel de productos en Index');
