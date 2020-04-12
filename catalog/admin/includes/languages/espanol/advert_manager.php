@@ -18,7 +18,7 @@ define('TABLE_HEADING_SORT_ORDER', 'Orden');
 define('TABLE_HEADING_STATUS', 'Activo');
 define('TABLE_HEADING_ACTION', 'Acción');
 
-define('TEXT_ADVERT_TITLE', 'Tìtulo');
+define('TEXT_ADVERT_TITLE', 'Título');
 define('TEXT_ADVERT_URL', 'URL');
 define('TEXT_ADVERT_FRAGMENT', 'Fragmento');
 define('TEXT_ADVERT_GROUP', 'Grupo');
