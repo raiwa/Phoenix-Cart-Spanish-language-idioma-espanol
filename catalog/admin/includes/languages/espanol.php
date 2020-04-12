@@ -144,7 +144,7 @@ const ERROR_DESTINATION_DOES_NOT_EXIST = 'Error: Destino no existe.';
 const ERROR_DESTINATION_NOT_WRITEABLE = 'Error: No se puede escribir en el destino.';
 const ERROR_FILE_NOT_SAVED = 'Error: El archivo subido no se ha guardado.';
 const ERROR_FILETYPE_NOT_ALLOWED = 'Error: Extensión de archivo no permitida.';
-const SUCCESS_FILE_SAVED_SUCCESSFULLY = 'Exito: Archivo guardado con éxito.';
+const SUCCESS_FILE_SAVED_SUCCESSFULLY = 'Éxito: Archivo guardado con éxito.';
 const WARNING_NO_FILE_UPLOADED = 'Advertencia: No se ha subido ningun archivo.';
 
 // bootstrap helper

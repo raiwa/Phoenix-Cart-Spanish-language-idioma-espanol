@@ -20,6 +20,6 @@ define('HEADING_NEW_LOGO', 'Subir un nuevo logo');
 define('TEXT_LOGO_IMAGE', 'Nuevo Logo:');
 define('TEXT_FORMAT_AND_LOCATION', 'El logotipo de la tienda debe ser en formato PNG y debe ser guardado como:');
 
-define('SUCCESS_LOGO_UPDATED', 'Exito: ¡El logotipo de la tienda ha sido correctamente actualizado!');
+define('SUCCESS_LOGO_UPDATED', 'Éxito: El logotipo de la tienda ha sido correctamente actualizado!');
 
 define('ERROR_IMAGES_DIRECTORY_NOT_WRITEABLE', 'Error: El directorio de Imágenes no puede ser subido a . (<a href="%s">clic para revisar los permisos del directorio</a>)');
