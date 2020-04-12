@@ -20,7 +20,7 @@ define('TABLE_HEADING_ACTION', 'Acción');
 define('TEXT_INFO_EDIT_INTRO', 'Por favor realice los cambios necesarios');
 define('TEXT_INFO_ORDERS_STATUS_NAME', 'Estado de Pedido:');
 define('TEXT_INFO_INSERT_INTRO', 'Introduzca un nombre y los datos del nuevo estado de pedido');
-define('TEXT_INFO_DELETE_INTRO', 'Esta seguro que desea eliminar permanentemente este estado de pedido ?');
+define('TEXT_INFO_DELETE_INTRO', '¿Esta seguro que desea eliminar permanentemente este estado de pedido?');
 define('TEXT_INFO_HEADING_NEW_ORDERS_STATUS', 'Nuevo Estado de Pedido');
 define('TEXT_INFO_HEADING_EDIT_ORDERS_STATUS', 'Editar Estado de Pedido');
 define('TEXT_INFO_HEADING_DELETE_ORDERS_STATUS', 'Eliminar Estado de Pedido');

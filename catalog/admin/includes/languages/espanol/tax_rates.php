@@ -29,7 +29,7 @@ define('TEXT_INFO_TAX_RATE', 'Tasa (%):');
 define('TEXT_INFO_TAX_RATE_PRIORITY', 'Impuestos con la misma prioridad se suman, los demás se aplican sucesivamente.<br /><br />Prioridad:');
 define('TEXT_INFO_RATE_DESCRIPTION', 'Descripción:<br>%s');
 define('TEXT_INFO_INSERT_INTRO', 'Introduzca un nombre y los datos de la nueva tasa');
-define('TEXT_INFO_DELETE_INTRO', 'Seguro que desea eliminar esta tasa?');
+define('TEXT_INFO_DELETE_INTRO', '¿Seguro que desea eliminar esta tasa?');
 define('TEXT_INFO_HEADING_NEW_TAX_RATE', 'Nueva Tasa');
 define('TEXT_INFO_HEADING_EDIT_TAX_RATE', 'Editar Tasa');
 define('TEXT_INFO_HEADING_DELETE_TAX_RATE', 'Eliminar Tasa');

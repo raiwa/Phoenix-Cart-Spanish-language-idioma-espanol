@@ -32,9 +32,9 @@ define('TEXT_MANUFACTURERS_NAME', 'Nombre del fabricante:');
 define('TEXT_MANUFACTURERS_IMAGE', 'Imagen del fabricante:');
 define('TEXT_MANUFACTURERS_URL', 'URL del fabricante:');
 
-define('TEXT_DELETE_INTRO', 'Seguro que desea eliminar este fabricante ?');
-define('TEXT_DELETE_IMAGE', 'Eliminar imagen del fabricante ?');
-define('TEXT_DELETE_PRODUCTS', 'Quiere borrar también todos los productos de este fabricante ? (incluyendo comentarios, ofertas y los productos próximamente disponibles)');
+define('TEXT_DELETE_INTRO', '¿Seguro que desea eliminar este fabricante?');
+define('TEXT_DELETE_IMAGE', '¿Eliminar imagen del fabricante?');
+define('TEXT_DELETE_PRODUCTS', '¿Quiere borrar también todos los productos de este fabricante? (incluyendo comentarios, ofertas y los productos próximamente disponibles)');
 define('TEXT_DELETE_WARNING_PRODUCTS', '<strong>ADVERTENCIA:</strong> Aùn hay productos que pertenecen a este fabricante!');
 
 define('ERROR_DIRECTORY_NOT_WRITEABLE', 'Error: No puedo escribir en este directorio. Asigne los permisos adecuados a: %s');

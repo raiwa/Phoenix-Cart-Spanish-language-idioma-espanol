@@ -60,7 +60,7 @@ define('ENTRY_NOTIFY_COMMENTS', 'Añadir Comentarios:');
 define('ENTRY_PRINTABLE', 'Imprimir Factura');
 
 define('TEXT_INFO_HEADING_DELETE_ORDER', 'Eliminar Pedido');
-define('TEXT_INFO_DELETE_INTRO', 'Seguro que quiere eliminar este pedido ?');
+define('TEXT_INFO_DELETE_INTRO', '¿Seguro que quiere eliminar este pedido?');
 define('TEXT_INFO_RESTOCK_PRODUCT_QUANTITY', 'Añadir productos al almacen');
 define('TEXT_DATE_ORDER_CREATED', 'Creado el:');
 define('TEXT_DATE_ORDER_LAST_MODIFIED', 'Última Modificación:');
