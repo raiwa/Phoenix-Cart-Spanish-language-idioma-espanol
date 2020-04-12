@@ -24,5 +24,5 @@
   define('MODULE_CONTENT_SC_NO_PRODUCTS_TITLE', 'Mensaje No hay Productos');
   define('MODULE_CONTENT_SC_NO_PRODUCTS_DESCRIPTION', 'Mostrar el Mensaje No hay Productos en la página de Carrito de Compra.');
 
-  define('MODULE_CONTENT_SC_NO_PRODUCTS_TEXT_CART_EMPTY', 'Su Cesta de la Compra esta vacía!');
+  define('MODULE_CONTENT_SC_NO_PRODUCTS_TEXT_CART_EMPTY', '¡Su Cesta de la Compra esta vacía!');
   define('MODULE_CONTENT_SC_NO_PRODUCTS_BUTTON_CONTINUE', 'Continuar');

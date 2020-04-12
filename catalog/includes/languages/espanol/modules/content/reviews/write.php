@@ -29,5 +29,5 @@ define('TEXT_REVIEW_RECEIVED', '%s gracias por su opinión. Se ha presentado al 
 
 define('TEXT_REVIEW_WRITING', '<p class="lead">%s, por favor, háganos saber sus opiniones y calificación sobre %s - gracias!</p><p>Después de presionar el botón "Enviar", se presentará al propietario de la tienda y debería aparecer en la tienda en breve.</p>');
 
-define('TEXT_NOT_PURCHASED', '%s parece haber un conflicto! ¡No ha comprado este producto!');
-define('TEXT_ALREADY_REVIEWED', '%s parece haber un conflicto! ¡Ya ha valorado este producto!');
+define('TEXT_NOT_PURCHASED', '¡%s parece haber un conflicto! ¡No ha comprado este producto!');
+define('TEXT_ALREADY_REVIEWED', '¡%s parece haber un conflicto! ¡Ya ha valorado este producto!');

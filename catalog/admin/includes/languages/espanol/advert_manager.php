@@ -48,7 +48,7 @@ define('TEXT_INSERT_NOTE', '
   <li>El campo "Guardar en directorio" debe ser un directorio existente con barra final (por ejemplo, anuncios/ o carruseles/).</li>
 </ul>');
 
-define('TEXT_IMAGE_NONEXISTENT', 'FALTA la imagen!');
+define('TEXT_IMAGE_NONEXISTENT', '¡FALTA la imagen!');
 
 define('TEXT_ADVERT_DATE_ADDED', 'AñAdido el: %s');
 define('TEXT_ADVERT_STATUS_CHANGE', 'Cambio de Estado: %s');

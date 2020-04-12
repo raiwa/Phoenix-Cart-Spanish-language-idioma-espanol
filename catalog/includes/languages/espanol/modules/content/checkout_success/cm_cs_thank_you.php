@@ -13,7 +13,7 @@
   define('MODULE_CONTENT_CHECKOUT_SUCCESS_THANK_YOU_TITLE', 'Gracias');
   define('MODULE_CONTENT_CHECKOUT_SUCCESS_THANK_YOU_DESCRIPTION', 'Mostrar sección de Gracias en la página de Pedido con éxito.');
 
-  define('MODULE_CONTENT_CHECKOUT_SUCCESS_TEXT_THANKS_FOR_SHOPPING', 'Gracias!');
+  define('MODULE_CONTENT_CHECKOUT_SUCCESS_TEXT_THANKS_FOR_SHOPPING', '¡Gracias!');
 
   define('MODULE_CONTENT_CHECKOUT_SUCCESS_TEXT_SUCCESS', '<p class="font-weight-lighter mb-0"><b>Su pedido ha sido enviado al propietario de la tienda para su preparación y embalaje. Recibirá una notificación por correo electrónico cuando su paquete esté enviado.</b></p>');
 
