@@ -37,7 +37,7 @@ define('ERROR_REMOVE_UNLOCKED_NEWSLETTER', 'Error: Bloquee el boletín antes de 
 define('ERROR_EDIT_UNLOCKED_NEWSLETTER', 'Error: Bloquee el boletín antes de editarlo.');
 define('ERROR_SEND_UNLOCKED_NEWSLETTER', 'Error: Bloquee el boletín antes de enviarlo.');
 
-define('ERROR_NEWSLETTER_MODULE_NOT_EXISTS', 'Error: EL Módulo no existe');
+define('ERROR_NEWSLETTER_MODULE_NOT_EXISTS', 'Error: El Módulo no existe');
 
-define('TEXT_TITLE', 'Títulotulo:');
+define('TEXT_TITLE', 'Título:');
 define('TEXT_CONTENT', 'Contenido:');
