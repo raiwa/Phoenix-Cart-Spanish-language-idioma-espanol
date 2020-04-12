@@ -29,5 +29,5 @@ define('TEXT_SET_PUBLIC_STATUS', 'Mostrar el pedido al cliente en este nivel de 
 define('TEXT_SET_DOWNLOADS_STATUS', 'Permitir la descarga de productos virtuales en este estado de pedido');
 
 define('ERROR_REMOVE_DEFAULT_ORDER_STATUS', 'Error: El estado de pedido por defecto no se puede eliminar. Establezca otro estado de pedido predeterminado y pruebe de nuevo.');
-define('ERROR_STATUS_USED_IN_ORDERS', 'Error: Este estado de pedido esta siendo usado actualmente.');
-define('ERROR_STATUS_USED_IN_HISTORY', 'Error: Este estado de pedido se esta usando en algún histórico de estados de pedido.');
+define('ERROR_STATUS_USED_IN_ORDERS', 'Error: Este estado de pedido está siendo usado actualmente.');
+define('ERROR_STATUS_USED_IN_HISTORY', 'Error: Este estado de pedido se está usando en algún histórico de estados de pedido.');
