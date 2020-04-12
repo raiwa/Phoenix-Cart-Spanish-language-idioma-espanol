@@ -29,6 +29,6 @@ define('TABLE_TEXT_MAX_COUNT', 'Número máximo de descargas:');
 define('MAX_ROW_LISTS_OPTIONS', 10);
 
 define('TEXT_WARNING_OF_DELETE', 'Esta opción tiene productos y valores - no es seguro eliminarla.');
-define('TEXT_OK_TO_DELETE', 'Esta opción no esta en uso - es seguro eliminarla.');
+define('TEXT_OK_TO_DELETE', 'Esta opción no está en uso - es seguro eliminarla.');
 define('TEXT_OPTION_ID', 'ID de Opción');
 define('TEXT_OPTION_NAME', 'Nombre de Opción');

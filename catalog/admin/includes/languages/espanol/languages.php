@@ -23,7 +23,7 @@ define('TEXT_INFO_LANGUAGE_IMAGE', 'Imagen:');
 define('TEXT_INFO_LANGUAGE_DIRECTORY', 'Directorio:');
 define('TEXT_INFO_LANGUAGE_SORT_ORDER', 'Orden:');
 define('TEXT_INFO_INSERT_INTRO', 'Introduzca los datos del nuevo idioma');
-define('TEXT_INFO_DELETE_INTRO', 'Seguro que quiere eliminar este idioma ?');
+define('TEXT_INFO_DELETE_INTRO', '¿Seguro que quiere eliminar este idioma?');
 define('TEXT_INFO_HEADING_NEW_LANGUAGE', 'Nuevo Idioma');
 define('TEXT_INFO_HEADING_EDIT_LANGUAGE', 'Editar Idioma');
 define('TEXT_INFO_HEADING_DELETE_LANGUAGE', 'Eliminar Idioma');

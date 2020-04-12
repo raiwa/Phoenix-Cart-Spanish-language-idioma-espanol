@@ -32,5 +32,5 @@ define('TEXT_INFO_EXPIRES_DATE', 'Fecha de Caducidad:');
 define('TEXT_INFO_STATUS_CHANGE', 'Cambio de Estado:');
 
 define('TEXT_INFO_HEADING_DELETE_SPECIALS', 'Eliminar Oferta especial');
-define('TEXT_INFO_DELETE_INTRO', 'Seguro que desea eliminar este precio de oferta especial?');
+define('TEXT_INFO_DELETE_INTRO', '¿Seguro que desea eliminar este precio de oferta especial?');
 define('BUTTON_INSERT_SPECIAL', 'Añadir nueva Oferta especial');

@@ -13,6 +13,6 @@
   const MODULE_CONTENT_CAS_TITLE_TITLE        = 'Título de página';
   const MODULE_CONTENT_CAS_TITLE_DESCRIPTION  = 'Muestra el título de Página.';
   
-  const MODULE_CONTENT_CAS_TITLE_PUBLIC_TITLE = 'Gracias por crear su cuenta!';
+  const MODULE_CONTENT_CAS_TITLE_PUBLIC_TITLE = '¡Gracias por crear su cuenta!';
 
   

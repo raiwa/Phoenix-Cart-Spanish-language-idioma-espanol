@@ -25,7 +25,7 @@ define('ENTRY_REVIEW', 'Comentario:');
 define('ENTRY_REVIEW_TEXT', '<span class="text-danger font-weight-bold">NOTE:</span> ¡El código HTML no se interpretará!');
 define('ENTRY_RATING', 'Valoración:');
 
-define('TEXT_INFO_DELETE_REVIEW_INTRO', 'Seguro que desea eliminar este comentario?');
+define('TEXT_INFO_DELETE_REVIEW_INTRO', '¿Seguro que desea eliminar este comentario?');
 
 define('TEXT_INFO_DATE_ADDED', 'Fecha Alta: %s');
 define('TEXT_INFO_LAST_MODIFIED', 'Última Modificación: %s');

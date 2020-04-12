@@ -9,7 +9,7 @@ no_entries = No se han encontrado entradas de registro.
 
 listing_number_of_log_entries = Mostrando <strong>%d</strong> a <strong>%d</strong> (de <strong>%d</strong> entradas)
 
-dialog_delete_title = Eliminar todas las entradas del registro?
+dialog_delete_title = ¿Eliminar todas las entradas del registro?
 dialog_delete_body = ¿Está seguro de que desea eliminar todas las entradas de registro?
 
 table_heading_entries_request = Solicitud
