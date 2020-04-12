@@ -50,7 +50,7 @@ define('TEXT_INSERT_NOTE', '
 
 define('TEXT_IMAGE_NONEXISTENT', '¡FALTA la imagen!');
 
-define('TEXT_ADVERT_DATE_ADDED', 'AñAdido el: %s');
+define('TEXT_ADVERT_DATE_ADDED', 'Añadido el: %s');
 define('TEXT_ADVERT_STATUS_CHANGE', 'Cambio de Estado: %s');
 
 define('TEXT_INFO_DELETE_INTRO', '¿Está seguro que quiere eliminar este anuncio?');
