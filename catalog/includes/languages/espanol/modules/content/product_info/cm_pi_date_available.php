@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_CONTENT_PI_DATE_AVAILABLE_TITLE', 'Date Available');
-  define('MODULE_CONTENT_PI_DATE_AVAILABLE_DESCRIPTION', 'Shows the Date Available (if set) on the Product Info Page.');
+  const MODULE_CONTENT_PI_DATE_AVAILABLE_TITLE       = 'Fecha de disponibilidad';
+  const MODULE_CONTENT_PI_DATE_AVAILABLE_DESCRIPTION = 'Muestra la fecha de disponibilidad (si está configurada) en la página de información del producto.';
   
-  define('MODULE_CONTENT_PI_DATE_AVAILABLE_TEXT', 'This product will be in stock on %s.');
+  const MODULE_CONTENT_PI_DATE_AVAILABLE_TEXT        = 'Disponible a partir del:<span class="badge badge-primary badge-pill">%s</span>';
