@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_CONTENT_PRODUCT_INFO_ALSO_PURCHASED_TITLE', 'Also Purchased');
-  define('MODULE_CONTENT_PRODUCT_INFO_ALSO_PURCHASED_DESCRIPTION', 'Show Also Purchased block on the product info page.');
-
-  define('MODULE_CONTENT_PRODUCT_INFO_ALSO_PURCHASED_PUBLIC_TITLE', 'Customers who bought this product also purchased');
+  const MODULE_CONTENT_PRODUCT_INFO_ALSO_PURCHASED_TITLE        = 'Tanbién han comprado';
+  const MODULE_CONTENT_PRODUCT_INFO_ALSO_PURCHASED_DESCRIPTION  = 'Muestra el bloque "También han comprado" en la página de producto.';
+  
+  const MODULE_CONTENT_PRODUCT_INFO_ALSO_PURCHASED_PUBLIC_TITLE = 'También podría gustarte...';
