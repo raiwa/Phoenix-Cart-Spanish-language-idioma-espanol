@@ -13,4 +13,4 @@
   const MODULE_CONTENT_PI_BUY_TITLE = 'Botón Comprar';
   const MODULE_CONTENT_PI_BUY_DESCRIPTION = 'Muestra el botón comprar en la página de producto.';
 
-  const MODULE_CONTENT_PI_BUY_BUTTON_TEXT = 'Añadir a la Cesta';
+  const MODULE_CONTENT_PI_BUY_BUTTON_TEXT = 'Añadir al Carrito';

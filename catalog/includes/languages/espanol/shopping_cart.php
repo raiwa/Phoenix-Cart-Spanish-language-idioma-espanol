@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Contenido de la Cesta');
+define('NAVBAR_TITLE', 'Contenido del Carrito');

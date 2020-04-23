@@ -24,4 +24,4 @@
   define('MODULE_CONTENT_SC_TITLE_TITLE', 'Titulo de página');
   define('MODULE_CONTENT_SC_TITLE_DESCRIPTION', 'Muestra el Titulo de página.');
 
-  define('MODULE_CONTENT_SC_TITLE_PUBLIC_TITLE', '¿Qué hay en mi Cesta?');
+  define('MODULE_CONTENT_SC_TITLE_PUBLIC_TITLE', '¿Qué hay en mi Carrito?');

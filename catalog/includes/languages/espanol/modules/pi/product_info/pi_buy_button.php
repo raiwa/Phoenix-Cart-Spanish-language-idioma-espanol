@@ -13,4 +13,4 @@
   const PI_BUY_TITLE       = 'Botón Comprar';
   const PI_BUY_DESCRIPTION = 'Muestra el botón comprar en la página de producto.<div class="secInfo">Este es un módulo secundario para usar con el sistema &pi;.</div>';
 
-  const PI_BUY_BUTTON_TEXT = 'Añadir a la Cesta';
+  const PI_BUY_BUTTON_TEXT = 'Añadir al Carrito';
