@@ -13,4 +13,4 @@
   const MODULE_CONTENT_CHECKOUT_SUCCESS_TITLE_TITLE        = 'Título Página';
   const MODULE_CONTENT_CHECKOUT_SUCCESS_TITLE_DESCRIPTION  = 'Muestra el título de la página.';
 
-  const MODULE_CONTENT_CHECKOUT_SUCCESS_TITLE_PUBLIC_TITLE = '¡Su Pedido has sido completado!';
+  const MODULE_CONTENT_CHECKOUT_SUCCESS_TITLE_PUBLIC_TITLE = '¡Su Pedido ha sido completado!';
