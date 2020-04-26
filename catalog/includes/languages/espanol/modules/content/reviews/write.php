@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2018 osCommerce
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
@@ -17,6 +17,9 @@ define('SUB_TITLE_REVIEW', 'Comentario');
 
 define('SUB_TITLE_RATING', 'Evaluación');
 define('SUB_TITLE_REVIEW_TEXT', 'Su Comentario...');
+define('SUB_TITLE_REVIEW_NICKNAME', 'Su nombre o apodo.');
+
+define('VERIFIED_BUYER', '%s [Comprador Verificado]');
 
 define('TEXT_BAD', '%s (Peor)');
 define('TEXT_GOOD', '%s (Mejor)');

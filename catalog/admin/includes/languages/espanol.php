@@ -139,6 +139,7 @@ const TEXT_SET_DEFAULT = 'Establecer como predeterminado/a';
 
 const TEXT_NONE = '--ninguno--';
 const TEXT_TOP = 'Principio';
+const TEXT_ALL = 'Todo';
 
 const ERROR_DESTINATION_DOES_NOT_EXIST = 'Error: Destino no existe.';
 const ERROR_DESTINATION_NOT_WRITEABLE = 'Error: No se puede escribir en el destino.';
