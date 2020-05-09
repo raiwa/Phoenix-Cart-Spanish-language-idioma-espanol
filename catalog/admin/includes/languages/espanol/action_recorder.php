@@ -25,4 +25,4 @@ define('TEXT_GUEST', 'Invitado');
 define('TEXT_INFO_IDENTIFIER', 'Identificador:');
 define('TEXT_INFO_DATE_ADDED', 'Fecha de Alta: %s');
 
-define('SUCCESS_EXPIRED_ENTRIES', 'Éxito: %s entradas caducadas se han eliminado.');
+define('SUCCESS_EXPIRED_ENTRIES', '<strong>Éxito:</strong> %s entradas caducadas se han eliminado.');

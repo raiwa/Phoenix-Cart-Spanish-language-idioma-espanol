@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-define('WARNING_FILE_UPLOADS_DISABLED', 'Advertencia: La subida de Archivos está desactivado en el archivo de configuración php.ini.');
+define('WARNING_FILE_UPLOADS_DISABLED', '<strong>Advertencia:</strong> La subida de Archivos está desactivado en el archivo de configuración php.ini.');

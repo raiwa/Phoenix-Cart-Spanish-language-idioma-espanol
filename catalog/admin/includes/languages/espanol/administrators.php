@@ -25,7 +25,7 @@ define('TEXT_INFO_NEW_PASSWORD', 'Nueva Contraseña:');
 define('TEXT_INFO_PASSWORD', 'Contraseña:');
 define('TEXT_INFO_PROTECT_WITH_HTPASSWD', 'Protegido con htaccess/htpasswd');
 
-define('ERROR_ADMINISTRATOR_EXISTS', 'Error: Administrador YA existe.');
+define('ERROR_ADMINISTRATOR_EXISTS', '<strong>Error:</strong> Administrador YA existe.');
 
 define('HTPASSWD_INFO', '<strong>Protección adicional con htaccess/htpasswd</strong><p>Esta Instalación de la Herramienta de Administración OSCOM CE Phoenix no está protegido a través de htaccess/htpasswd.</p><p>Si habilita la capa de seguridad htaccess/htpasswd, el nombre de usuario del administrador y su contraseña se guardarán automáticamente en el archivo htpasswd cuando actualice los datos de un administrador.</p><p><strong>Tenga en cuenta</strong>, que si esta capa adicional de seguridad está habilitada y usted no puede acceder a la herramienta de administración, realice los cambios siguientes y consulte a su proveedor de hosting para habilitar la protección de htaccess/htpasswd:</p><p><u><strong>1. Edite este archivo:</strong></u><br /><br />' . DIR_FS_ADMIN . '.htaccess</p><p>Quite las siguientes líneas si existen:</p><p><i>%s</i></p><p><u><strong>2. Elimine este archivo:</strong></u><br /><br />' . DIR_FS_ADMIN . '.htpasswd_oscommerce</p>');
 define('HTPASSWD_SECURED', '<strong>Protección adicional con htaccess/htpasswd</strong><p>Esta Instalación de la Herramienta de Administración OSCOM CE Phoenix no está adicionalmente protegida a través de htaccess/htpasswd.</p>');

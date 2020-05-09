@@ -17,9 +17,9 @@ define('TEXT_PASSWORD', 'Contraseña');
 
 define('TEXT_CREATE_FIRST_ADMINISTRATOR', '<div class="card-body"><div class="alert alert-danger card-text">No existen administradores en la Base de Datos. Por favor rellene la siguiente información para crear el primer administrador.<br><strong>Una entrada manual es requerido después de este paso.</strong></div></div>');
 
-define('ERROR_INVALID_ADMINISTRATOR', 'Error: Intento de entrar en administrador inválido.');
+define('ERROR_INVALID_ADMINISTRATOR', '<strong>Error:</strong> Intento de entrar en administrador inválido.');
 
 define('BUTTON_LOGIN', 'Entrar');
 define('BUTTON_CREATE_ADMINISTRATOR', 'Crear Administrador');
 
-define('ERROR_ACTION_RECORDER', 'Error: El máximo número de intentos de entrada ha sido realizado. Por favor inténtelo de nuevo en %s minutos.');
+define('ERROR_ACTION_RECORDER', '<strong>Error:</strong> El máximo número de intentos de entrada ha sido realizado. Por favor inténtelo de nuevo en %s minutos.');

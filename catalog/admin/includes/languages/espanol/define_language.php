@@ -26,4 +26,4 @@ define('TEXT_EDIT_NOTE', '<p class = "lead">Edición de definiciones</p>
 
 define('TEXT_FILE_DOES_NOT_EXIST', 'El archivo no existe.');
 
-define('ERROR_FILE_NOT_WRITEABLE', 'Error: No puedo escribir en este archivo. Asigne correctamente los permisos a: %s');
+define('ERROR_FILE_NOT_WRITEABLE', '<strong>Error:</strong> No puedo escribir en este archivo. Asigne correctamente los permisos a: %s');

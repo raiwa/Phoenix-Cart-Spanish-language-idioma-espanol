@@ -1,6 +1,6 @@
 <?php
 /*
-  $Id: espanol.php 1739 2007-12-20 00:52:16Z hpdl $
+  $Id: espanol.php
 
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
@@ -141,12 +141,12 @@ const TEXT_NONE = '--ninguno--';
 const TEXT_TOP = 'Principio';
 const TEXT_ALL = 'Todo';
 
-const ERROR_DESTINATION_DOES_NOT_EXIST = 'Error: Destino no existe.';
-const ERROR_DESTINATION_NOT_WRITEABLE = 'Error: No se puede escribir en el destino.';
-const ERROR_FILE_NOT_SAVED = 'Error: El archivo subido no se ha guardado.';
-const ERROR_FILETYPE_NOT_ALLOWED = 'Error: Extensión de archivo no permitida.';
-const SUCCESS_FILE_SAVED_SUCCESSFULLY = 'Éxito: Archivo guardado con éxito.';
-const WARNING_NO_FILE_UPLOADED = 'Advertencia: No se ha subido ningun archivo.';
+const ERROR_DESTINATION_DOES_NOT_EXIST = '<strong>Error:</strong> Destino no existe.';
+const ERROR_DESTINATION_NOT_WRITEABLE = '<strong>Error:</strong> No se puede escribir en el destino.';
+const ERROR_FILE_NOT_SAVED = '<strong>Error:</strong> El archivo subido no se ha guardado.';
+const ERROR_FILETYPE_NOT_ALLOWED = '<strong>Error:</strong> Extensión de archivo no permitida.';
+const SUCCESS_FILE_SAVED_SUCCESSFULLY = '<strong>Éxito:</strong> Archivo guardado con éxito.';
+const WARNING_NO_FILE_UPLOADED = '<strong>Advertencia:</strong> No se ha subido ningun archivo.';
 
 // bootstrap helper
 const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION = '<p>El ancho del contenido puede ser de 12 o menos por columna y fila.</p><p>12/12 = 100% ancho, 6/12 = 50% ancho, 4/12 = 33% ancho.</p><p>El total de todas las columnas en cualquier fila debe ser igual a 12 (ej:  3 cajas de 4 columnas cada una, 1 caja de 12 columnas etc).</p>';

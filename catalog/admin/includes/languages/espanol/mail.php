@@ -22,5 +22,5 @@ const TEXT_SELECT_CUSTOMER = 'Seleccionar Cliente';
 const TEXT_ALL_CUSTOMERS = 'Todos los Clientes';
 const TEXT_NEWSLETTER_CUSTOMERS = 'Todos los Suscritos';
 
-const NOTICE_EMAIL_SENT_TO = 'Aviso: Correo Electrónico enviado a: %s';
-const ERROR_NO_CUSTOMER_SELECTED = 'Error: No ha seleccionado ningún cliente.';
+const NOTICE_EMAIL_SENT_TO = '<strong>Aviso:</strong> Correo Electrónico enviado a: %s';
+const ERROR_NO_CUSTOMER_SELECTED = '<strong>Error:</strong> No ha seleccionado ningún cliente.';

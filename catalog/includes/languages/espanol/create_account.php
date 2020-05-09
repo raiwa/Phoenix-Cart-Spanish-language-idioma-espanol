@@ -10,8 +10,8 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE = 'Crear una Cuenta';
+const NAVBAR_TITLE = 'Crear un perfil';
 
-const HEADING_TITLE = 'Datos de Mi Cuenta';
+const HEADING_TITLE = 'Mi información de perfil';
 
-const TEXT_ORIGIN_LOGIN = '<span class="inputRequirement">NOTA:</span> Si ya ha pasado por este proceso y tiene una cuenta, por favor <a href="%s"><u>entre</u></a> en ella.';
+const TEXT_ORIGIN_LOGIN = '<span class="text-danger"><strong>NOTE:</strong></span> Si ya ha configurado un perfil, puede acceder a sus datos en nuestra <a class="alert-link" href="%s"><u>página de inicio de sesión</u></a>.';

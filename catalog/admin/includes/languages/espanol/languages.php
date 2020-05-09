@@ -29,4 +29,4 @@ define('TEXT_INFO_HEADING_NEW_LANGUAGE', 'Nuevo Idioma');
 define('TEXT_INFO_HEADING_EDIT_LANGUAGE', 'Editar Idioma');
 define('TEXT_INFO_HEADING_DELETE_LANGUAGE', 'Eliminar Idioma');
 
-define('ERROR_REMOVE_DEFAULT_LANGUAGE', 'Error: El idioma seleccionado por defecto no se puede eliminar. Seleccione otro idioma predeterminado y pruebe de nuevo.');
+define('ERROR_REMOVE_DEFAULT_LANGUAGE', '<strong>Error:</strong> El idioma seleccionado por defecto no se puede eliminar. Seleccione otro idioma predeterminado y pruebe de nuevo.');

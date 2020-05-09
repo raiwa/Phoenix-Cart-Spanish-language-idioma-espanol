@@ -56,18 +56,18 @@ define('TEXT_ADVERT_STATUS_CHANGE', 'Cambio de Estado: %s');
 define('TEXT_INFO_DELETE_INTRO', '¿Está seguro que quiere eliminar este anuncio?');
 define('TEXT_INFO_DELETE_IMAGE', 'Eliminar Imagen');
 
-define('SUCCESS_IMAGE_INSERTED', 'Éxito: Nuevo anuncio insertado.');
-define('SUCCESS_IMAGE_UPDATED', 'Éxito: Este anuncio ha sido actualizado.');
-define('SUCCESS_IMAGE_REMOVED', 'Éxito: Este anuncio ha sido eliminado.');
-define('SUCCESS_ADVERT_STATUS_UPDATED', 'Éxito: El estado de este anuncio se ha actualizado.');
+define('SUCCESS_IMAGE_INSERTED', '<strong>Éxito:</strong> Nuevo anuncio insertado.');
+define('SUCCESS_IMAGE_UPDATED', '<strong>Éxito:</strong> Este anuncio ha sido actualizado.');
+define('SUCCESS_IMAGE_REMOVED', '<strong>Éxito:</strong> Este anuncio ha sido eliminado.');
+define('SUCCESS_ADVERT_STATUS_UPDATED', '<strong>Éxito:</strong> El estado de este anuncio se ha actualizado.');
 
-define('ERROR_ADVERT_TITLE_REQUIRED', 'Error: Se requiere un TÍTULO de anuncio.');
-define('ERROR_ADVERT_GROUP_REQUIRED', 'Error: Se requiere un GRUPO de anuncios.');
-define('ERROR_IMAGE_DIRECTORY_DOES_NOT_EXIST', 'Error: El directorio de destino no existe: %s');
-define('ERROR_IMAGE_DIRECTORY_NOT_WRITEABLE', 'Error: No se puede escribir en el directorio de destino: %s');
-define('ERROR_IMAGE_DOES_NOT_EXIST', 'Error: La imagen no existe.');
-define('ERROR_IMAGE_IS_NOT_WRITEABLE', 'Error: La imagen no se puede eliminar.');
-define('ERROR_ADVERT_IMAGE_OR_TEXT_REQUIRED', 'Error: No ha insertado imagen o texto. Los anuncios necesitan Imagen/Texto/Ambos para mostrarse.');
+define('ERROR_ADVERT_TITLE_REQUIRED', '<strong>Error:</strong> Se requiere un TÍTULO de anuncio.');
+define('ERROR_ADVERT_GROUP_REQUIRED', '<strong>Error:</strong> Se requiere un GRUPO de anuncios.');
+define('ERROR_IMAGE_DIRECTORY_DOES_NOT_EXIST', '<strong>Error:</strong> El directorio de destino no existe: %s');
+define('ERROR_IMAGE_DIRECTORY_NOT_WRITEABLE', '<strong>Error:</strong> No se puede escribir en el directorio de destino: %s');
+define('ERROR_IMAGE_DOES_NOT_EXIST', '<strong>Error:</strong> La imagen no existe.');
+define('ERROR_IMAGE_IS_NOT_WRITEABLE', '<strong>Error:</strong> La imagen no se puede eliminar.');
+define('ERROR_ADVERT_IMAGE_OR_TEXT_REQUIRED', '<strong>Error:</strong> No ha insertado imagen o texto. Los anuncios necesitan Imagen/Texto/Ambos para mostrarse.');
 
 define('TEXT_DISPLAY_NUMBER_OF_ADVERTS', 'Mostrando <b>%s</b> a <b>%s</b> de <b>%s</b> Anuncios');
 define('IMAGE_NEW_ADVERT', 'Nuevo Anuncio');
@@ -77,4 +77,4 @@ define('TEXT_ADVERT_INTERNAL_URL', '<i class="fas fa-link mr-1"></i> enlace inte
 
 define('IMAGE_IMPORT_ADVERT', 'Intento de importación de banner');
 define('IMAGE_IMPORT_ADVERT_EXPLANATION', 'Esto importará datos de la tabla de la base de datos "banners". Es posible que deba eliminar algunos de los datos después de la importación, ya que los "banners" nunca fueron para uso en Carousel ...');
-define('SUCCESS_BANNERS_IMPORTED', 'Éxito: ¡La tabla de banners ha sido importada!');
+define('SUCCESS_BANNERS_IMPORTED', '<strong>Éxito:</strong> ¡La tabla de banners ha sido importada!');

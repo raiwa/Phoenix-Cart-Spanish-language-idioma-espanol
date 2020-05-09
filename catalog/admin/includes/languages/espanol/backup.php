@@ -38,12 +38,12 @@ define('TEXT_BACKUP_DIRECTORY', 'Directorio para las Copias de Seguridad:<br>%s'
 define('TEXT_LAST_RESTORATION', 'Última Restauración:<br>%s');
 define('TEXT_FORGET', 'Olvidar)');
 
-define('ERROR_BACKUP_DIRECTORY_DOES_NOT_EXIST', 'Error: No existe directorio para las copias de seguridad. Por favor, defínalo en el archivo configure.php');
-define('ERROR_BACKUP_DIRECTORY_NOT_WRITEABLE', 'Error: El directorio para las copias de seguridad no tiene permisos de escritura.');
-define('ERROR_DOWNLOAD_LINK_NOT_ACCEPTABLE', 'Error: Enlace de Descarga no válido.');
+define('ERROR_BACKUP_DIRECTORY_DOES_NOT_EXIST', '<strong>Error:</strong> No existe directorio para las copias de seguridad. Por favor, defínalo en el archivo configure.php');
+define('ERROR_BACKUP_DIRECTORY_NOT_WRITEABLE', '<strong>Error:</strong> El directorio para las copias de seguridad no tiene permisos de escritura.');
+define('ERROR_DOWNLOAD_LINK_NOT_ACCEPTABLE', '<strong>Error:</strong> Enlace de Descarga no válido.');
 
-define('SUCCESS_LAST_RESTORE_CLEARED', 'Éxito: La última fecha de restauración ha sido borrada.');
-define('SUCCESS_DATABASE_SAVED', 'Éxito: La base de datos ha sido guardada.');
-define('SUCCESS_DATABASE_RESTORED', 'Éxito: La base de datos ha sido restaurada.');
-define('SUCCESS_BACKUP_DELETED', 'Éxito: La copia de seguridad ha sido eliminada.');
+define('SUCCESS_LAST_RESTORE_CLEARED', '<strong>Éxito:</strong> La última fecha de restauración ha sido borrada.');
+define('SUCCESS_DATABASE_SAVED', '<strong>Éxito:</strong> La base de datos ha sido guardada.');
+define('SUCCESS_DATABASE_RESTORED', '<strong>Éxito:</strong> La base de datos ha sido restaurada.');
+define('SUCCESS_BACKUP_DELETED', '<strong>Éxito:</strong> La copia de seguridad ha sido eliminada.');
 define('TEXT_INFO_BACKUP_SIZE', '%s MB');

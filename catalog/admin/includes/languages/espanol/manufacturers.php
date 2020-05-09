@@ -37,8 +37,8 @@ define('TEXT_DELETE_IMAGE', '¿Eliminar imagen del fabricante?');
 define('TEXT_DELETE_PRODUCTS', '¿Quiere borrar también todos los productos de este fabricante? (incluyendo comentarios, ofertas y los productos próximamente disponibles)');
 define('TEXT_DELETE_WARNING_PRODUCTS', '<strong>ADVERTENCIA:</strong> ¡Aún hay productos que pertenecen a este fabricante!');
 
-define('ERROR_DIRECTORY_NOT_WRITEABLE', 'Error: No puedo escribir en este directorio. Asigne los permisos adecuados a: %s');
-define('ERROR_DIRECTORY_DOES_NOT_EXIST', 'Error: El directorio no existe: %s');
+define('ERROR_DIRECTORY_NOT_WRITEABLE', '<strong>Error:</strong> No puedo escribir en este directorio. Asigne los permisos adecuados a: %s');
+define('ERROR_DIRECTORY_DOES_NOT_EXIST', '<strong>Error:</strong> El directorio no existe: %s');
 
 define('TEXT_MANUFACTURERS_DESCRIPTION', 'Descripción del fabricante: <br><small>se muestra en la página del fabricante</small>');
 define('TEXT_EDIT_MANUFACTURERS_DESCRIPTION', 'Editar la Descripción del Fabricante:');

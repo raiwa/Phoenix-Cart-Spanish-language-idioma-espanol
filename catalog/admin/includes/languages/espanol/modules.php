@@ -12,7 +12,6 @@
 
 const TABLE_HEADING_MODULES = 'Módulos';
 const TABLE_HEADING_SORT_ORDER = 'Orden';
-const TABLE_HEADING_ENABLED = 'Activo';
 const TABLE_HEADING_ACTION = 'Acción';
 
 const TEXT_INFO_VERSION = 'Versión:';

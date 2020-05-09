@@ -15,4 +15,4 @@
 
   define('MODULE_CONTENT_LOGIN_HEADING_NEW_CUSTOMER', 'Nuevo Cliente');
   define('MODULE_CONTENT_LOGIN_TEXT_NEW_CUSTOMER', 'Soy un nuevo cliente.');
-  define('MODULE_CONTENT_LOGIN_TEXT_NEW_CUSTOMER_INTRODUCTION', 'Al crear una cuenta en ' . STORE_NAME . ' usted será capaz de realizar sus compras rapidamente, revisar el estado de sus pedidos, y realizar un seguimiento de los pedidos que ha hecho anteriormente.');
+  define('MODULE_CONTENT_LOGIN_TEXT_NEW_CUSTOMER_INTRODUCTION', 'Al crear un perfil en ' . STORE_NAME . ' usted será capaz de realizar sus compras rapidamente, revisar el estado de sus pedidos, y realizar un seguimiento de los pedidos que ha hecho anteriormente.');
