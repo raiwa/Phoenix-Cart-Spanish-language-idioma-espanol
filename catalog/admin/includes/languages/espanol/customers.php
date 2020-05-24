@@ -5,7 +5,7 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2013 osCommerce
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
@@ -13,9 +13,9 @@
 const HEADING_TITLE = 'Clientes';
 const HEADING_TITLE_SEARCH = 'Buscar:';
 
-const TABLE_HEADING_FIRSTNAME = 'Nombre';
-const TABLE_HEADING_LASTNAME = 'Apellidos';
+const TABLE_HEADING_NAME = 'Nombre';
 const TABLE_HEADING_ACCOUNT_CREATED = 'Cuenta Creada';
+
 const TABLE_HEADING_ACTION = 'Acción';
 
 const TEXT_DATE_ACCOUNT_CREATED = 'Cuenta Creada:';
