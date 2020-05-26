@@ -29,7 +29,6 @@ define('TEXT_INFO_DELETE_REVIEW_INTRO', '¿Seguro que desea eliminar este coment
 
 define('TEXT_INFO_DATE_ADDED', 'Fecha Alta: %s');
 define('TEXT_INFO_LAST_MODIFIED', 'Última Modificación: %s');
-define('TEXT_INFO_IMAGE_NONEXISTENT', 'NO EXISTE IMAGEN');
 define('TEXT_INFO_REVIEW_AUTHOR', 'Autor: %s');
 define('TEXT_INFO_REVIEW_RATING', 'Valoración: %s');
 define('TEXT_INFO_REVIEW_READ', 'Leido: %s');

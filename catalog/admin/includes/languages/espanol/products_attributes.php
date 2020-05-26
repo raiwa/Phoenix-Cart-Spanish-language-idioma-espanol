@@ -32,3 +32,5 @@ define('TEXT_WARNING_OF_DELETE', 'Esta opción tiene productos y valores - no es
 define('TEXT_OK_TO_DELETE', 'Esta opción no está en uso - es seguro eliminarla.');
 define('TEXT_OPTION_ID', 'ID de Opción');
 define('TEXT_OPTION_NAME', 'Nombre de Opción');
+
+const PLEASE_SELECT_OPTION = '--- Por Favor Seleccione ---';
