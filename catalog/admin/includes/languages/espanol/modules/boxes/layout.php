@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('BOX_HEADING_LAYOUT', '<i title="Módulos de diseño" data-toggle="tooltip" data-placement="right" class="fas fa-puzzle-piece fa-fw mr-1"></i><span class="d-inline d-md-none">Módulos de diseño</span>');
+  define('BOX_HEADING_LAYOUT', '<i title="Módulos de diseño" data-toggle="tooltip" data-placement="right" class="fas fa-puzzle-piece fa-fw mr-1"></i><span class="d-inline d-md-none d-xl-inline">Módulos de diseño</span>');

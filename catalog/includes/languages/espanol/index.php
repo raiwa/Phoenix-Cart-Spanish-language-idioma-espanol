@@ -24,8 +24,4 @@ define('TEXT_ALL_MANUFACTURERS', 'Todos los fabricantes');
 if ( ($category_depth == 'top') && (!isset($_GET['manufacturers_id'])) ) {
   define('META_SEO_TITLE', 'Título de la página Index');
   define('META_SEO_DESCRIPTION', 'Esta es la descripción de su sitio para ser utilizado en el META Elemento Descripción');
-  /*
-  Las palabras clave son INÚTILES a menos que usted está vendiendo en China y quiere que se enumeren en el motor de búsqueda Baidu
-  */
-  define('META_SEO_KEYWORDS', 'estos, son, las, palabras clave, separadas, por, coma, utilizados en el META Elemento Keywords');
 }

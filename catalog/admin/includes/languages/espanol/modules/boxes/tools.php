@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('BOX_HEADING_TOOLS', '<i title="Herramientas" data-toggle="tooltip" data-placement="right" class="fas fa-tools fa-fw mr-1"></i><span class="d-inline d-md-none">Herramientas</span>');
+  define('BOX_HEADING_TOOLS', '<i title="Herramientas" data-toggle="tooltip" data-placement="right" class="fas fa-tools fa-fw mr-1"></i><span class="d-inline d-md-none d-xl-inline">Herramientas</span>');

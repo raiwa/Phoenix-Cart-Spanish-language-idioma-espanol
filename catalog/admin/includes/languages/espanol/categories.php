@@ -108,16 +108,14 @@ const TEXT_EDIT_CATEGORIES_DESCRIPTION = 'Editar la Descripción de la Categorí
 
 const TEXT_CATEGORIES_SEO_DESCRIPTION = 'Descripción de la Categoría para SEO:<br><small>Añadir un elemento Meta &lt;description&gt;.</small>';
 const TEXT_EDIT_CATEGORIES_SEO_DESCRIPTION = 'Editar la Descripción de la Categoría para SEO:<br><small>Cambia el elemento Meta &lt;description&gt;.</small>';
-const TEXT_CATEGORIES_SEO_KEYWORDS = 'Palabras clave Meta de la categoría para SEO:<br><small>Añadir un elemento Meta &lt;keyword&gt;.<br>Deben estar separados por comas.</small>';
-const TEXT_EDIT_CATEGORIES_SEO_KEYWORDS = 'Editar las Palabras clave para SEO:<br><small>Cambia el elemento Meta &lt;keyword&gt;.<br>Deben estar separados por comas.</small>';
 
 const TEXT_PRODUCTS_GTIN = 'GTIN del Producto';
 const TEXT_PRODUCTS_GTIN_HELP = 'GTIN debe ser almacenado como 14 Dígitos. Cualquier GTIN inferior a esto se rellenará con ceros a la izquierda para cumplir con las especificaciones GTIN.';
 
 const TEXT_PRODUCTS_SEO_DESCRIPTION = 'Descripción Meta para SEO';
 const TEXT_PRODUCTS_SEO_DESCRIPTION_HELP = 'Añadir un elemento Meta &lt;description&gt;. HTML no está permitido.';
-const TEXT_PRODUCTS_SEO_KEYWORDS = 'Palabras clave Meta de producto para SEO';
-const TEXT_PRODUCTS_SEO_KEYWORDS_HELP = 'Añadir un elemento Meta &lt;keyword&gt;. Deben estar separados por comas. HTML no está permitido.';
+const TEXT_PRODUCTS_SEO_KEYWORDS = 'Palabras clave de producto';
+const TEXT_PRODUCTS_SEO_KEYWORDS_HELP = 'Ayuda en la búsqueda por palabras clave. Deben estar separados por comas. HTML no está permitido.';
 const TEXT_PRODUCTS_SEO_TITLE = 'Titulo del producto para SEO';
 const TEXT_PRODUCTS_SEO_TITLE_HELP = 'Reemplaza el título del producto<br>en la etiqueta Meta Element &lt;title&gt; y opcionalmente en la ruta de navegación.<br>Dejar en blanco para usar por defecto el nombre del producto.';
 const TEXT_CATEGORIES_SEO_TITLE = 'Título de la Categoría para SEO:<br><small>Reemplaza el título de la categoría en la etiqueta Meta Element &lt;title&gt;.<br>Dejar en blanco para usar por defecto el nombre de la categoría.';

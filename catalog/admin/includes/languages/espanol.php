@@ -131,8 +131,7 @@ const TEXT_DISPLAY_NUMBER_OF_TAX_RATES = 'Viendo del <b>%d</b> al <b>%d</b> (de 
 const TEXT_DISPLAY_NUMBER_OF_TAX_CLASSES = 'Viendo del <b>%d</b> al <b>%d</b> (de <b>%d</b> tipos de impuesto)';
 const TEXT_DISPLAY_NUMBER_OF_ZONES = 'Viendo de la <b>%d</b> a la <b>%d</b> (de <b>%d</b> zonas)';
 
-const PREVNEXT_BUTTON_PREV = '&lt;&lt;';
-const PREVNEXT_BUTTON_NEXT = '&gt;&gt;';
+const SPLIT_PAGES = 'Seleccionar Página';
 
 const TEXT_DEFAULT = 'predeterminado/a';
 const TEXT_SET_DEFAULT = 'Establecer como predeterminado/a';
