@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('BOX_HEADING_REPORTS', '<i title="Informes" data-toggle="tooltip" data-placement="right" class="fas fa-chart-bar fa-fw mr-1"></i><span class="d-inline d-md-none d-xl-inline">Informes</span>');
+  define('BOX_HEADING_REPORTS', '<i data-content="Informes" data-toggle="popover" data-placement="left" class="fas fa-chart-bar fa-fw mr-1"></i><span class="d-inline d-md-none">Informes</span>');

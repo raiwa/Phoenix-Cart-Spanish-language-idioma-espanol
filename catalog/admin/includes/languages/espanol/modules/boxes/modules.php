@@ -10,5 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('BOX_HEADING_MODULES', '<i title="Módulos" data-toggle="tooltip" data-placement="right" class="fas fa-folder-open fa-fw mr-1"></i><span class="d-inline d-md-none d-xl-inline">Módulos</span>');
- 
+  define('BOX_HEADING_MODULES', '<i data-content="Módulos" data-toggle="popover" data-placement="left" class="fas fa-folder-open fa-fw mr-1"></i><span class="d-inline d-md-none">Módulos</span>');
