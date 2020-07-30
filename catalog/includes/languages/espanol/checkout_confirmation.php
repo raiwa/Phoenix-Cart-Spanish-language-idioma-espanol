@@ -29,7 +29,7 @@ define('HEADING_ORDER_COMMENTS', 'Comentarios');
 
 define('TEXT_EDIT', 'Modificar');
 
-define('IMAGE_BUTTON_FINALISE_ORDER', 'Finalizar y Pagar mi pedido');
+define('IMAGE_BUTTON_FINALISE_ORDER', 'Finalizar y Pagar %s por mi pedido');
 
 define('HEADING_QTY', 'Cant.');
 
