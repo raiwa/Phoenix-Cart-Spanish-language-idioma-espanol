@@ -22,4 +22,5 @@ define('TABLE_HEADING_ADDRESS_BOOK_ENTRIES', 'Elija una Dirección de Entrega');
 define('TABLE_HEADING_NEW_SHIPPING_ADDRESS', 'Guardar una nueva Dirección');
 define('TEXT_CREATE_NEW_SHIPPING_ADDRESS', 'Use el formulario siguiente para crear una dirección nueva en su libreta y usarla como dirección de entrega para su pedido.');
 
-define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'Actualizar Mi Dirección');
+define('BUTTON_SELECT_ADDRESS', 'Usar esta Dirección');
+define('BUTTON_ADD_NEW_ADDRESS', 'Añadir y usar esta Dirección');

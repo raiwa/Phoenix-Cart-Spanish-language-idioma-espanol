@@ -22,4 +22,5 @@ define('TABLE_HEADING_ADDRESS_BOOK_ENTRIES', 'Elija una dirección guardada');
 define('TABLE_HEADING_NEW_PAYMENT_ADDRESS', 'Guardar una nueva dirección');
 define('TEXT_CREATE_NEW_PAYMENT_ADDRESS', 'Use el formulario siguiente para crear una nueva dirección en su libreta y usarla como dirección de facturación en este pedido.');
 
-define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'Actualizar mi dirección');
+define('BUTTON_SELECT_ADDRESS', 'Usar esta Dirección');
+define('BUTTON_ADD_NEW_ADDRESS', 'Añadir y usar esta Dirección');

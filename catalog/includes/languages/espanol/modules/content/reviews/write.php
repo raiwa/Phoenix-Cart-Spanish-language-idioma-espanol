@@ -24,7 +24,7 @@ define('VERIFIED_BUYER', '%s [Comprador Verificado]');
 define('TEXT_BAD', '%s (Peor)');
 define('TEXT_GOOD', '%s (Mejor)');
 
-define('IMAGE_BUTTON_ADD_REVIEW', 'Califique este producto a %s');
+define('TEXT_RATED', 'Valore este producto en %s');
 
 define('IMAGE_BUTTON_ADD_REVIEW', 'Enviar su valoración al propietario de la tienda');
 
