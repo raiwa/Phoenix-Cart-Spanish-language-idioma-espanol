@@ -44,7 +44,7 @@ const TEXT_DELETE_PAGE_INTRO = 'Está seguro de que quiere eliminar esta página
 const TEXT_DISPLAY_NUMBER_OF_PAGES = 'Mostrando <b>%s</b> a <b>%s</b> (de <b>%s</b> Páginas)';
 
 const IMAGE_BUTTON_ADD_PAGE = 'Añadir nueva página';
-const SORT_ORDER = 'Orden de clasificación';
-const TABLE_HEADING_SORT_ORDER = 'Orden de clasificación';
+const SORT_ORDER = 'Orden';
+const TABLE_HEADING_SORT_ORDER = 'Orden';
 
 const MISSING_SLUGS_ERROR = 'Faltan etiquetas requeridas:  <b>%s</b><hr>Estas etiquetas son necesarias para potenciar ciertas funciones de su sitio.';

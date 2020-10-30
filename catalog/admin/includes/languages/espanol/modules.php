@@ -22,3 +22,5 @@ const TEXT_MODULE_DIRECTORY = 'Directorio de Módulos:';
 
 const ERROR_MODULE_UNMET_REQUIREMENT = 'Este módulo tiene una dependencia no cumplida.';
 const ERROR_MODULE_HAS_DEPENDENTS = 'Otros módulos dependen de este módulo.';
+
+const WARNING_INVALID_USE_FUNCTION = 'La función "use" (%s) para "%s" no es válida.';

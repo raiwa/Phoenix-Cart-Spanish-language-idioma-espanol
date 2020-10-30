@@ -2,7 +2,7 @@ onboarding_intro_title = Descargar credenciales API
 
 onboarding_intro_body = <p>Comience a vender y ganar más rápido al permitir que osCommerce configure de forma automática y segura su tienda online con sus credenciales API de PayPal.</p>
 <p>¿No tiene una cuenta PayPal? Podemos hacer esto para los vendedores nuevos y existentes de PayPal.</p>
-<p style="text-align: center;">:button_retrieve_live_credentials :button_retrieve_sandbox_credentials</p>
+<p class="text-center">:button_retrieve_live_credentials :button_retrieve_sandbox_credentials</p>
 <p>Las cuentas de PayPal "Live" son para tiendas reales listas para aceptar pagos. Las cuentas PayPal "Sandbox" se utilizan para fines de prueba donde los pedidos se procesan pero no se realizan pagos reales.</p>
 
 manage_credentials_title = Administrar credenciales API
