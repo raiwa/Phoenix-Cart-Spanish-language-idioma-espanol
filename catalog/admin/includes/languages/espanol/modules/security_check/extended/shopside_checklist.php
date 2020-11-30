@@ -15,4 +15,4 @@
 */
 
 define('MODULE_SECURITY_CHECK_EXTENDED_SHOPSIDE_CHECKLIST_TITLE', 'Lista de comprobación de Usuarios');
-define('MODULE_SECURITY_CHECK_EXTENDED_SHOPSIDE_CHECKLIST_MESSAGE', 'Cunsulte nuestra <a target="_blank" rel="noopener" href="https://github.com/gburton/Responsive-osCommerce#user-checklist"><u>Lista de comprobación de Usuarios</u></a> en línea para un listado básico de tareas que debería realizar.');
+define('MODULE_SECURITY_CHECK_EXTENDED_SHOPSIDE_CHECKLIST_MESSAGE', 'Cunsulte nuestra <a target="_blank" rel="noreferrer" href="https://github.com/gburton/Responsive-osCommerce#user-checklist"><u>Lista de comprobación de Usuarios</u></a> en línea para un listado básico de tareas que debería realizar.');
