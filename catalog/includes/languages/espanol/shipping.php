@@ -1,16 +1,18 @@
 <?php
 /*
-  $Id: shipping.php 1739 2007-12-20 00:52:16Z hpdl $
+  $Id$
 
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2002 osCommerce
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Envíos y Devoluciones');
-define('HEADING_TITLE', 'Envíos y Devoluciones');
+const NAVBAR_TITLE = 'Envíos y Devoluciones';
 
-define('TEXT_INFORMATION', 'Ponga aquí información sobre Envíos y Devoluciones');
+/*
+Defina el título y el texto de esta página utilizando el Administrador de páginas de información.
+Admin > Herramientas > Páginas de información
+*/

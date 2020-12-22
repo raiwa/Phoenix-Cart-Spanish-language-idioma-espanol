@@ -39,15 +39,10 @@ const HEADER_TITLE_PHOENIX_CLUB = '<span class="border-bottom border-primary">Ph
 const HEADER_TITLE_CERTIFIED_ADDONS = '<span class="border-bottom border-primary">Addons y Servicios certificados</span>';
 const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock"></i> <span class="border-bottom border-danger"> %s, salir de modo seguro</span>';
 
-// javascript messages
-const JS_STATE_SELECT = '-- Seleccione Arriba --';
-
 // images
-const IMAGE_ANI_SEND_EMAIL = 'Enviando Correo Electrónico';
 const IMAGE_BACK = 'Volver';
 const IMAGE_BACKUP = 'Copiar';
 const IMAGE_CANCEL = 'Cancelar';
-const IMAGE_CONFIRM = 'Confirmar';
 const IMAGE_COPY = 'Copiar';
 const IMAGE_COPY_TO = 'Copiar A';
 const IMAGE_DETAILS = 'Detalle';
@@ -55,11 +50,6 @@ const IMAGE_DELETE = 'Eliminar';
 const IMAGE_EDIT = 'Editar';
 const IMAGE_EMAIL = 'Correo Electrónico';
 const IMAGE_EXPORT = 'Exportar';
-const IMAGE_ICON_STATUS_GREEN = 'Activado';
-const IMAGE_ICON_STATUS_GREEN_LIGHT = 'Activar';
-const IMAGE_ICON_STATUS_RED = 'Desactivado';
-const IMAGE_ICON_STATUS_RED_LIGHT = 'Desactivar';
-const IMAGE_ICON_INFO = 'Información';
 const IMAGE_INSERT = 'Insertar';
 const IMAGE_LOCK = 'Bloquear';
 const IMAGE_MODULE_INSTALL = 'Instalar Módulo';
@@ -69,14 +59,11 @@ const IMAGE_NEW_CATEGORY = 'Nueva Categoría';
 const IMAGE_NEW_COUNTRY = 'Nuevo País';
 const IMAGE_NEW_CURRENCY = 'Nueva Moneda';
 const IMAGE_NEW_CUSTOMER_DATA_GROUP = 'Nuevo grupo de datos de clientes';
-const IMAGE_NEW_FILE = 'Nuevo Archivo';
-const IMAGE_NEW_FOLDER = 'Nueva Carpeta';
 const IMAGE_NEW_LANGUAGE = 'Nuevo Idioma';
 const IMAGE_NEW_NEWSLETTER = 'Nuevo Boletín';
 const IMAGE_NEW_PRODUCT = 'Nuevo Producto';
 const IMAGE_NEW_TAX_CLASS = 'Nuevo Tipo de Impuesto';
 const IMAGE_NEW_TAX_RATE = 'Nueva Tasa de Impuesto';
-const IMAGE_NEW_TAX_ZONE = 'Nueva Zona de Impuesto';
 const IMAGE_NEW_ZONE = 'Nueva Zona';
 const IMAGE_ORDERS = 'Pedidos';
 const IMAGE_ORDERS_INVOICE = 'Factura';
@@ -85,7 +72,6 @@ const IMAGE_PREVIEW = 'Previsualizar';
 const IMAGE_RESTORE = 'Restablecer';
 const IMAGE_RESET = 'Reiniciar';
 const IMAGE_SAVE = 'Guardar';
-const IMAGE_SEARCH = 'Buscar';
 const IMAGE_SELECT = 'Seleccionar';
 const IMAGE_SEND = 'Enviar';
 const IMAGE_SEND_EMAIL = 'Enviar Correo Electrónico';
@@ -94,21 +80,8 @@ const IMAGE_UPDATE = 'Actualizar';
 const IMAGE_UPDATE_CURRENCIES = 'Actualizar Tipo de Cambio';
 const IMAGE_UPLOAD = 'Subir';
 
-const ICON_CROSS = 'Falso';
-const ICON_CURRENT_FOLDER = 'Directorio Actual';
-const ICON_DELETE = 'Eliminar';
-const ICON_ERROR = 'Error';
 const ICON_FILE = 'Archivo';
 const ICON_FILE_DOWNLOAD = 'Descargar';
-const ICON_FOLDER = 'Carpeta';
-const ICON_LOCKED = 'Bloqueado';
-const ICON_PREVIOUS_LEVEL = 'Nivel Anterior';
-const ICON_PREVIEW = 'Previsualizar';
-const ICON_STATISTICS = 'Estadísticas';
-const ICON_SUCCESS = 'Éxito';
-const ICON_TICK = 'Verdadero';
-const ICON_UNLOCKED = 'Desbloqueado';
-const ICON_WARNING = 'Advertencia';
 
 // constants for use in tep_prev_next_display function
 const TEXT_RESULT_PAGE = 'Página %s de %d';
