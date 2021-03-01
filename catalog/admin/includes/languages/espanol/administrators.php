@@ -2,10 +2,10 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2020 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -27,8 +27,8 @@ define('TEXT_INFO_PROTECT_WITH_HTPASSWD', 'Protegido con htaccess/htpasswd');
 
 define('ERROR_ADMINISTRATOR_EXISTS', '<strong>Error:</strong> Administrador YA existe.');
 
-define('HTPASSWD_INFO', '<strong>Protección adicional con htaccess/htpasswd</strong><p>Esta Instalación de la Herramienta de Administración OSCOM CE Phoenix no está protegido a través de htaccess/htpasswd.</p><p>Si habilita la capa de seguridad htaccess/htpasswd, el nombre de usuario del administrador y su contraseña se guardarán automáticamente en el archivo htpasswd cuando actualice los datos de un administrador.</p><p><strong>Tenga en cuenta</strong>, que si esta capa adicional de seguridad está habilitada y usted no puede acceder a la herramienta de administración, realice los cambios siguientes y consulte a su proveedor de hosting para habilitar la protección de htaccess/htpasswd:</p><p><u><strong>1. Edite este archivo:</strong></u><br /><br />' . DIR_FS_ADMIN . '.htaccess</p><p>Quite las siguientes líneas si existen:</p><p><i>%s</i></p><p><u><strong>2. Elimine este archivo:</strong></u><br /><br />' . DIR_FS_ADMIN . '.htpasswd_oscommerce</p>');
-define('HTPASSWD_SECURED', '<strong>Protección adicional con htaccess/htpasswd</strong><p>Esta Instalación de la Herramienta de Administración OSCOM CE Phoenix no está adicionalmente protegida a través de htaccess/htpasswd.</p>');
-define('HTPASSWD_PERMISSIONS', '<strong>Protección adicional con htaccess/htpasswd</strong><p>Esta Instalación de la Herramienta de Administración OSCOM CE Phoenix no está adicionalmente protegida a través de htaccess/htpasswd.</p><p>Los siguientes archivos necesitan tener permisos de escritura en el servidor web para poder activar la capa de seguridad htaccess/htpasswd:</p><ul><li>' . DIR_FS_ADMIN . '.htaccess</li><li>' . DIR_FS_ADMIN . '.htpasswd_oscommerce</li></ul><p>Actualice esta página para confirmar si los permisos de los archivos han sido configurados correctamente.</p>');
+define('HTPASSWD_INFO', '<strong>Protección adicional con htaccess/htpasswd</strong><p>Esta Instalación de la Herramienta de Administración CE Phoenix no está protegido a través de htaccess/htpasswd.</p><p>Si habilita la capa de seguridad htaccess/htpasswd, el nombre de usuario del administrador y su contraseña se guardarán automáticamente en el archivo htpasswd cuando actualice los datos de un administrador.</p><p><strong>Tenga en cuenta</strong>, que si esta capa adicional de seguridad está habilitada y usted no puede acceder a la herramienta de administración, realice los cambios siguientes y consulte a su proveedor de hosting para habilitar la protección de htaccess/htpasswd:</p><p><u><strong>1. Edite este archivo:</strong></u><br /><br />' . DIR_FS_ADMIN . '.htaccess</p><p>Quite las siguientes líneas si existen:</p><p><i>%s</i></p><p><u><strong>2. Elimine este archivo:</strong></u><br /><br />' . DIR_FS_ADMIN . '.htpasswd_oscommerce</p>');
+define('HTPASSWD_SECURED', '<strong>Protección adicional con htaccess/htpasswd</strong><p>Esta Instalación de la Herramienta de Administración CE Phoenix no está adicionalmente protegida a través de htaccess/htpasswd.</p>');
+define('HTPASSWD_PERMISSIONS', '<strong>Protección adicional con htaccess/htpasswd</strong><p>Esta Instalación de la Herramienta de Administración CE Phoenix no está adicionalmente protegida a través de htaccess/htpasswd.</p><p>Los siguientes archivos necesitan tener permisos de escritura en el servidor web para poder activar la capa de seguridad htaccess/htpasswd:</p><ul><li>' . DIR_FS_ADMIN . '.htaccess</li><li>' . DIR_FS_ADMIN . '.htpasswd_oscommerce</li></ul><p>Actualice esta página para confirmar si los permisos de los archivos han sido configurados correctamente.</p>');
 
 define('IMAGE_INSERT_NEW_ADMIN', 'Nuevo Administrador');

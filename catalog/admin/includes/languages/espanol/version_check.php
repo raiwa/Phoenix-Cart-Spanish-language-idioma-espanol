@@ -2,24 +2,21 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2020 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Comprobar Versión');
+const HEADING_TITLE = 'Comprobar Versión';
 
-define('TABLE_HEADING_VERSION', 'Versión');
-define('TABLE_HEADING_RELEASED', 'Fecha de la versión');
-define('TABLE_HEADING_ACTION', 'Acción');
+const TABLE_HEADING_VERSION = 'Versión';
+const TABLE_HEADING_RELEASED = 'Fecha de la versión';
+const TABLE_HEADING_ACTION = 'Acción';
 
-define('TEXT_RELEASE_LINK', 'Ver Anuncio de la versión');
+const TITLE_INSTALLED_VERSION = 'Versión Instalada: <strong>CE Phoenix v%s</strong>';
 
-define('TITLE_INSTALLED_VERSION', 'Versión Instalada:');
-
-define('VERSION_RUNNING_LATEST', 'Se está ejecutando la última versión de CE Phoenix.');
-define('VERSION_UPGRADES_AVAILABLE', '¡Una nueva versión está disponible para su descarga! (CE Phoenix v%s)<hr><a class="alert-link" target="_blank" rel="noreferrer" href="https://forums.oscommerce.com/topic/494774-certified-service-providers-development-hosting-themes-and-more/">Desarrolladores certificados</a> y detallados" <a class="alert-link" target="_blank" rel="noreferrer" href="https://forums.oscommerce.com/tags/phoenix%%20update/">Hágalo usted mismo</a>" Instrucciones están disponibles en el Phoenix Club.');
-define('ERROR_COULD_NOT_CONNECT', 'No se ha podido conectar al sitio web CE Phoenix para comprobar si hay nuevas versiones.');
+const VERSION_RUNNING_LATEST = 'Se está ejecutando la última versión de CE Phoenix.';
+define('VERSION_UPGRADES_AVAILABLE', '<strong>CE Phoenix %s</strong> es la última versión disponible para ti! <hr><a class="alert-link" target="_blank" href="https://phoenixcart.org/forum/viewtopic.php?f=26&t=309">Desarrolladores Certificados</a> y detalladas instrucciones "<a class="alert-link" target="_blank" href="https://phoenixcart.org/forum/app.php/tag/phoenix-update">Hazlo tu mismo</a>" están disponibles en el Club Phoenix.');

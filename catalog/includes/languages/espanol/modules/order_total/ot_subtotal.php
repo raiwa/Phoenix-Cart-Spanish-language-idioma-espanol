@@ -2,10 +2,10 @@
 /*
   $Id: ot_subtotal.php 1739 2007-12-20 00:52:16Z hpdl $
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2002 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
