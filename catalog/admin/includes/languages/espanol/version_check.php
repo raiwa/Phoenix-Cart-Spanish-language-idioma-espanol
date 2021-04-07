@@ -18,5 +18,12 @@ const TABLE_HEADING_ACTION = 'Acción';
 
 const TITLE_INSTALLED_VERSION = 'Versión Instalada: <strong>CE Phoenix v%s</strong>';
 
+const VERSION_SERVER_FAILURE = 'No se han podido cargar las versiones disponibles del servidor. Compruebe su Internet o vuelva a intentarlo más tarde.';
 const VERSION_RUNNING_LATEST = 'Se está ejecutando la última versión de CE Phoenix.';
-define('VERSION_UPGRADES_AVAILABLE', '<strong>CE Phoenix %s</strong> es la última versión disponible para ti! <hr><a class="alert-link" target="_blank" href="https://phoenixcart.org/forum/viewtopic.php?f=26&t=309">Desarrolladores Certificados</a> y detalladas instrucciones "<a class="alert-link" target="_blank" href="https://phoenixcart.org/forum/app.php/tag/phoenix-update">Hazlo tu mismo</a>" están disponibles en el Club Phoenix.');
+const VERSION_UPGRADES_AVAILABLE = <<<'EOT'
+<strong>
+¡CE Phoenix %s</strong> es la última versión disponible para Usted!<hr>
+<a class="alert-link" target="_blank" href="https://phoenixcart.org/forum/viewtopic.php?f=26&t=309">Desarrolladores Certificados</a>
+ e instrucciones detalladas "<a class="alert-link" target="_blank" href="https://phoenixcart.org/forum/app.php/tag/phoenix-update">Hágalo usted mismo</a>"
+ están disponibles en el Club Phoenix.
+EOT;

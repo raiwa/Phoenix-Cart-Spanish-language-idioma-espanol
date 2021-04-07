@@ -25,7 +25,12 @@ const TEXT_INFO_VERTICAL_SORT_ORDER = 'Orden vertical: %s';
 const TEXT_INFO_HORIZONTAL_SORT_ORDER = 'Orden horizontal: %s';
 const TEXT_INFO_WIDTH = 'Ancho (1-12 doceavos de la pantalla): %s';
 const TEXT_INFO_INSERT_INTRO = 'Introduzca el nuevo grupo de datos de clientes con sus datos relacionados';
-const TEXT_INFO_DELETE_INTRO = '¿Está seguro de que desea eliminar este grupo de datos de clientes?';
+const TEXT_INFO_DELETE_INTRO = <<<'EOT'
+<p>¿Está seguro de que desea eliminar este grupo de datos de clientes?</p>
+<p class="alert alert-warning">Advertencia: si algún módulo de datos del cliente está usando este grupo, ¡eliminar el grupo lo dejará huérfanos!
+Considere si no sería mejor editar este grupo en lugar de eliminarlo y crear uno nuevo.
+Para traducirlo, normalmente lo editaría.</p>
+EOT;
 const TEXT_INFO_HEADING_NEW_CUSTOMER_DATA_GROUP = 'Nuevo grupo de datos de cliente.';
 const TEXT_INFO_HEADING_EDIT_CUSTOMER_DATA_GROUP = 'Editar grupo de datos de clientes';
 const TEXT_INFO_HEADING_DELETE_CUSTOMER_DATA_GROUP = 'Eliminar grupo de datos de clientes';
