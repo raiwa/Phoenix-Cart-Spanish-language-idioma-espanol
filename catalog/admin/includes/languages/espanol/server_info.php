@@ -10,27 +10,23 @@
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Información del Servidor');
+const HEADING_TITLE = 'Información del Servidor';
 
-define('TABLE_HEADING_KEY', 'Llave');
-define('TABLE_HEADING_VALUE', 'Valor');
+const TABLE_HEADING_KEY = 'Llave';
+const TABLE_HEADING_VALUE = 'Valor';
 
-define('TITLE_SERVER_HOST', 'Nombre del Servidor');
-define('TITLE_SERVER_OS', 'Sistema Operativo del Servidor');
-define('TITLE_SERVER_DATE', 'Fecha en el Servidor');
-define('TITLE_SERVER_UP_TIME', 'Encendido desde');
-define('TITLE_HTTP_SERVER', 'Servidor HTTP');
-define('TITLE_PHP_VERSION', 'Versión PHP');
-define('TITLE_ZEND_VERSION', 'Zend');
-define('TITLE_DATABASE_HOST', 'Servidor de la Base de Datos');
-define('TITLE_DATABASE', 'Base de Datos');
-define('TITLE_DATABASE_DATE', 'Fecha de la Base de Datos');
+const TITLE_SERVER_HOST = 'Nombre del Servidor';
+const TITLE_SERVER_OS = 'Sistema Operativo del Servidor';
+const TITLE_SERVER_DATE = 'Fecha en el Servidor';
+const TITLE_SERVER_UP_TIME = 'Encendido desde';
+const TITLE_HTTP_SERVER = 'Servidor HTTP';
+const TITLE_PHP_VERSION = 'Versión PHP';
+const TITLE_ZEND_VERSION = 'Zend';
+const TITLE_DATABASE_HOST = 'Servidor de la Base de Datos';
+const TITLE_DATABASE = 'Base de Datos';
+const TITLE_DATABASE_DATE = 'Fecha de la Base de Datos';
 
-define('TEXT_EXPORT_INTRO', 'La siguiente información puede ser enviada a osCommerce haciendo clic en el botón Enviar. También puede guardar la información en un archivo, haga clic en Guardar. Esta información es totalmente anónima y no puede ser utilizada para identificar un sistema individual. Se utilizará para fines de soporte y desarrollo.');
-define('TEXT_EXPORT_INFO', 'Exportar la información del Servidor');
+const TEXT_EXPORT_INTRO = 'Puede guardar la información en un archivo haciendo clic en Guardar.';
+const TEXT_EXPORT_INFO = 'Exportar la información del Servidor';
 
-define('SUCCESS_INFO_SUBMIT', 'Su información se ha enviado con éxito.');
-define('ERROR_INFO_SUBMIT', 'No se pudo conectar al sitio web osCommerce para enviar su configuración. Por favor, inténtelo de nuevo más tarde');
-
-define('BUTTON_SAVE_TO_DISK', 'Guardar en su disco duro');
-define('BUTTON_SEND_TO_OSCOMMERCE', 'Enviar a osCommerce');
+const BUTTON_SAVE_TO_DISK = 'Guardar en su disco duro';
