@@ -96,8 +96,6 @@ const TEXT_DESCENDINGLY = 'Descendentemente';
 const TEXT_ASCENDINGLY = 'Ascendentemente';
 const TEXT_BY = ' por ';
 
-const TEXT_UNKNOWN_TAX_RATE = 'Impuesto desconocido';
-
 const TEXT_CCVAL_ERROR_INVALID_DATE = 'La fecha de caducidad de la tarjeta de crédito es incorrecta. Compruebe la fecha e inténtelo de nuevo.';
 const TEXT_CCVAL_ERROR_INVALID_NUMBER = 'El número de la tarjeta de crédito es incorrecto. Compruebe el número e inténtelo de nuevo.';
 const TEXT_CCVAL_ERROR_UNKNOWN_CARD = 'Los primeros cuatro dígitos de su tarjeta son: %s. Si este número es correcto, no aceptamos este tipo de tarjetas. Si es incorrecto, inténtelo de nuevo.';
