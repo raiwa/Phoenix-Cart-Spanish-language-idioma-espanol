@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_ACTION_RECORDER_RESET_PASSWORD_TITLE', 'Restablecer contraseña del cliente');
-  define('MODULE_ACTION_RECORDER_RESET_PASSWORD_DESCRIPTION', 'Registro de uso del cliente del restablecimiento de contraseñas.');
+  const MODULE_ACTION_RECORDER_RESET_PASSWORD_TITLE = 'Restablecer contraseña del cliente';
+  const MODULE_ACTION_RECORDER_RESET_PASSWORD_DESCRIPTION = 'Registro de uso del cliente del restablecimiento de contraseñas.';
