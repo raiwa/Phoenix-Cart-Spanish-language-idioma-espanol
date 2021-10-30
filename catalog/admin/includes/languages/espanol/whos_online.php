@@ -10,20 +10,18 @@
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Usuarios Conectados');
+const HEADING_TITLE = 'Usuarios Conectados';
 
-define('TABLE_HEADING_ONLINE', 'Conectado');
-define('TABLE_HEADING_CUSTOMER_ID', 'ID');
-define('TABLE_HEADING_FULL_NAME', 'Nombre');
-define('TABLE_HEADING_IP_ADDRESS', 'Dirección IP');
-define('TABLE_HEADING_ENTRY_TIME', 'Hora Entrada');
-define('TABLE_HEADING_LAST_CLICK', 'Último Click');
-define('TABLE_HEADING_LAST_PAGE_URL', 'Última URL');
-define('TABLE_HEADING_ACTION', 'Acción');
-define('TABLE_HEADING_SHOPPING_CART', 'Carrito del Usuario');
+const TABLE_HEADING_ONLINE = 'Conectado';
+const TABLE_HEADING_CUSTOMER_ID = 'ID';
+const TABLE_HEADING_FULL_NAME = 'Nombre';
+const TABLE_HEADING_IP_ADDRESS = 'Dirección IP';
+const TABLE_HEADING_ENTRY_TIME = 'Hora Entrada';
+const TABLE_HEADING_LAST_CLICK = 'Último Click';
+const TABLE_HEADING_LAST_PAGE_URL = 'Última URL';
+const TABLE_HEADING_ACTION = 'Acción';
+const TABLE_HEADING_SHOPPING_CART = 'Carrito del Usuario';
 
-define('TEXT_SHOPPING_CART_ITEM', '%s x %s');
-define('TEXT_SHOPPING_CART_SUBTOTAL', 'Subtotal: %s');
-define('TEXT_SHOPPING_CART_NA', 'N/A');
-
-define('TEXT_NUMBER_OF_CUSTOMERS', 'Hay actualmente %s clientes en línea');
+const TEXT_SHOPPING_CART_ITEM = '%s x %s';
+const TEXT_SHOPPING_CART_SUBTOTAL = 'Subtotal: %s';
+const TEXT_SHOPPING_CART_NA = 'N/A';
