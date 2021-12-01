@@ -31,13 +31,14 @@ const HTML_PARAMS = 'dir="ltr" lang="es"';
 const CHARSET = 'utf-8';
 
 // page title
-const TITLE = 'CE Phoenix Herramienta de Administración';
+const TITLE = 'CE Phoenix Cart Herramienta de Administración';
 
-// header text in includes/header.php
+// header text in includes/hooks/admin/siteWide/hMenu.php
 const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart mr-1 text-primary"></i><span class="border-bottom border-primary">Su Tienda</span>';
-const HEADER_TITLE_PHOENIX_CLUB = '<span class="border-bottom border-primary">Phoenix Club</span>';
+const HEADER_TITLE_PHOENIX_CLUB = '<i class="fas fa-question-circle mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Phoenix Club</span>';
 const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary"></i><span class="border-bottom border-primary">Guía del Usuario</span>';
-const HEADER_TITLE_CERTIFIED_ADDONS = '<span class="border-bottom border-primary">Addons y Servicios certificados</span>';
+const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<i class="fas fa-laptop-code mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Certified Developers</span>';
+const HEADER_TITLE_CERTIFIED_ADDONS = '<i class="fas fa-folder-plus mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Addons y Servicios certificados</span>';                                                                                                                                                                           
 const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock mr-1"></i> <span class="border-bottom border-danger"> %s, salir de modo seguro</span>';
 
 // images
@@ -84,7 +85,7 @@ const IMAGE_UPLOAD = 'Subir';
 const ICON_FILE = 'Archivo';
 const ICON_FILE_DOWNLOAD = 'Descargar';
 
-// constants for use in tep_prev_next_display function
+// constants for use in pagination
 const TEXT_RESULT_PAGE = 'Página %s de %d';
 const TEXT_DISPLAY_NUMBER_OF_COUNTRIES = 'Viendo del <b>%d</b> al <b>%d</b> (de <b>%d</b> países)';
 const TEXT_DISPLAY_NUMBER_OF_CUSTOMER_DATA_GROUPS = 'Mostrando <strong>%d</strong> a <strong>%d</strong> (de <strong>%d</strong> grupos de datos de clientes)';
@@ -122,7 +123,11 @@ const SUCCESS_FILE_SAVED_SUCCESSFULLY = '<strong>Éxito:</strong> Archivo guarda
 const WARNING_NO_FILE_UPLOADED = '<strong>Advertencia:</strong> No se ha subido ningun archivo.';
 
 // bootstrap helper
-const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION = '<p>El ancho del contenido puede ser de 12 o menos por columna y fila.</p><p>12/12 = 100% ancho, 6/12 = 50% ancho, 4/12 = 33% ancho.</p><p>El total de todas las columnas en cualquier fila debe ser igual a 12 (ej:  3 cajas de 4 columnas cada una, 1 caja de 12 columnas etc).</p>';
+const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION = <<<'EOT'
+<p>El ancho del contenido puede ser de 12 o menos por columna y fila.</p>
+<p>12/12 = 100% ancho, 6/12 = 50% ancho, 4/12 = 33% ancho.</p>
+<p>El total de todas las columnas en cualquier fila debe ser igual a 12 (ej:  3 cajas de 4 columnas cada una, 1 caja de 12 columnas etc).</p>
+EOT;
 
 // seo helper
 const PLACEHOLDER_COMMA_SEPARATION = 'Debe, Estar, Separado, Por, Comas';
