@@ -12,5 +12,5 @@
 
   const MODULE_CONTENT_PRODUCT_INFO_ALSO_PURCHASED_TITLE        = 'Tanbién han comprado';
   const MODULE_CONTENT_PRODUCT_INFO_ALSO_PURCHASED_DESCRIPTION  = 'Muestra el bloque "También han comprado" en la página de producto.';
-  
+
   const MODULE_CONTENT_PRODUCT_INFO_ALSO_PURCHASED_PUBLIC_TITLE = 'También podría gustarte...';

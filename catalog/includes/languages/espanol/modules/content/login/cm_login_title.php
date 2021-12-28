@@ -12,5 +12,5 @@
 
   const MODULE_CONTENT_LOGIN_TITLE_TITLE        = 'Título de Página';
   const MODULE_CONTENT_LOGIN_TITLE_DESCRIPTION  = 'Muestra el título de la página.';
-  
+
   const MODULE_CONTENT_LOGIN_TITLE_PUBLIC_TITLE = 'Bienvenido/a, Entre, Por Favor';

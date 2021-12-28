@@ -12,5 +12,5 @@
 
   const MODULE_CONTENT_PI_NAME_TITLE = 'Nombre';
   const MODULE_CONTENT_PI_NAME_DESCRIPTION = 'Muestra el nombre del producto en la página de producto.';
-  
+
   const MODULE_CONTENT_PI_NAME_DISPLAY_NAME = '%s';

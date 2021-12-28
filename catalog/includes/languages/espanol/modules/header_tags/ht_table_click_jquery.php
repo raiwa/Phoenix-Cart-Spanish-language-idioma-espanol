@@ -12,3 +12,4 @@
 
   define('MODULE_HEADER_TAGS_TABLE_CLICK_JQUERY_TITLE', 'Botón para tabla/fila jQuery');
   define('MODULE_HEADER_TAGS_TABLE_CLICK_JQUERY_DESCRIPTION', 'Añadir botón para tabla/fila jQuery a páginas especificadas');
+  

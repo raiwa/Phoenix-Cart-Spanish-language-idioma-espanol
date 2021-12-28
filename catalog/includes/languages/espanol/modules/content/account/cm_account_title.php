@@ -12,5 +12,5 @@
 
   const MODULE_CONTENT_ACCOUNT_TITLE_TITLE        = 'Título Página';
   const MODULE_CONTENT_ACCOUNT_TITLE_DESCRIPTION  = 'Muestra el título de la página.';
-  
+
   const MODULE_CONTENT_ACCOUNT_TITLE_PUBLIC_TITLE = 'Datos de Mi Cuenta';

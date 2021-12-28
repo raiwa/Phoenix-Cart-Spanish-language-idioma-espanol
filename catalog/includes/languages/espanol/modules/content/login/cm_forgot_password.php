@@ -19,4 +19,3 @@
 
   define('MODULE_CONTENT_FORGOT_PASSWORD_INTRO_TEXT', '¿Ha olvidado su contraseña? ¡No hay problema!');
   define('MODULE_CONTENT_FORGOT_PASSWORD_BUTTON_TEXT', 'Restablecer la contraseña');
-  

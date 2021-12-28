@@ -12,4 +12,3 @@
 
   define('MODULE_HEADER_TAGS_CATEGORY_SEO_TITLE', 'Categoría SEO');
   define('MODULE_HEADER_TAGS_CATEGORY_SEO_DESCRIPTION', 'Añadir los elementos SEO que ha definido para la categoría, al código subyacente de la página de categoría (Descripción META y Palabras Clave META).  Bueno para SEO.');
-

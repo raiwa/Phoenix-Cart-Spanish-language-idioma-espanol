@@ -16,9 +16,9 @@
 
   define('MODULE_CONTENT_TESTIMONIALS_LIST_TITLE', 'Lista de opiniones');
   define('MODULE_CONTENT_TESTIMONIALS_LIST_DESCRIPTION', 'Muestra una lista de opiniones.');
-  
+
   define('MODULE_CONTENT_TESTIMONIALS_LIST_NO_TESTIMONIALS', 'No hay Opiniones para mostrar.');
-  
+
   define('MODULE_CONTENT_TESTIMONIALS_LIST_WRITERS_NAME_DATE', 'Escrito por %s el %s.');
-  
+
   define('MODULE_CONTENT_TESTIMONIALS_DISPLAY_NUMBER', 'Mostrando <b>%s</b> a <b>%s</b> (de <b>%s</b> Opiniones)');

@@ -16,11 +16,10 @@
 
   define('MODULE_CONTENT_PI_REVIEW_STARS_TITLE', 'Valoraciones Estrellas/Enlace');
   define('MODULE_CONTENT_PI_REVIEW_STARS_DESCRIPTION', 'Muestra estrellas, número de valoraciones y un enlace para escribir una reseña en la página product_info');
-  
+
   define('MODULE_CONTENT_PI_REVIEW_STARS_COUNT', '%s valoraciones');
   define('MODULE_CONTENT_PI_REVIEW_STARS_COUNT_ONE', '%s valoración');
-  
+
   define('MODULE_CONTENT_PI_REVIEW_STARS_DO_REVIEW', 'Añadir su valoración');
-  
+
   define('MODULE_CONTENT_PI_REVIEW_STARS_DO_FIRST_REVIEW', 'Sea el primero en valorar este producto');
-  

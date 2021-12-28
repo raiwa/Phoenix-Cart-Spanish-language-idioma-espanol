@@ -15,7 +15,7 @@
 
   define('MODULE_CONTENT_LOGIN_HEADING_RETURNING_CUSTOMER', 'Ya Soy Cliente');
   define('MODULE_CONTENT_LOGIN_TEXT_RETURNING_CUSTOMER', 'He comprado otras veces.');
-    
+
   define('MODULE_CONTENT_LOGIN_TEXT_LOGIN_ERROR', 'Error: el correo electrónico y/o contraseña no figuran en nuestros datos.');
 
   define('MODULE_CONTENT_LOGIN_ENTRY_EMAIL_ADDRESS_PLACEHOLDER', 'Correo electrónico');
