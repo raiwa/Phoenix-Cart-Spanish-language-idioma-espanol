@@ -17,5 +17,5 @@ define('TABLE_HEADING_GROUP', 'Grupo');
 define('TABLE_HEADING_FILE', 'Fichero');
 define('TABLE_HEADING_METHOD', 'Método');
 define('TABLE_HEADING_VERSION', 'Versión');
-              
+
 define('TEXT_HOOKS_DIRECTORY', 'Directorio de Hooks:');
