@@ -12,8 +12,9 @@
 
 // look in your $PATH_LOCALE/locale directory for available locales..
 // Array examples which should work on all servers:
-//España: 'es_ES.UTF-8 = 'es_ES.UTF8 = 'esp_es'
-//México 'es_MX.UTF-8 = 'es_MX.UTF8 = 'esm_es'
+//España: 'es_ES.UTF-8', 'es_ES.UTF8', 'esp_es'
+//México 'es_MX.UTF-8', 'es_MX.UTF8', 'esm_es'
+
 @setlocale(LC_ALL, ['en_US.UTF-8', 'en_US.UTF8', 'enu_usa']);
 
 const DATE_FORMAT_SHORT = '%d/%m/%Y';  // this is used for strftime()

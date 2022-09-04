@@ -5,23 +5,23 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('EMAIL_TEXT_SUBJECT', 'Procesar pedido');
-define('EMAIL_TEXT_ORDER_NUMBER', 'Número de pedido:');
-define('EMAIL_TEXT_INVOICE_URL', 'Pedido detallado:');
-define('EMAIL_TEXT_DATE_ORDERED', 'Fecha del pedido:');
-define('EMAIL_TEXT_PRODUCTS', 'Productos');
-define('EMAIL_TEXT_SUBTOTAL', 'Subtotal:');
-define('EMAIL_TEXT_TAX', 'Impuestos:      ');
-define('EMAIL_TEXT_SHIPPING', 'Gastos de envío: ');
-define('EMAIL_TEXT_TOTAL', 'Total:    ');
-define('EMAIL_TEXT_DELIVERY_ADDRESS', 'Dirección de entrega');
-define('EMAIL_TEXT_BILLING_ADDRESS', 'Dirección de facturación');
-define('EMAIL_TEXT_PAYMENT_METHOD', 'Forma de pago:');
+const EMAIL_TEXT_SUBJECT = 'Procesar pedido';
+const EMAIL_TEXT_ORDER_NUMBER = 'Número de pedido:';
+const EMAIL_TEXT_INVOICE_URL = 'Pedido detallado:';
+const EMAIL_TEXT_DATE_ORDERED = 'Fecha del pedido:';
+const EMAIL_TEXT_PRODUCTS = 'Productos';
+const EMAIL_TEXT_SUBTOTAL = 'Subtotal:';
+const EMAIL_TEXT_TAX = 'Impuestos:      ';
+const EMAIL_TEXT_SHIPPING = 'Gastos de envío: ';
+const EMAIL_TEXT_TOTAL = 'Total:    ';
+const EMAIL_TEXT_DELIVERY_ADDRESS = 'Dirección de entrega';
+const EMAIL_TEXT_BILLING_ADDRESS = 'Dirección de facturación';
+const EMAIL_TEXT_PAYMENT_METHOD = 'Forma de pago:';
 
-define('EMAIL_SEPARATOR', '------------------------------------------------------');
-define('TEXT_EMAIL_VIA', 'por');
+const EMAIL_SEPARATOR = '------------------------------------------------------';
+const TEXT_EMAIL_VIA = 'por';

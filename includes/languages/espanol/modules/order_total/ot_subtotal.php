@@ -5,10 +5,10 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-  define('MODULE_ORDER_TOTAL_SUBTOTAL_TITLE', 'Base Imponible');
-  define('MODULE_ORDER_TOTAL_SUBTOTAL_DESCRIPTION', 'Base Imponible del Pedido');
+  const MODULE_ORDER_TOTAL_SUBTOTAL_TITLE = 'Base Imponible';
+  const MODULE_ORDER_TOTAL_SUBTOTAL_DESCRIPTION = 'Base Imponible del Pedido';

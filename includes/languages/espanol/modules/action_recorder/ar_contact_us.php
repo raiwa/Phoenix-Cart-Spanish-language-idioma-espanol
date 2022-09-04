@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-  const MODULE_ACTION_RECORDER_CONTACT_US_TITLE = 'Contáctenos';
-  const MODULE_ACTION_RECORDER_CONTACT_US_DESCRIPTION = 'Registro del uso de la función Contáctenos.';
+  const MODULE_ACTION_RECORDER_CONTACT_US_EMAIL_TITLE = 'Contáctenos';
+  const MODULE_ACTION_RECORDER_CONTACT_US_EMAIL_DESCRIPTION = 'Registro del uso de la función Contáctenos.';

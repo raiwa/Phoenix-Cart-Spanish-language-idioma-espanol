@@ -5,7 +5,7 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
@@ -17,4 +17,4 @@
 Para más detalles sobre el uso de imágenes, consulte <a target="_blank" rel="noreferrer" href="https://getbootstrap.com/docs/4.6/components/navbar/#brand"><u>navbar/#brand</u></a></div>
 EOT;
 
-  define('MODULE_NAVBAR_BRAND_PUBLIC_TEXT', STORE_NAME);
+  const MODULE_NAVBAR_BRAND_PUBLIC_TEXT = STORE_NAME;

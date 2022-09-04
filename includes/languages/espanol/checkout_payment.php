@@ -5,20 +5,20 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'Realizar pedido');
-define('NAVBAR_TITLE_2', 'Pago');
+const NAVBAR_TITLE_1 = 'Realizar pedido';
+const NAVBAR_TITLE_2 = 'Pago';
 
-define('HEADING_TITLE', 'Pago');
+const HEADING_TITLE = 'Pago';
 
-define('TABLE_HEADING_BILLING_ADDRESS', 'Dirección de facturación');
+const TABLE_HEADING_BILLING_ADDRESS = 'Dirección de facturación';
 
-define('TABLE_HEADING_PAYMENT_METHOD', 'Forma de pago');
+const TABLE_HEADING_PAYMENT_METHOD = 'Forma de pago';
 
-define('TEXT_ENTER_PAYMENT_INFORMATION', 'Esta es la única forma de pago disponible para este pedido.');
+const TEXT_ENTER_PAYMENT_INFORMATION = 'Esta es la única forma de pago disponible para este pedido.';
 
-define('BUTTON_CONTINUE_CHECKOUT_PROCEDURE', 'Continuar con el proceso de compra');
+const BUTTON_CONTINUE_CHECKOUT_PROCEDURE = 'Continuar con el proceso de compra';

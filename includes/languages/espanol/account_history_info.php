@@ -5,37 +5,37 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'Mi Cuenta');
-define('NAVBAR_TITLE_2', 'Historial');
-define('NAVBAR_TITLE_3', 'Pedido Nº %s');
+const NAVBAR_TITLE_1 = 'Mi Cuenta';
+const NAVBAR_TITLE_2 = 'Historial';
+const NAVBAR_TITLE_3 = 'Pedido Nº %s';
 
-define('HEADING_TITLE', 'Datos del Pedido');
+const HEADING_TITLE = 'Datos del Pedido';
 
-define('HEADING_ORDER_NUMBER', 'Pedido Nº %s');
-define('HEADING_ORDER_DATE', 'Fecha del Pedido:');
-define('HEADING_ORDER_TOTAL', 'Total del Pedido:');
-define('HEADING_ORDER_BILLING_NUMBER', 'Factura Nº: ');
+const HEADING_ORDER_NUMBER = 'Pedido Nº %s';
+const HEADING_ORDER_DATE = 'Fecha del Pedido:';
+const HEADING_ORDER_TOTAL = 'Total del Pedido:';
+const HEADING_ORDER_BILLING_NUMBER = 'Factura Nº: ';
 
-define('HEADING_DELIVERY_ADDRESS', 'Dirección de Entrega');
-define('HEADING_SHIPPING_METHOD', 'Gastos de Envío');
+const HEADING_DELIVERY_ADDRESS = 'Dirección de Entrega';
+const HEADING_SHIPPING_METHOD = 'Gastos de Envío';
 
-define('HEADING_PRODUCTS', 'Producto');
-define('HEADING_TAX', 'Impuestos');
-define('HEADING_TOTAL', 'Total');
+const HEADING_PRODUCTS = 'Producto';
+const HEADING_TAX = 'Impuestos';
+const HEADING_TOTAL = 'Total';
 
-define('HEADING_BILLING_INFORMATION', 'Datos de Facturación');
-define('HEADING_BILLING_ADDRESS', 'Dirección de Facturación');
-define('HEADING_PAYMENT_METHOD', 'Forma de Pago');
+const HEADING_BILLING_INFORMATION = 'Datos de Facturación';
+const HEADING_BILLING_ADDRESS = 'Dirección de Facturación';
+const HEADING_PAYMENT_METHOD = 'Forma de Pago';
 
-define('HEADING_ORDER_HISTORY', 'Historial del pedido');
-define('HEADING_COMMENT', 'Comentarios');
-define('TEXT_NO_COMMENTS_AVAILABLE', 'No hay comentarios.');
+const HEADING_ORDER_HISTORY = 'Historial del pedido';
+const HEADING_COMMENT = 'Comentarios';
+const TEXT_NO_COMMENTS_AVAILABLE = 'No hay comentarios.';
 
-define('TABLE_HEADING_DOWNLOAD_DATE', 'Fecha Caducidad: ');
-define('TABLE_HEADING_DOWNLOAD_COUNT', ' descargas restantes');
-define('HEADING_DOWNLOAD', 'Descargue sus productos aquí');
+const TABLE_HEADING_DOWNLOAD_DATE = 'Fecha Caducidad: ';
+const TABLE_HEADING_DOWNLOAD_COUNT = ' descargas restantes';
+const HEADING_DOWNLOAD = 'Descargue sus productos aquí';

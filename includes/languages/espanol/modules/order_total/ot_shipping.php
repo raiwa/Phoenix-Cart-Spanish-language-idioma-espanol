@@ -5,13 +5,13 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-  define('MODULE_ORDER_TOTAL_SHIPPING_TITLE', 'Gastos de Envío');
-  define('MODULE_ORDER_TOTAL_SHIPPING_DESCRIPTION', 'Gastos de Envío del Pedido');
+  const MODULE_ORDER_TOTAL_SHIPPING_TITLE = 'Gastos de Envío';
+  const MODULE_ORDER_TOTAL_SHIPPING_DESCRIPTION = 'Gastos de Envío del Pedido';
 
-  define('FREE_SHIPPING_TITLE', 'Envío Gratuito');
-  define('FREE_SHIPPING_DESCRIPTION', 'Envío gratuito para pedidos superiores a %s');
+  const FREE_SHIPPING_TITLE = 'Envío Gratuito';
+  const FREE_SHIPPING_DESCRIPTION = 'Envío gratuito para pedidos superiores a %s';

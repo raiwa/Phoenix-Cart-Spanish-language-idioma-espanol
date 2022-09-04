@@ -5,10 +5,10 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-  define('MODULE_ORDER_TOTAL_TOTAL_TITLE', '<b>Total</b>');
-  define('MODULE_ORDER_TOTAL_TOTAL_DESCRIPTION', 'Total del Pedido');
+  const MODULE_ORDER_TOTAL_TOTAL_TITLE = '<b>Total</b>';
+  const MODULE_ORDER_TOTAL_TOTAL_DESCRIPTION = 'Total del Pedido';

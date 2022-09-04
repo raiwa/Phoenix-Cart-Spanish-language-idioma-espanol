@@ -5,14 +5,14 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Novedades');
-define('HEADING_TITLE', 'Novedades');
+const NAVBAR_TITLE = 'Novedades';
+const HEADING_TITLE = 'Novedades';
 
-define('TEXT_MANUFACTURER', 'Fabricante:');
-define('TEXT_PRICE', 'Precio:');
-define('TEXT_NO_PRODUCTS', 'No hay productos en esta categoría');
+const TEXT_MANUFACTURER = 'Fabricante:';
+const TEXT_PRICE = 'Precio:';
+const TEXT_NO_PRODUCTS = 'No hay productos en esta categoría';

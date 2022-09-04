@@ -5,42 +5,42 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Comentarios');
+const HEADING_TITLE = 'Comentarios';
 
-define('TABLE_HEADING_PRODUCTS', 'Productos');
-define('TABLE_HEADING_RATING', 'Valoración');
-define('TABLE_HEADING_DATE_ADDED', 'Fecha Alta');
-define('TABLE_HEADING_ACTION', 'Acción');
-define('TABLE_HEADING_STATUS', 'Estado');
+const TABLE_HEADING_PRODUCTS = 'Productos';
+const TABLE_HEADING_RATING = 'Valoración';
+const TABLE_HEADING_DATE_ADDED = 'Fecha Alta';
+const TABLE_HEADING_ACTION = 'Acción';
+const TABLE_HEADING_STATUS = 'Estado';
 
-define('ENTRY_PRODUCT', 'Producto:');
-define('ENTRY_FROM', 'De:');
-define('ENTRY_DATE', 'Fecha:');
-define('ENTRY_REVIEW', 'Comentario:');
-define('ENTRY_REVIEW_TEXT', '<span class="text-danger font-weight-bold">NOTE:</span> ¡El código HTML no se interpretará!');
-define('ENTRY_RATING', 'Valoración:');
+const ENTRY_PRODUCT = 'Producto:';
+const ENTRY_FROM = 'De:';
+const ENTRY_DATE = 'Fecha:';
+const ENTRY_REVIEW = 'Comentario:';
+const ENTRY_REVIEW_TEXT = '<span class="text-danger font-weight-bold">NOTE:</span> ¡El código HTML no se interpretará!';
+const ENTRY_RATING = 'Valoración:';
 
-define('TEXT_INFO_DELETE_REVIEW_INTRO', '¿Seguro que desea eliminar este comentario?');
+const TEXT_INFO_DELETE_REVIEW_INTRO = '¿Seguro que desea eliminar este comentario?';
 
-define('TEXT_INFO_DATE_ADDED', 'Fecha Alta: %s');
-define('TEXT_INFO_LAST_MODIFIED', 'Última Modificación: %s');
-define('TEXT_INFO_REVIEW_AUTHOR', 'Autor: %s');
-define('TEXT_INFO_REVIEW_RATING', 'Valoración: %s');
-define('TEXT_INFO_REVIEW_READ', 'Leido: %s');
-define('TEXT_INFO_REVIEW_SIZE', 'Tamaño: %s');
-define('TEXT_INFO_REVIEW_STATUS', 'Estado del comentario: %s');
-define('TEXT_INFO_PRODUCTS_AVERAGE_RATING', 'Valoración Media: %s');
+const TEXT_INFO_DATE_ADDED = 'Fecha Alta: %s';
+const TEXT_INFO_LAST_MODIFIED = 'Última Modificación: %s';
+const TEXT_INFO_REVIEW_AUTHOR = 'Autor: %s';
+const TEXT_INFO_REVIEW_RATING = 'Valoración: %s';
+const TEXT_INFO_REVIEW_READ = 'Leido: %s';
+const TEXT_INFO_REVIEW_SIZE = 'Tamaño: %s';
+const TEXT_INFO_REVIEW_STATUS = 'Estado del comentario: %s';
+const TEXT_INFO_PRODUCTS_AVERAGE_RATING = 'Valoración Media: %s';
 
-define('TEXT_REVIEW_PUBLISHED', 'Publicado');
-define('TEXT_REVIEW_NOT_PUBLISHED', 'No Publicado');
+const TEXT_REVIEW_PUBLISHED = 'Publicado';
+const TEXT_REVIEW_NOT_PUBLISHED = 'No Publicado';
 
-define('TEXT_GOOD', '<span class="text-success font-weight-bold">BUENO</span>');
-define('TEXT_BAD', '<span class="text-danger font-weight-bold">MALO</span>');
-define('TEXT_INFO_HEADING_DELETE_REVIEW', 'Eliminar Comentario');
+const TEXT_GOOD = '<span class="text-success font-weight-bold">BUENO</span>';
+const TEXT_BAD = '<span class="text-danger font-weight-bold">MALO</span>';
+const TEXT_INFO_HEADING_DELETE_REVIEW = 'Eliminar Comentario';
 
 const IMAGE_BUTTON_ADD_REVIEW = 'Añadir un Comentario';

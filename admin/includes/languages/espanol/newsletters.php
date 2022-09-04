@@ -5,39 +5,40 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Gestor de Boletines');
+const HEADING_TITLE = 'Gestor de Boletines';
 
-define('TABLE_HEADING_NEWSLETTERS', 'Boletines');
-define('TABLE_HEADING_SIZE', 'Tamaño');
-define('TABLE_HEADING_MODULE', 'Tipo');
-define('TABLE_HEADING_SENT', 'Enviado');
-define('TABLE_HEADING_STATUS', 'Estado');
-define('TABLE_HEADING_ACTION', 'Acción');
+const TABLE_HEADING_NEWSLETTERS = 'Boletines';
+const TABLE_HEADING_DATE_ADDED = 'Añadido';
+const TABLE_HEADING_SIZE = 'Tamaño';
+const TABLE_HEADING_MODULE = 'Tipo';
+const TABLE_HEADING_SENT = 'Enviado';
+const TABLE_HEADING_STATUS = 'Estado';
+const TABLE_HEADING_ACTION = 'Acción';
 
-define('TEXT_NEWSLETTER_MODULE', 'Módulo:');
-define('TEXT_NEWSLETTER_TITLE', 'Título del Boletín:');
-define('TEXT_NEWSLETTER_CONTENT', 'Contenido:');
+const TEXT_NEWSLETTER_MODULE = 'Módulo:';
+const TEXT_NEWSLETTER_TITLE = 'Título del Boletín:';
+const TEXT_NEWSLETTER_CONTENT = 'Contenido:';
 
-define('TEXT_NEWSLETTER_DATE_ADDED', 'Añadido el: %s');
-define('TEXT_NEWSLETTER_DATE_SENT', 'Fecha envío: %s');
+const TEXT_NEWSLETTER_DATE_ADDED = 'Añadido el: %s';
+const TEXT_NEWSLETTER_DATE_SENT = 'Fecha envío: %s';
 
-define('TEXT_INFO_DELETE_INTRO', '¿Seguro que quiere eliminar este boletín?');
+const TEXT_INFO_DELETE_INTRO = '¿Seguro que quiere eliminar este boletín?';
 
-define('TEXT_PLEASE_WAIT', 'Por favor espere .. enviando correos ..<br><br>¡No interrumpa este proceso!');
-define('TEXT_FINISHED_SENDING_EMAILS', '¡Finalizado el envío de correos!');
+const TEXT_PLEASE_WAIT = 'Por favor espere .. enviando correos ..<br><br>¡No interrumpa este proceso!';
+const TEXT_FINISHED_SENDING_EMAILS = '¡Finalizado el envío de correos!';
 
-define('ERROR_NEWSLETTER_TITLE', '<strong>Error:</strong> Se requiere un título para el boletín');
-define('ERROR_NEWSLETTER_MODULE', '<strong>Error:</strong> Se requiere un módulo para el boletín');
-define('ERROR_REMOVE_UNLOCKED_NEWSLETTER', '<strong>Error:</strong> Bloquee el boletín antes de eliminarlo.');
-define('ERROR_EDIT_UNLOCKED_NEWSLETTER', '<strong>Error:</strong> Bloquee el boletín antes de editarlo.');
-define('ERROR_SEND_UNLOCKED_NEWSLETTER', '<strong>Error:</strong> Bloquee el boletín antes de enviarlo.');
+const ERROR_NEWSLETTER_TITLE = '<strong>Error:</strong> Se requiere un título para el boletín';
+const ERROR_NEWSLETTER_MODULE = '<strong>Error:</strong> Se requiere un módulo para el boletín';
+const ERROR_REMOVE_UNLOCKED_NEWSLETTER = '<strong>Error:</strong> Bloquee el boletín antes de eliminarlo.';
+const ERROR_EDIT_UNLOCKED_NEWSLETTER = '<strong>Error:</strong> Bloquee el boletín antes de editarlo.';
+const ERROR_SEND_UNLOCKED_NEWSLETTER = '<strong>Error:</strong> Bloquee el boletín antes de enviarlo.';
 
-define('ERROR_NEWSLETTER_MODULE_NOT_EXISTS', '<strong>Error:</strong> El Módulo no existe');
+const ERROR_NEWSLETTER_MODULE_NOT_EXISTS = '<strong>Error:</strong> El Módulo no existe';
 
-define('TEXT_TITLE', 'Título:');
-define('TEXT_CONTENT', 'Contenido:');
+const TEXT_TITLE = 'Título:';
+const TEXT_CONTENT = 'Contenido:';

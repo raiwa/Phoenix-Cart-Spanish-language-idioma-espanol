@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  const MODULES_ADMIN_MENU_TAXES_COUNTRIES = 'Paises';
+const MODULE_CFG_MODULE_LAYOUT_TITLE = 'Diseño';

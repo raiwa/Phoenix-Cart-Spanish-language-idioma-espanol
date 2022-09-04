@@ -5,24 +5,23 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Monitor de acciones');
+const HEADING_TITLE = 'Monitor de acciones';
 
-define('TABLE_HEADING_MODULE', 'Módulo');
-define('TABLE_HEADING_CUSTOMER', 'Cliente');
-define('TABLE_HEADING_SUCCESS', 'Resultado');
-define('TABLE_HEADING_DATE_ADDED', 'Fecha');
-define('TABLE_HEADING_ACTION', 'Acción');
+const TABLE_HEADING_MODULE = 'Módulo';
+const TABLE_HEADING_CUSTOMER = 'Cliente';
+const TABLE_HEADING_SUCCESS = 'Resultado';
+const TABLE_HEADING_DATE_ADDED = 'Fecha';
+const TABLE_HEADING_ACTION = 'Acción';
 
-define('TEXT_FILTER_SEARCH', 'Buscar:');
-define('TEXT_ALL_MODULES', '-- Todos los Módulos --');
-define('TEXT_GUEST', 'Invitado');
+const TEXT_FILTER_SEARCH = 'Buscar:';
+const TEXT_GUEST = 'Invitado';
 
-define('TEXT_INFO_IDENTIFIER', 'Identificador:');
-define('TEXT_INFO_DATE_ADDED', 'Fecha de Alta: %s');
+const TEXT_INFO_IDENTIFIER = 'Identificador:';
+const TEXT_INFO_DATE_ADDED = 'Fecha de Alta: %s';
 
-define('SUCCESS_EXPIRED_ENTRIES', '<strong>Éxito:</strong> %s entradas caducadas se han eliminado.');
+const SUCCESS_EXPIRED_ENTRIES = '<strong>Éxito:</strong> %s entradas caducadas se han eliminado.';

@@ -5,18 +5,18 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'Mi Cuenta');
-define('NAVBAR_TITLE_2', 'Subscripción a Boletines');
+const NAVBAR_TITLE_1 = 'Mi Cuenta';
+const NAVBAR_TITLE_2 = 'Subscripción a Boletines';
 
-define('HEADING_TITLE', 'Subscripción a Boletines');
+const HEADING_TITLE = 'Subscripción a Boletines';
 
-define('MY_NEWSLETTERS_TITLE', 'Mis Subscripciones');
-define('MY_NEWSLETTERS_GENERAL_NEWSLETTER', 'Boletín General');
-define('MY_NEWSLETTERS_GENERAL_NEWSLETTER_DESCRIPTION', 'Incluye noticias, nuevos productos, ofertas especiales y otros anuncios promocionales.');
+const MY_NEWSLETTERS_TITLE = 'Mis Subscripciones';
+const MY_NEWSLETTERS_GENERAL_NEWSLETTER = 'Boletín General';
+const MY_NEWSLETTERS_GENERAL_NEWSLETTER_DESCRIPTION = 'Incluye noticias, nuevos productos, ofertas especiales y otros anuncios promocionales.';
 
-define('SUCCESS_NEWSLETTER_UPDATED', 'Sus subscripciones se han actualizado correctamente.');
+const SUCCESS_NEWSLETTER_UPDATED = 'Sus subscripciones se han actualizado correctamente.';

@@ -10,14 +10,14 @@
   Released under the GNU General Public License
 */
 
-define('TEXT_COUNT_CUSTOMERS', 'Clientes que reciben esta notificación: %s');
-define('TEXT_PRODUCTS', 'Productos');
-define('TEXT_SELECTED_PRODUCTS', 'Productos seleccionados');
+const TEXT_COUNT_CUSTOMERS = 'Clientes que reciben esta notificación: %s';
+const TEXT_PRODUCTS = 'Productos';
+const TEXT_SELECTED_PRODUCTS = 'Productos seleccionados';
 
-define('JS_PLEASE_SELECT_PRODUCTS', 'Por favor, seleccione algunos productos.');
+const JS_PLEASE_SELECT_PRODUCTS = 'Por favor, seleccione algunos productos.';
 
-define('BUTTON_GLOBAL', 'Global');
-define('BUTTON_SELECT', '>>>');
-define('BUTTON_UNSELECT', '<<<');
-define('BUTTON_SUBMIT', 'Enviar');
-define('BUTTON_CANCEL', 'Cancelar');
+const BUTTON_GLOBAL = 'Global';
+const BUTTON_SELECT = '>>>';
+const BUTTON_UNSELECT = '<<<';
+const BUTTON_SUBMIT = 'Enviar';
+const BUTTON_CANCEL = 'Cancelar';

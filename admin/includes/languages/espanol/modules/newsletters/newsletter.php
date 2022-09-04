@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-define('TEXT_COUNT_CUSTOMERS', 'Clientes que reciben boletines: %s');
+const TEXT_COUNT_CUSTOMERS = 'Clientes que reciben boletines: %s';

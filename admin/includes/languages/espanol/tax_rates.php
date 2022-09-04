@@ -5,31 +5,31 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Tasa de Impuestos');
+const HEADING_TITLE = 'Tasa de Impuestos';
 
-define('TABLE_HEADING_TAX_RATE_PRIORITY', 'Prioridad');
-define('TABLE_HEADING_TAX_CLASS_TITLE', 'Tasas');
-define('TABLE_HEADING_COUNTRIES_NAME', 'País');
-define('TABLE_HEADING_ZONE', 'Zona');
-define('TABLE_HEADING_TAX_RATE', 'Tasa');
-define('TABLE_HEADING_ACTION', 'Acción');
+const TABLE_HEADING_TAX_RATE_PRIORITY = 'Prioridad';
+const TABLE_HEADING_TAX_CLASS_TITLE = 'Tasas';
+const TABLE_HEADING_COUNTRIES_NAME = 'País';
+const TABLE_HEADING_ZONE = 'Zona';
+const TABLE_HEADING_TAX_RATE = 'Tasa';
+const TABLE_HEADING_ACTION = 'Acción';
 
-define('TEXT_INFO_EDIT_INTRO', 'Por favor realice los cambios necesarios');
-define('TEXT_INFO_DATE_ADDED', 'Fecha de Alta: %s');
-define('TEXT_INFO_LAST_MODIFIED', 'Ultima Modificación: %s');
-define('TEXT_INFO_CLASS_TITLE', 'Nombre de la Tasa:');
-define('TEXT_INFO_COUNTRY_NAME', 'País:');
-define('TEXT_INFO_ZONE_NAME', 'Zona:');
-define('TEXT_INFO_TAX_RATE', 'Tasa (%):');
-define('TEXT_INFO_TAX_RATE_PRIORITY', 'Impuestos con la misma prioridad se suman, los demás se aplican sucesivamente.<br /><br />Prioridad:');
-define('TEXT_INFO_RATE_DESCRIPTION', 'Descripción:<br>%s');
-define('TEXT_INFO_INSERT_INTRO', 'Introduzca un nombre y los datos de la nueva tasa');
-define('TEXT_INFO_DELETE_INTRO', '¿Seguro que desea eliminar esta tasa?');
-define('TEXT_INFO_HEADING_NEW_TAX_RATE', 'Nueva Tasa');
-define('TEXT_INFO_HEADING_EDIT_TAX_RATE', 'Editar Tasa');
-define('TEXT_INFO_HEADING_DELETE_TAX_RATE', 'Eliminar Tasa');
+const TEXT_INFO_EDIT_INTRO = 'Por favor realice los cambios necesarios';
+const TEXT_INFO_DATE_ADDED = 'Fecha de Alta: %s';
+const TEXT_INFO_LAST_MODIFIED = 'Ultima Modificación: %s';
+const TEXT_INFO_CLASS_TITLE = 'Nombre de la Tasa:';
+const TEXT_INFO_COUNTRY_NAME = 'País:';
+const TEXT_INFO_ZONE_NAME = 'Zona:';
+const TEXT_INFO_TAX_RATE = 'Tasa (%):';
+const TEXT_INFO_TAX_RATE_PRIORITY = 'Impuestos con la misma prioridad se suman, los demás se aplican sucesivamente.<br /><br />Prioridad:';
+const TEXT_INFO_RATE_DESCRIPTION = 'Descripción:<br>%s';
+const TEXT_INFO_INSERT_INTRO = 'Introduzca un nombre y los datos de la nueva tasa';
+const TEXT_INFO_DELETE_INTRO = '¿Seguro que desea eliminar esta tasa?';
+const TEXT_INFO_HEADING_NEW_TAX_RATE = 'Nueva Tasa';
+const TEXT_INFO_HEADING_EDIT_TAX_RATE = 'Editar Tasa';
+const TEXT_INFO_HEADING_DELETE_TAX_RATE = 'Eliminar Tasa';

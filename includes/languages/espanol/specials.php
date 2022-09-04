@@ -5,15 +5,15 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Ofertas');
-define('HEADING_TITLE', '¡Ofertas especiales!');
-define('TEXT_NO_PRODUCTS', 'No hay ofertas en esta categoría');
+const NAVBAR_TITLE = 'Ofertas';
+const HEADING_TITLE = '¡Ofertas especiales!';
+const TEXT_NO_PRODUCTS = 'No hay ofertas en esta categoría';
 
 // seo
-define('META_SEO_TITLE', 'Ofertas');
-define('META_SEO_DESCRIPTION', 'Descripción Ofertas.');
+const META_SEO_TITLE = 'Ofertas';
+const META_SEO_DESCRIPTION = 'Descripción Ofertas.';
