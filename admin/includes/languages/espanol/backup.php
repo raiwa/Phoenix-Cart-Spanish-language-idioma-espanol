@@ -41,9 +41,12 @@ const TEXT_FORGET = 'Olvidar)';
 const ERROR_BACKUP_DIRECTORY_DOES_NOT_EXIST = '<strong>Error:</strong> No existe directorio para las copias de seguridad. Por favor, defínalo en el archivo configure.php';
 const ERROR_BACKUP_DIRECTORY_NOT_WRITEABLE = '<strong>Error:</strong> El directorio para las copias de seguridad no tiene permisos de escritura.';
 const ERROR_DOWNLOAD_LINK_NOT_ACCEPTABLE = '<strong>Error:</strong> Enlace de Descarga no válido.';
+const ERROR_INVALID_FILE = 'No se reconoce el archivo [%s] como una copia de seguridad válida. Verifique que exista, que tenga una extensión .sql y que tenga un tamaño razonable.';
+const ERROR_FILE_TOO_LARGE = 'El archivo tiene "%d" bytes pero el límite es "%s".';
 
 const SUCCESS_LAST_RESTORE_CLEARED = '<strong>Éxito:</strong> La última fecha de restauración ha sido borrada.';
 const SUCCESS_DATABASE_SAVED = '<strong>Éxito:</strong> La base de datos ha sido guardada.';
 const SUCCESS_DATABASE_RESTORED = '<strong>Éxito:</strong> La base de datos ha sido restaurada.';
 const SUCCESS_BACKUP_DELETED = '<strong>Éxito:</strong> La copia de seguridad ha sido eliminada.';
+
 const TEXT_INFO_BACKUP_SIZE = '%s MB';

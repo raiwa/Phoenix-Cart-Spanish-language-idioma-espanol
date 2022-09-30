@@ -11,4 +11,4 @@
 */
 
 const MODULE_CUSTOMER_DATA_TRADITIONAL_ADDRESS_TEXT_TITLE = 'Dirección tradicional';
-const MODULE_CUSTOMER_DATA_TRADITIONAL_ADDRESS_TEXT_DESCRIPTION = 'La dirección tradicional de osCommerce.';
+const MODULE_CUSTOMER_DATA_TRADITIONAL_ADDRESS_TEXT_DESCRIPTION = 'La dirección tradicional.';
