@@ -15,5 +15,7 @@ const MODULE_ADMIN_DASHBOARD_VERSION_CHECK_DESCRIPTION = 'Mostrar el resultado d
 const MODULE_ADMIN_DASHBOARD_VERSION_CHECK_DATE = 'Fecha última comprobación';
 const MODULE_ADMIN_DASHBOARD_VERSION_CHECK_CHECK_NOW = 'Comprobar ahora';
 
+const MODULE_ADMIN_DASHBOARD_VERSION_CHECK_CURRENT = 'Verificación de versión %s';
+
 const MODULE_ADMIN_DASHBOARD_VERSION_CHECK_UPDATE_AVAILABLE = '<i class="fas fa-exclamation-circle"></i> ¡Hay disponible una actualización de CE Phoenix!';
 const MODULE_ADMIN_DASHBOARD_VERSION_CHECK_IS_LATEST = '<i class="fas fa-thumbs-up"></i> Está usando la última versión de CE Phoenix!';
