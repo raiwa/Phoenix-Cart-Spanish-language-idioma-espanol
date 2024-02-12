@@ -17,3 +17,5 @@ const ENTRY_STATE = 'Provincia';
 const ENTRY_STATE_ERROR = 'Su provincia debe tener al menos %d letras.';
 const ENTRY_STATE_ERROR_SELECT = 'Seleccione una provincia del menú desplegable de provincias.';
 const ENTRY_STATE_TEXT = '';
+
+const ENTRY_STATE_SELECT_ONE = '--- Seleccione, por favor ---';

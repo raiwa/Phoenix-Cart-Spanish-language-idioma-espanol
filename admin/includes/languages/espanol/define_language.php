@@ -21,7 +21,7 @@ const TEXT_EDIT_NOTE = <<<'EORT'
 
 <p>Cada definición de idioma se establece como una constante PHP de la siguiente manera:</p>
 
-<p><pre>const TEXT_MAIN = '<span style="background-color: #FFFF99;">Este texto puede ser editado. ¡Esto es realmente fácil de hacer!</span>');</pre></p>
+<p><pre>const TEXT_MAIN = '<span style="background-color: #FFFF99;">Este texto puede ser editado. ¡Esto es realmente fácil de hacer!</span>';</pre></p>
 
 <p>El texto remarcado puede ser editado. Esta definición está utilizando comillas simples para contener el texto, cualquier comilla simple en la definición del texto debe ser escapado con el caracter barra invertida (por ejemplo, It\'s).</p>
 <p>Multiple line entries can be done like</p>

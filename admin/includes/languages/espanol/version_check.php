@@ -23,7 +23,7 @@ const VERSION_RUNNING_LATEST = 'Se está ejecutando la última versión de CE Ph
 const VERSION_UPGRADES_AVAILABLE = <<<'EOT'
 <strong>
 ¡CE Phoenix %s</strong> es la última versión disponible para Usted!<hr>
-<a class="alert-link" target="_blank" href="https://phoenixcart.org/forum/viewtopic.php?f=26&t=309">Desarrolladores Certificados</a>
+<a class="alert-link" target="_blank" href="https://phoenixcart.org/forum/viewforum.php?f=22">Socios Certificados</a>
  e instrucciones detalladas "<a class="alert-link" target="_blank" href="https://phoenixcart.org/forum/app.php/tag/phoenix-update">Hágalo usted mismo</a>"
  están disponibles en el Club Phoenix.
 EOT;

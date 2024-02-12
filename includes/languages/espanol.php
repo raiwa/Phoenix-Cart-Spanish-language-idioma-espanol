@@ -104,3 +104,5 @@ const PAYMENT_FA_ICON = '<i class="fas fa-file-invoice-dollar fa-fw fa-3x float-
 
 const ENTRY_COMMENTS = '¿Algo que deberíamos saber?';
 const ENTRY_COMMENTS_PLACEHOLDER = 'Comentario aquí...';
+
+const STAR_RATING = 'Valorado con %s Estrellas';

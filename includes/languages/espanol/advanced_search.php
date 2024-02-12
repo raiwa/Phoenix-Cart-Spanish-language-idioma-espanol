@@ -57,12 +57,7 @@ const TEXT_CLOSE_WINDOW = '<u>Cerrar ventana</u> [x]';
 const TEXT_NO_PRODUCTS = 'No hay productos que corresponden con los criterios de búsqueda.';
 
 const ERROR_AT_LEAST_ONE_INPUT = 'Debe introducir al menos un criterio de búsqueda.';
-const ERROR_INVALID_FROM_DATE = 'La Fecha de Alta inicial no es válida';
-const ERROR_INVALID_TO_DATE = 'La Fecha de Alta final es inválida';
-const ERROR_TO_DATE_LESS_THAN_FROM_DATE = 'Fecha de Alta final debe ser mayor que Fecha de Alta inicial';
 const ERROR_PRICE_FROM_MUST_BE_NUM = 'El Precio Desde debe ser númerico';
 const ERROR_PRICE_TO_MUST_BE_NUM = 'El Precio Hasta debe ser númerico';
 const ERROR_PRICE_TO_LESS_THAN_PRICE_FROM = 'Precio Hasta debe ser mayor o igual que Precio Desde';
 const ERROR_INVALID_KEYWORDS = 'Palabras clave incorrectas';
-
-const DOB_FORMAT_STRING = 'dd/mm/yyyy';

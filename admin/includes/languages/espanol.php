@@ -22,11 +22,9 @@ const DATE_FORMAT_LONG = '%A %d de %B de %Y'; // this is used for strftime()
 const DATE_FORMAT = 'd/m/Y';  // this is used for date()
 const PHP_DATE_TIME_FORMAT = 'd/m/Y H:i:s'; // this is used for date()
 const DATE_TIME_FORMAT = DATE_FORMAT_SHORT . ' %H:%M:%S';
-const JQUERY_DATEPICKER_I18N_CODE = 'es'; // leave empty for en_US; see http://jqueryui.com/demos/datepicker/#localization
-const JQUERY_DATEPICKER_FORMAT = 'dd/mm/yy'; // see http://docs.jquery.com/UI/Datepicker/formatDate
 
 // Global entries for the <html> tag
-const HTML_PARAMS = 'dir="ltr" lang="es"';
+const HTML_PARAMS = ' dir="ltr" lang="es"';
 
 // charset for web pages and emails
 const CHARSET = 'utf-8';
@@ -38,7 +36,7 @@ const TITLE = 'CE Phoenix Cart Herramienta de Administración';
 const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart mr-1 text-primary"></i><span class="border-bottom border-primary">Su Tienda</span>';
 const HEADER_TITLE_PHOENIX_CLUB = '<i class="fas fa-question-circle mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Phoenix Club</span>';
 const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary"></i><span class="border-bottom border-primary">Guía del Usuario</span>';
-const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<i class="fas fa-laptop-code mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Certified Developers</span>';
+const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<i class="fas fa-laptop-code mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Socios certificados</span>';
 const HEADER_TITLE_CERTIFIED_ADDONS = '<i class="fas fa-folder-plus mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Addons y Servicios certificados</span>';                                                                                                                                                                           
 const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock mr-1"></i> <span class="border-bottom border-danger"> %s, salir de modo seguro</span>';
 
@@ -137,3 +135,5 @@ const PLACEHOLDER_COMMA_SEPARATION = 'Debe, Estar, Separado, Por, Comas';
 const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>';
 
 const TEXT_IMAGE_NON_EXISTENT = 'NO EXISTE IMAGEN';
+
+const STAR_RATING = 'Valorado con %s Estrellas';

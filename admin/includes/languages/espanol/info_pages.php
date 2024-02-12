@@ -48,3 +48,5 @@ const SORT_ORDER = 'Orden';
 const TABLE_HEADING_SORT_ORDER = 'Orden';
 
 const MISSING_SLUGS_ERROR = 'Faltan etiquetas requeridas:  <b>%s</b><hr>Estas etiquetas son necesarias para potenciar ciertas funciones de su sitio.';
+
+const TEXT_PAGE_SLUG_HELP = 'Slug *debe* ser único';

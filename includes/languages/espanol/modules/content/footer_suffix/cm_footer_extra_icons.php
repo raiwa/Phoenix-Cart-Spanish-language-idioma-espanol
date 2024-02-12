@@ -12,6 +12,6 @@
 
   const MODULE_CONTENT_FOOTER_EXTRA_ICONS_TITLE = 'Íconos de pago';
   const MODULE_CONTENT_FOOTER_EXTRA_ICONS_DESCRIPTION = <<<'EOT'
-Añade un bloque de íconos de pago al área del pie de página adicional de su sitio.<div class="alert alert-info">Los iconos de marca disponibles se muestran aquí: https://fontawesome.com/icons?d=gallery&s=brands&c=payments-shopping</div>
+Añade un bloque de íconos de pago al área del pie de página adicional de su sitio.<div class="alert alert-info">Los iconos de marca disponibles se muestran aquí: https://fontawesome.com/search?q=shopping&o=r&m=free&f=brands</div>
 EOT;
   const MODULE_CONTENT_FOOTER_EXTRA_ICONS_TEXT = '';

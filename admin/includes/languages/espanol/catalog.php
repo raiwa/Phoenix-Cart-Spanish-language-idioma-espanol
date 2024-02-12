@@ -73,7 +73,7 @@ const TEXT_SORT_ORDER = 'Orden:';
 
 const TEXT_PRODUCTS_STATUS = 'Estado de los Productos:';
 const TEXT_PRODUCTS_DATE_AVAILABLE = 'Fecha de Disponibilidad:';
-const TEXT_PRODUCTS_DATE_AVAILABLE_HELP = 'YYYY-MM-DD';
+const TEXT_PRODUCTS_DATE_AVAILABLE_HELP = '';
 const TEXT_PRODUCT_AVAILABLE = 'Disponible';
 const TEXT_PRODUCT_NOT_AVAILABLE = 'Agotado';
 const TEXT_PRODUCTS_MANUFACTURER = 'Fabricante del producto:';
