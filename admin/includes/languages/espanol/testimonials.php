@@ -40,3 +40,5 @@ const TEXT_INFO_HEADING_DELETE_TESTIMONIAL = 'Eliminar Testimonio';
 const TEXT_DISPLAY_NUMBER_OF_TESTIMONIALS = 'Mostrando <b>%s</b> a <b>%s</b> (de <b>%s</b> testimonios)';
 
 const IMAGE_BUTTON_ADD_TESTIMONIAL = 'Añadir un Testimonio';
+
+const ENTRY_TESTIMONIAL_HTML_DISPLAYED = 'HTML se muestra como parte del testimonio.';

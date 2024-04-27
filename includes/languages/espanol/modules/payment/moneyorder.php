@@ -12,6 +12,7 @@
 
 const MODULE_PAYMENT_MONEYORDER_TEXT_TITLE = 'Cheque/Giro Postal';
 const MODULE_PAYMENT_MONEYORDER_TEXT_DESCRIPTION = 'Requiere un pago fuera de línea antes de enviar el pedido.';
+const MODULE_PAYMENT_MONEYORDER_TEXT_CONFIRMATION = 'Pagadero a: %1$s<br><br>Enviar a:<br>%2$s<br>%3$s<br><br>Su pedido no se enviará hasta que recibamos el pago.';
 const MODULE_PAYMENT_MONEYORDER_TEXT_EMAIL_FOOTER = <<<'EOT'
 Hacer pagadero a: %1$s
 
