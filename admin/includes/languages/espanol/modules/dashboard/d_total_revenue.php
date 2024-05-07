@@ -14,3 +14,4 @@ const MODULE_ADMIN_DASHBOARD_TOTAL_REVENUE_TITLE = 'Gráfico de ventas diarias';
 const MODULE_ADMIN_DASHBOARD_TOTAL_REVENUE_DESCRIPTION = 'Mostrar el gráfico de ventas diarias de los últimos X días';
 
 const MODULE_ADMIN_DASHBOARD_TOTAL_REVENUE_CHART_LINK = 'Ingresos Totales';
+const MODULE_ADMIN_DASHBOARD_TOTAL_REVENUE_DAYS_BUTTON = '%s días';
