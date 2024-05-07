@@ -13,9 +13,9 @@
 const HEADING_TITLE = 'Clientes';
 const HEADING_TITLE_SEARCH = 'Buscar:';
 
+const TABLE_HEADING_ID = 'ID';
 const TABLE_HEADING_NAME = 'Nombre';
 const TABLE_HEADING_ACCOUNT_CREATED = 'Cuenta Creada';
-
 const TABLE_HEADING_ACTION = 'Acción';
 
 const TEXT_DATE_ACCOUNT_CREATED = 'Cuenta Creada:';
@@ -35,3 +35,5 @@ const PULL_DOWN_DEFAULT = PLEASE_SELECT;
 const ERROR_PAGE_HAS_UNMET_REQUIREMENT = <<<'EOT'
   La página de clientes requiere que se instalen los módulos de datos de cliente 'sortable_name', 'name', 'email_address', 'country_id' y 'id'. Falta:
 EOT;
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Customers';

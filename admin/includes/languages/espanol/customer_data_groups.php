@@ -32,3 +32,5 @@ EOT;
 const TEXT_INFO_HEADING_NEW_CUSTOMER_DATA_GROUP = 'Nuevo grupo de datos de cliente.';
 const TEXT_INFO_HEADING_EDIT_CUSTOMER_DATA_GROUP = 'Editar grupo de datos de clientes';
 const TEXT_INFO_HEADING_DELETE_CUSTOMER_DATA_GROUP = 'Eliminar grupo de datos de clientes';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Customer_Data_Groups';

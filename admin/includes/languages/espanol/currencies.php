@@ -43,3 +43,5 @@ const ERROR_CURRENCY_INVALID = '<strong>Error:</strong> El tipo de cambio para %
 const WARNING_PRIMARY_SERVER_FAILED = '<strong>Advertencia:</strong> El tipo de cambio primario (%s) ha fallado por %s (%s) - probando el servidor de tipo de cambio secundario.';
 
 const ERROR_INSTALL_CURRENCY_CONVERTER = 'No tiene ningún módulo de Conversión de divisas instalado.  <a class="alert-link font-weight-bold" href="%s"> Instalar ahora</a>';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Currencies';

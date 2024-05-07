@@ -17,3 +17,5 @@ const TABLE_HEADING_DATE_EXPECTED = 'Fecha Lanzamiento';
 const TABLE_HEADING_ACTION = 'Acción';
 
 const TEXT_INFO_DATE_EXPECTED = 'Fecha Lanzamiento: %s';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Products_Expected';

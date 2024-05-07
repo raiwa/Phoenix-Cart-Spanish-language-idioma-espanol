@@ -38,3 +38,5 @@ const TEXT_FILE_DOES_NOT_EXIST = 'El archivo no existe.';
 const TEXT_INFO_DOWNLOAD_ONLY = 'Solo descargar (no guardar en el servidor)';
 
 const ERROR_FILE_NOT_WRITEABLE = '<strong>Error:</strong> No puedo escribir en este archivo. Asigne correctamente los permisos a: %s';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Define_Languages';

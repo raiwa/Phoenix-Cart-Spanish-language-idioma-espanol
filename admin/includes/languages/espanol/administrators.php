@@ -53,3 +53,5 @@ const HTPASSWD_PERMISSIONS = <<<'EOT'
 EOT;
 
 const IMAGE_INSERT_NEW_ADMIN = 'Nuevo Administrador';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Administrators';

@@ -44,3 +44,5 @@ const TEXT_INFO_DELETE_INTRO = '¿Seguro que desea eliminar este precio de ofert
 const BUTTON_INSERT_SPECIAL = 'Añadir nueva Oferta especial';
 
 const WARNING_NO_PRODUCTS = 'Debe añadir un producto antes de poder ponerlo en oferta. ';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Specials';

@@ -26,3 +26,5 @@ const TEXT_INFO_DELETE_INTRO = '¿Seguro que desea eliminar esta zona?';
 const TEXT_INFO_HEADING_NEW_ZONE = 'Nueva Zona';
 const TEXT_INFO_HEADING_EDIT_ZONE = 'Editar Zona';
 const TEXT_INFO_HEADING_DELETE_ZONE = 'Eliminar Zona';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Zones';

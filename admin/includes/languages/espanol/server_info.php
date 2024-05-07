@@ -30,3 +30,5 @@ const TEXT_EXPORT_INTRO = 'Puede guardar la información en un archivo haciendo 
 const TEXT_EXPORT_INFO = 'Exportar la información del Servidor';
 
 const BUTTON_SAVE_TO_DISK = 'Guardar en su disco duro';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Server_Info';

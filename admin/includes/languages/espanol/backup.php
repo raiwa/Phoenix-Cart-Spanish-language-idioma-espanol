@@ -51,3 +51,5 @@ const SUCCESS_DATABASE_RESTORED = '<strong>Éxito:</strong> La base de datos ha 
 const SUCCESS_BACKUP_DELETED = '<strong>Éxito:</strong> La copia de seguridad ha sido eliminada.';
 
 const TEXT_INFO_BACKUP_SIZE = '%s MB';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Database_Backup';

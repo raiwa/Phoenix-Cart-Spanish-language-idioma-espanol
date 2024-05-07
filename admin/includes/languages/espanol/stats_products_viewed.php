@@ -15,3 +15,5 @@ const HEADING_TITLE = 'Productos Más Vistos';
 const TABLE_HEADING_NUMBER = 'Número';
 const TABLE_HEADING_PRODUCTS = 'Productos';
 const TABLE_HEADING_VIEWED = 'Visto';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Products_Viewed';

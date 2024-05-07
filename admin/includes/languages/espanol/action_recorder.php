@@ -25,3 +25,5 @@ const TEXT_INFO_IDENTIFIER = 'Identificador:';
 const TEXT_INFO_DATE_ADDED = 'Fecha de Alta: %s';
 
 const SUCCESS_EXPIRED_ENTRIES = '<strong>Éxito:</strong> %s entradas caducadas se han eliminado.';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Action_Recorder';

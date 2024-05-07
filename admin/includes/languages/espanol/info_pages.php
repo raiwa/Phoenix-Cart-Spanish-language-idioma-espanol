@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-const HEADING_TITLE = 'Administrador de páginas';
+const HEADING_TITLE = 'Páginas de Información';
 
 const TABLE_HEADING_PAGE_ID = 'ID';
 const TABLE_HEADING_PAGE_TITLE = 'Título de página';
@@ -50,3 +50,5 @@ const TABLE_HEADING_SORT_ORDER = 'Orden';
 const MISSING_SLUGS_ERROR = 'Faltan etiquetas requeridas:  <b>%s</b><hr>Estas etiquetas son necesarias para potenciar ciertas funciones de su sitio.';
 
 const TEXT_PAGE_SLUG_HELP = 'Slug *debe* ser único';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Info_Pages';

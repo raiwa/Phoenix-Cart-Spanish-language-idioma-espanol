@@ -25,3 +25,5 @@ const TEXT_INFO_DELETE_INTRO = '¿Seguro que desea eliminar este tipo de impuest
 const TEXT_INFO_HEADING_NEW_TAX_CLASS = 'Nuevo Tipo de Impuesto';
 const TEXT_INFO_HEADING_EDIT_TAX_CLASS = 'Editar Tipo de Impuesto';
 const TEXT_INFO_HEADING_DELETE_TAX_CLASS = 'Eliminar Tipo de Impuesto';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Tax_Classes';

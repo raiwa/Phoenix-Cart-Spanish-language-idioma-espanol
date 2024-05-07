@@ -32,3 +32,5 @@ const ACTION_UTF8_CONVERSION_FROM = 'de %s';
 const ACTION_UTF8_DRY_RUN = '¿Mostrar sólo las consultas? %s&nbsp;';
 
 const BUTTON_ACTION_GO = 'ADELANTE';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Database_Tables';

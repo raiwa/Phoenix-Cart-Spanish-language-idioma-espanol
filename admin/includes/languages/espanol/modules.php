@@ -15,7 +15,8 @@ const TABLE_HEADING_SORT_ORDER = 'Orden';
 const TABLE_HEADING_ACTION = 'Acción';
 const TABLE_HEADING_ENABLED = 'Activado';
 const TABLE_HEADING_GROUP = 'Grupo';
-const TABLE_HEADING_WIDTH = 'Ancho';
+const TABLE_HEADING_WIDTH = 'Contenedor';
+const TABLE_HEADING_DISPLAY_GROUP = 'Display';
 
 const TEXT_INFO_VERSION = 'Versión:';
 const TEXT_INFO_ONLINE_STATUS = 'Estado';

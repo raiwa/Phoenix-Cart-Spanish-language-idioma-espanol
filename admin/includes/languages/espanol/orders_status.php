@@ -31,3 +31,5 @@ const TEXT_SET_DOWNLOADS_STATUS = 'Permitir la descarga de productos virtuales e
 const ERROR_REMOVE_DEFAULT_ORDER_STATUS = '<strong>Error:</strong> El estado de pedido por defecto no se puede eliminar. Establezca otro estado de pedido predeterminado y pruebe de nuevo.';
 const ERROR_STATUS_USED_IN_ORDERS = '<strong>Error:</strong> Este estado de pedido está siendo usado actualmente.';
 const ERROR_STATUS_USED_IN_HISTORY = '<strong>Error:</strong> Este estado de pedido se está usando en algún histórico de estados de pedido.';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Orders_Status';

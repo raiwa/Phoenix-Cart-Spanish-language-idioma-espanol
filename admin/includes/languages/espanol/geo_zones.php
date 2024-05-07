@@ -45,3 +45,5 @@ const TEXT_INFO_COUNTRY_ZONE = 'Zona:';
 const TYPE_BELOW = 'Todas las zonas';
 const PLEASE_SELECT = 'Todas las zonas';
 const TEXT_ALL_COUNTRIES = 'Todos los países';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Tax_Zones';

@@ -34,7 +34,7 @@ const TITLE = 'CE Phoenix Cart Herramienta de Administración';
 
 // header text in includes/hooks/admin/siteWide/hMenu.php
 const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart mr-1 text-primary"></i><span class="border-bottom border-primary">Su Tienda</span>';
-const HEADER_TITLE_PHOENIX_CLUB = '<i class="fas fa-question-circle mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Phoenix Club</span>';
+const HEADER_TITLE_PHOENIX_CLUB = '<i class="fas fa-question-circle mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Foro</span>';
 const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary"></i><span class="border-bottom border-primary">Guía del Usuario</span>';
 const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<i class="fas fa-laptop-code mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Socios certificados</span>';
 const HEADER_TITLE_CERTIFIED_ADDONS = '<i class="fas fa-folder-plus mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Addons y Servicios certificados</span>';                                                                                                                                                                           
@@ -137,3 +137,8 @@ const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i 
 const TEXT_IMAGE_NON_EXISTENT = 'NO EXISTE IMAGEN';
 
 const STAR_RATING = 'Valorado con %s Estrellas';
+const GET_HELP = '<img src="images/icon_phoenix.png" class="mr-2">Ayuda';
+const GET_ADDONS = '<img src="images/icon_phoenix.png" class="mr-2">Addons';
+const ADDONS_FREE = 'Gratis';
+const ADDONS_COMMERCIAL = 'De Pago';
+const ADDONS_PRO = 'PRO';

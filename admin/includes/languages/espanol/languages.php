@@ -30,3 +30,6 @@ const TEXT_INFO_HEADING_EDIT_LANGUAGE = 'Editar Idioma';
 const TEXT_INFO_HEADING_DELETE_LANGUAGE = 'Eliminar Idioma';
 
 const ERROR_REMOVE_DEFAULT_LANGUAGE = '<strong>Error:</strong> El idioma seleccionado por defecto no se puede eliminar. Seleccione otro idioma predeterminado y pruebe de nuevo.';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Languages';
+const GET_ADDONS_LINKS = [ADDONS_FREE => 'https://phoenixcart.org/forum/app.php/addons/free/language-23',];

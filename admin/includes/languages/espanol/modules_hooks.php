@@ -19,3 +19,5 @@ const TABLE_HEADING_METHOD = 'Método';
 const TABLE_HEADING_VERSION = 'Versión';
 
 const TEXT_HOOKS_DIRECTORY = 'Directorio de Hooks:';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Hooks';

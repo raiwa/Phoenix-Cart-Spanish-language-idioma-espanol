@@ -10,12 +10,12 @@
   Released under the GNU General Public License
 */
 
-const HEADING_TITLE = 'Logo de la Tienda actual';
+const HEADING_TITLE = 'Logo de la Tienda';
 
 const HEADING_NEW_LOGO = 'Subir un nuevo logo';
 
 const TEXT_LOGO_IMAGE = 'Nuevo Logo:';
-const TEXT_FORMAT_AND_LOCATION = 'El logotipo de la tienda debe estar en formato .webp, .png, .jpg, .gif o .svg y SOBREESCRIBIRÁ el logotipo actual:';
+const TEXT_FORMAT_AND_LOCATION = '<b>Su logotipo existente será SOBREESCRITO.</b><br><br>El nuevo logotipo de la tienda debe estar en un formato de imagen estándar: png/gif/jpg/svg/webp';
 
 const SUCCESS_LOGO_UPDATED = '<strong>Éxito:</strong> El logotipo de la tienda ha sido actualizado correctamente!';
 

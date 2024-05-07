@@ -13,7 +13,8 @@
 const HEADING_TITLE = 'Seguridad en los Permisos de directorios';
 
 const TABLE_HEADING_DIRECTORIES = 'Directorios';
-const TABLE_HEADING_WRITABLE = 'Modificable';
 const TABLE_HEADING_RECOMMENDED = 'Recomendado';
 
 const TEXT_DIRECTORY = 'Directorio:';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Security_Directory_Permissions';

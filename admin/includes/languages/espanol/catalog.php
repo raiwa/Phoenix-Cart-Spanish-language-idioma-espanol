@@ -122,3 +122,5 @@ const TEXT_CATEGORIES_SEO_TITLE = 'Título de la Categoría para SEO:<br><small>
 const TEXT_EDIT_CATEGORIES_SEO_TITLE = 'Editar el título de la categoría para SEO:<br><small>Reemplaza el título de la categoría en la etiqueta Meta Element &lt;title&gt;<br>y opcionalmente en la ruta de navegación.<br>Dejar en blanco para usar por defecto el nombre de la categoría.</small>';
 
 const TEXT_PRODUCTS_OTHER_IMAGES = 'Imagenes de Galería';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Categories/Products';
