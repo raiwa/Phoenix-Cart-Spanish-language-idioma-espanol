@@ -17,10 +17,9 @@
 //México 'es_MX.UTF-8', 'es_MX.UTF8', 'esm_es'
 @setlocale(LC_ALL, ['en_US.UTF-8', 'en_US.UTF8', 'enu_usa']);
 
-const DATE_FORMAT_SHORT = '%d/%m/%Y';  // this is used for strftime()
-const DATE_FORMAT_LONG = '%A %d de %B de %Y'; // this is used for strftime()
-const DATE_FORMAT = 'd/m/Y'; // this is used for date()
-const DATE_TIME_FORMAT = DATE_FORMAT_SHORT . ' %H:%M:%S';
+$long_date_formatter = new IntlDateFormatter('es', IntlDateFormatter::FULL, IntlDateFormatter::NONE);
+$short_date_formatter = new IntlDateFormatter('es', IntlDateFormatter::SHORT, IntlDateFormatter::NONE);
+$date_time_formatter = new IntlDateFormatter('es', IntlDateFormatter::SHORT, IntlDateFormatter::LONG);
 
 // if USE_DEFAULT_LANGUAGE_CURRENCY is true, use the following currency, instead of the applications default currency (used when changing language)
 const LANGUAGE_CURRENCY = 'EUR';

@@ -38,6 +38,8 @@ const TEXT_BACKUP_DIRECTORY = 'Directorio para las Copias de Seguridad:<br>%s';
 const TEXT_LAST_RESTORATION = 'Última Restauración:<br>%s';
 const TEXT_FORGET = 'Olvidar)';
 
+const PHP_DATE_TIME_FORMAT = 'd/m/Y H:i:s'; // this is used for date()
+
 const ERROR_BACKUP_DIRECTORY_DOES_NOT_EXIST = '<strong>Error:</strong> No existe directorio para las copias de seguridad. Por favor, defínalo en el archivo configure.php';
 const ERROR_BACKUP_DIRECTORY_NOT_WRITEABLE = '<strong>Error:</strong> El directorio para las copias de seguridad no tiene permisos de escritura.';
 const ERROR_DOWNLOAD_LINK_NOT_ACCEPTABLE = '<strong>Error:</strong> Enlace de Descarga no válido.';

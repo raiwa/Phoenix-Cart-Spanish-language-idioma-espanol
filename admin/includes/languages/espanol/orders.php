@@ -70,6 +70,7 @@ const TEXT_INFO_PAYMENT_METHOD = 'Método de Pago: %s';
 
 const TEXT_ALL_ORDERS = 'Todas las Compras';
 const TEXT_NO_ORDER_HISTORY = 'No hay histórico';
+const TEXT_NO_DELIVERY_ADDRESS = 'No hay dirección de envío';
 
 const ERROR_ORDER_DOES_NOT_EXIST = '<strong>Error:</strong> No existe pedido.';
 const SUCCESS_ORDER_UPDATED = '<strong>Éxito:</strong> Pedido actualizado correctamente.';
