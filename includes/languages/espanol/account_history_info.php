@@ -36,6 +36,8 @@ const HEADING_ORDER_HISTORY = 'Historial del pedido';
 const HEADING_COMMENT = 'Comentarios';
 const TEXT_NO_COMMENTS_AVAILABLE = 'No hay comentarios.';
 
-const TABLE_HEADING_DOWNLOAD_DATE = 'Fecha Caducidad: ';
-const TABLE_HEADING_DOWNLOAD_COUNT = ' descargas restantes';
-const HEADING_DOWNLOAD = 'Descargue sus productos aquí';
+const TABLE_HEADING_DOWNLOAD_PRODUCT = 'Producto';
+const TABLE_HEADING_DOWNLOAD_FILE = 'Archivo';
+const TABLE_HEADING_DOWNLOAD_DATE = 'Fecha de caducidad';
+const TABLE_HEADING_DOWNLOAD_COUNT = 'Descargas restantes';
+const HEADING_DOWNLOAD = 'Descargue sus productos aquí...';

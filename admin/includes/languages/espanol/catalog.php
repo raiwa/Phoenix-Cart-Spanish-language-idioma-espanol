@@ -86,6 +86,7 @@ const TEXT_PRODUCTS_MAIN_IMAGE = 'Imagen Principal';
 const TEXT_PRODUCTS_LARGE_IMAGE = 'Imagen Grande';
 const TEXT_PRODUCTS_LARGE_IMAGE_HTML_CONTENT = 'Contenido HTML (para la ventana emergente)';
 const TEXT_PRODUCTS_ADD_LARGE_IMAGE = '<i class="fas fa-plus mr-2"></i>Añadir Nueva Imagen Grande';
+const TEXT_PRODUCTS_DELETE_LARGE_IMAGES = '<i class="fas fa-trash mr-2"></i>Borrar todas</a>';
 const TEXT_PRODUCTS_URL = 'URL de los Productos:';
 const TEXT_PRODUCTS_URL_WITHOUT_HTTP = 'Asegúrese de incluir http:// o https://';
 const TEXT_PRODUCTS_PRICE_NET = 'Precio del Producto (Neto):';

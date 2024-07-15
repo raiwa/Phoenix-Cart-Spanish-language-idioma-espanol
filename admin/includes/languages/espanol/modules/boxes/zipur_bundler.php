@@ -1,0 +1,36 @@
+<?php
+
+    
+
+/*
+* $Id: zipur_bundler.php
+* $Loc: /admin/includes/languages/english/modules/boxes/
+*
+* Name: ZipurBundler
+* Version: 2.3.0
+* Release Date: 04/22/2024
+* Author: Preston Lord
+* 	 phoenixaddons.com / @zipurman / plord@inetx.ca
+*
+* License: THIS LICENSE IS VALID FOR VERSION 2.x OF THIS PRODUCT ONLY
+* 
+* Cannot be distributed
+* 
+* Commercial use allowed
+* 
+* Cannot modify source-code for any purpose (cannot create derivative works)
+*
+* Comments: Copyright (c) 2024: Preston Lord - @zipurman - Intricate Networks Inc.
+* 
+* All rights reserved.
+* 
+* THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+*
+* (Packaged with Zipur Bundler v2.2.0)
+*/
+
+
+
+
+
+    define( 'MODULES_ADMIN_MENU_TOOLS_ZIPUR_BUNDLER', 'Zipur Bundler' );
