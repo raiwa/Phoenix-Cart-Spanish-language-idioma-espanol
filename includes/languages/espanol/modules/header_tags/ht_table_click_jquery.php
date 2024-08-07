@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-  const MODULE_HEADER_TAGS_TABLE_CLICK_JQUERY_TITLE = 'Botón para tabla/fila jQuery';
-  const MODULE_HEADER_TAGS_TABLE_CLICK_JQUERY_DESCRIPTION = 'Añadir botón para tabla/fila jQuery a páginas especificadas';
+  const MODULE_HEADER_TAGS_TABLE_CLICK_JQUERY_TITLE = 'Botón para tabla/fila Javascript';
+  const MODULE_HEADER_TAGS_TABLE_CLICK_JQUERY_DESCRIPTION = 'Añadir botón para tabla/fila Javascript a páginas especificadas';

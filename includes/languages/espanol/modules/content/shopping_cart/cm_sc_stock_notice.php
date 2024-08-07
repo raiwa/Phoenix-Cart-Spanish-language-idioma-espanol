@@ -13,12 +13,13 @@
 const MODULE_CONTENT_SC_STOCK_NOTICE_TITLE = 'Mensaje cantidad no disponible';
 const MODULE_CONTENT_SC_STOCK_NOTICE_DESCRIPTION = 'Mostrar el Mensaje cantidad no disponible en la página de Carrito de Compra.';
 
-const MODULE_CONTENT_SC_STOCK_NOTICE_CANT_CHECKOUT = '<p class="lead">Los productos marcados con ' . STOCK_MARK_PRODUCT_OUT_OF_STOCK . <<<'EOT'
- no están disponibles en la cantidad que requiere.</p>
+const MODULE_CONTENT_SC_STOCK_NOTICE_CANT_CHECKOUT = '<p><b>Los productos marcados con <span class="align-middle">' . STOCK_MARK_PRODUCT_OUT_OF_STOCK . <<<'EOT'
+</span> no están disponibles en la cantidad que requiere.</b></p>
 <p>Por favor, modifique la cantidad de productos marcados con  
 EOT
 . STOCK_MARK_PRODUCT_OUT_OF_STOCK . ', gracias.</p>';
-const MODULE_CONTENT_SC_STOCK_NOTICE_CAN_CHECKOUT = '<p class="lead">Los productos marcados con ' . STOCK_MARK_PRODUCT_OUT_OF_STOCK . <<<'EOT'
- no están disponibles en la cantidad que requiere.</p>
+
+const MODULE_CONTENT_SC_STOCK_NOTICE_CAN_CHECKOUT = '<p><b>Los productos marcados con <span class="align-middle">' . STOCK_MARK_PRODUCT_OUT_OF_STOCK . <<<'EOT'
+</span> no están disponibles en la cantidad que requiere.</b></p>
 <p>De todas formas, puede comprar los que hay disponibles y el resto se lo enviamos más tarde o esperar a que la cantidad requerida esté disponible.</p>
 EOT;

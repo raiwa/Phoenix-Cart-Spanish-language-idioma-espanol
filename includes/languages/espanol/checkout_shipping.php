@@ -16,9 +16,9 @@ const NAVBAR_TITLE_2 = 'Envío';
 const HEADING_TITLE = 'Envío';
 
 const TABLE_HEADING_SHIPPING_ADDRESS = 'Dirección de entrega';
-const TABLE_HEADING_SHIPPING_METHOD = 'Forma de envío';
+const TABLE_HEADING_SHIPPING_METHOD = 'Método de envío';
 
 const TEXT_ENTER_SHIPPING_INFORMATION = 'Esta es la única forma de envío disponible para su pedido.';
-const ERROR_NO_SHIPPING_AVAILABLE_TO_SHIPPING_ADDRESS = 'No hay ningún modo de envío disponible actualmente para la dirección de envío seleccionada. Por favor, seleccione o cree una nueva dirección de envío para su compra.';
+const ERROR_NO_SHIPPING_AVAILABLE_TO_SHIPPING_ADDRESS = 'No hay ningún método de envío disponible actualmente para la dirección de envío seleccionada. Por favor, seleccione o cree una nueva dirección de envío para su compra.';
 
 const BUTTON_CONTINUE_CHECKOUT_PROCEDURE = 'Continuar Compra';

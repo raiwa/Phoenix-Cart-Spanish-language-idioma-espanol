@@ -10,6 +10,8 @@
   Released under the GNU General Public License
 */
 
+const HEADING_TITLE = 'Atributos';
+
 const HEADING_TITLE_OPT = 'Opciones del Producto';
 const HEADING_TITLE_VAL = 'Valores para Opciones';
 const HEADING_TITLE_ATRIB = 'Atributos';

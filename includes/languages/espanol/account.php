@@ -13,12 +13,12 @@
 const NAVBAR_TITLE = 'Mi Cuenta';
 
 const MY_ACCOUNT_TITLE = 'Mi Cuenta';
-const MY_ACCOUNT_INFORMATION = 'Ver o modificar datos de mi cuenta.';
-const MY_ACCOUNT_ADDRESS_BOOK = 'Ver o modificar mis direcciones.';
-const MY_ACCOUNT_PASSWORD = 'Modificar mi contraseña de acceso.';
+const MY_ACCOUNT_INFORMATION = 'Datos de mi cuenta';
+const MY_ACCOUNT_ADDRESS_BOOK = 'Direcciones';
+const MY_ACCOUNT_PASSWORD = 'Modificar contraseña';
 
 const MY_ORDERS_TITLE = 'Mis Pedidos';
-const MY_ORDERS_VIEW = 'Ver los pedidos que he realizado.';
+const MY_ORDERS_VIEW = 'Ver los pedidos que he realizado';
 
 const EMAIL_NOTIFICATIONS_TITLE = 'Notificaciones por correo electrónico';
 const EMAIL_NOTIFICATIONS_NEWSLETTERS = 'Subscribirse o no a los boletines.';

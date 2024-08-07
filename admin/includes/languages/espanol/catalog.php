@@ -23,8 +23,8 @@ const TABLE_HEADING_CATEGORIES_PRODUCTS = 'Categorías / Productos';
 const TABLE_HEADING_ACTION = 'Acción';
 const TABLE_HEADING_STATUS = 'Estado';
 
-const TEXT_NEW_PRODUCT = 'Añadiendo nuevo Producto <small>en %s</small>';
-const TEXT_EXISTING_PRODUCT = 'Editando %s <small>en %s</small>';
+const TEXT_NEW_PRODUCT = 'Añadiendo nuevo Producto <br><small class="text-muted">en %s</small>';
+const TEXT_EXISTING_PRODUCT = 'Editando %s<br><small class="text-muted">en %s</small>';
 
 const TEXT_CATEGORIES = 'Categorías:';
 const TEXT_PRODUCTS = 'Productos:';

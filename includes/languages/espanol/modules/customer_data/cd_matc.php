@@ -19,3 +19,5 @@ const ENTRY_MATC_TEXT = 'Al hacer clic en este cuadro, acepta usted nuestras <a 
 
 // for the modal popup
 const MATC_BUTTON_CLOSE = 'Cerrar';
+
+const ENTRY_MATC_ERROR = 'Debe aceptar nuestros Términos y Condiciones para continuar usando nuestro sitio.';

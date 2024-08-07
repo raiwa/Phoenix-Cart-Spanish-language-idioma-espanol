@@ -15,7 +15,7 @@ const HEADING_TITLE = '<i class="fa fa-lock"></i> Acceso seguro';
 const TEXT_USERNAME = 'Usuario';
 const TEXT_PASSWORD = 'Contraseña';
 
-const TEXT_CREATE_FIRST_ADMINISTRATOR = '<div class="card-body"><div class="alert alert-danger card-text">No existen administradores en la Base de Datos. Por favor rellene la siguiente información para crear el primer administrador.<br><strong>Una entrada manual es requerido después de este paso.</strong></div></div>';
+const TEXT_CREATE_FIRST_ADMINISTRATOR = 'No existen administradores en la Base de Datos. Por favor rellene la siguiente información para crear el primer administrador.<br><strong>Una entrada manual es requerido después de este paso.</strong>';
 
 const ERROR_INVALID_ADMINISTRATOR = '<strong>Error:</strong> Intento de entrar en administrador inválido.';
 

@@ -21,13 +21,15 @@ $long_date_formatter = new IntlDateFormatter('es', IntlDateFormatter::FULL, Intl
 $short_date_formatter = new IntlDateFormatter('es', IntlDateFormatter::SHORT, IntlDateFormatter::NONE);
 $date_time_formatter = new IntlDateFormatter('es', IntlDateFormatter::SHORT, IntlDateFormatter::LONG);
 
+const DATE_FORMAT = 'd/m/Y'; // this is used for date()
+
 // if USE_DEFAULT_LANGUAGE_CURRENCY is true, use the following currency, instead of the applications default currency (used when changing language)
 const LANGUAGE_CURRENCY = 'EUR';
 
 // Global entries for the <html> tag
 const HTML_PARAMS = '';
 
-// charset for web pages and emails
+// charset for web pages and e-mails
 const CHARSET = 'utf-8';
 
 // page title
@@ -43,11 +45,6 @@ const CHECKOUT_BAR_CONFIRMATION = 'Confirmación';
 
 // pull down default text
 const PULL_DOWN_DEFAULT = 'Seleccione, por favor';
-
-// javascript messages
-const JS_ERROR = '¡Hay errores en su formulario!\n\nPor favor, haga las siguientes correciones:\n\n';
-
-const JS_ERROR_NO_PAYMENT_MODULE_SELECTED = '* Por favor, seleccione un método de pago para su pedido.\n';
 
 const ERROR_NO_PAYMENT_MODULE_SELECTED = 'Por favor, seleccione un método de pago para su pedido.';
 

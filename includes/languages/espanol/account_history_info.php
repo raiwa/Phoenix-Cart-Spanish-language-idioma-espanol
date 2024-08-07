@@ -21,8 +21,8 @@ const HEADING_ORDER_DATE = 'Fecha del Pedido:';
 const HEADING_ORDER_TOTAL = 'Total del Pedido:';
 const HEADING_ORDER_BILLING_NUMBER = 'Factura Nº: ';
 
-const HEADING_DELIVERY_ADDRESS = 'Dirección de Entrega';
-const HEADING_SHIPPING_METHOD = 'Gastos de Envío';
+const HEADING_DELIVERY_ADDRESS = 'Dirección de Envío';
+const HEADING_SHIPPING_METHOD = 'Método de Envío';
 
 const HEADING_PRODUCTS = 'Producto';
 const HEADING_TAX = 'Impuestos';

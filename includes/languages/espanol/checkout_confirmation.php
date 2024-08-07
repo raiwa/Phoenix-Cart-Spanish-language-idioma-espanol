@@ -17,7 +17,7 @@ const HEADING_TITLE = '¡Estoy preparado para Comprar!';
 
 const HEADING_SHIPPING_INFORMATION = 'Información de Envío';
 const HEADING_DELIVERY_ADDRESS = 'Dirección de Entrega';
-const HEADING_SHIPPING_METHOD = 'Forma de Envío';
+const HEADING_SHIPPING_METHOD = 'Método de Envío';
 const HEADING_PRODUCTS = 'Producto';
 const HEADING_TAX = 'Impuestos';
 const HEADING_TOTAL = 'Total';
@@ -27,7 +27,7 @@ const HEADING_PAYMENT_METHOD = 'Forma de Pago';
 const HEADING_PAYMENT_INFORMATION = 'Datos del Pago';
 const HEADING_ORDER_COMMENTS = 'Comentarios';
 
-const IMAGE_BUTTON_FINALISE_ORDER = 'Finalizar y Pagar %s por mi pedido';
+const IMAGE_BUTTON_FINALISE_ORDER = 'Confirmar y Pagar %s por mi pedido';
 
 const HEADING_QTY = 'Cant.';
 

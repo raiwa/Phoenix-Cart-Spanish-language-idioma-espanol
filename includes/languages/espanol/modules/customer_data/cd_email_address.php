@@ -15,6 +15,6 @@ const MODULE_CUSTOMER_DATA_EMAIL_ADDRESS_TEXT_DESCRIPTION = 'Mostrar un campo de
 
 const ENTRY_EMAIL_ADDRESS = 'Correo electrónico';
 const ENTRY_EMAIL_ADDRESS_ERROR = 'Su correo electrónico debe tener al menos %d letras.';
-const ENTRY_EMAIL_ADDRESS_CHECK_ERROR = 'Su dirección de Correo electrónico no parece válida - por favor haga los cambios necesarios.';
-const ENTRY_EMAIL_ADDRESS_ERROR_EXISTS = 'Su dirección de Correo electrónico ya figura entre nuestros clientes - puede entrar a su cuenta con esta dirección o crear una cuenta nueva con una dirección diferente.';
+const ENTRY_EMAIL_ADDRESS_CHECK_ERROR = 'Su dirección de correo electrónico no parece válida - por favor haga los cambios necesarios.';
+const ENTRY_EMAIL_ADDRESS_ERROR_EXISTS = 'Su dirección de correo electrónico ya figura entre nuestros clientes - puede entrar a su cuenta con esta dirección o crear una cuenta nueva con una dirección diferente.';
 const ENTRY_EMAIL_ADDRESS_TEXT = '';

@@ -13,6 +13,6 @@
 const MODULE_CUSTOMER_DATA_STREET_ADDRESS_TEXT_TITLE = 'Dirección';
 const MODULE_CUSTOMER_DATA_STREET_ADDRESS_TEXT_DESCRIPTION = 'Mostrar un campo de dirección en el registro de cliente';
 
-const ENTRY_STREET_ADDRESS = 'Dirección';
+const ENTRY_STREET_ADDRESS = 'Dirección Línea 1';
 const ENTRY_STREET_ADDRESS_ERROR = 'Su dirección debe tener al menos %d letras..';
 const ENTRY_STREET_ADDRESS_TEXT = '';
