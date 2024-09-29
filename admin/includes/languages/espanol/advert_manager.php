@@ -29,7 +29,7 @@ const TEXT_ADVERT_IMAGE_LOCAL = 'O introducir el nombre local';
 const TEXT_ADVERT_IMAGE_TARGET = 'Guardar en directorio';
 const TEXT_ADVERT_HTML_TEXT = 'Texto HTML';
 
-const TEXT_ADVERT_TITLE_HELP = 'Esto se usa solo en el Listado de anuncios como recordatorio interno.';
+const TEXT_ADVERT_TITLE_HELP = 'Esto se utiliza en el Listado de anuncios (lado del administrador) como un recordatorio para ti y como el texto ALT de la imagen (lado de la tienda).';
 const TEXT_ADVERT_URL_HELP = 'Incluya https: // para enlaces externos o solo un nombre de página para enlaces internos (por ejemplo, product_info.php o advanced_search_result.php)';
 const TEXT_ADVERT_FRAGMENT_HELP = '¡Solo se usa junto con enlaces internos de tienda! El fragmento de la URL es (por ejemplo) products_id=3 o keywords=xyz';
 const TEXT_ADVERT_SORT_HELP = 'Esto determina el orden del anuncio *dentro* de su grupo.';
