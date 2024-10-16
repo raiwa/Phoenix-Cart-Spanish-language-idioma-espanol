@@ -11,6 +11,6 @@
 */
 
 const NAVBAR_TITLE_1 = 'Mi Cuenta';
-const NAVBAR_TITLE_2 = 'Privacidad de datos';
+const NAVBAR_TITLE_2 = 'Resumen de Datos';
 
-const HEADING_TITLE = 'Lo que sabemos acerca de usted...';
+const HEADING_TITLE = 'Resumen de datos de mi Cuenta';

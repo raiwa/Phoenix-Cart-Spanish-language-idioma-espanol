@@ -11,6 +11,6 @@
 */
 
   const MODULE_CONTENT_GDPR_INTRO_TITLE = 'Introducción RGPD';
-  const MODULE_CONTENT_GDPR_INTRO_DESCRIPTION = 'Explique a los clientes qué es el RGPD ...(';
+  const MODULE_CONTENT_GDPR_INTRO_DESCRIPTION = 'Explique a los clientes el acceso a los datos de su cuenta y el derecho a la eliminación de datos.';
 
-  const MODULE_CONTENT_GDPR_INTRO_PUBLIC_TEXT = '<p>El <strong>Reglamento general de protección de datos (RGPD)</strong> (Reglamento (UE) 2016/679) es un reglamento mediante el cual el Parlamento Europeo, el Consejo de la Unión Europea y la Comisión Europea tienen la intención de fortalecer y unificar la protección de datos para todos los ciudadanos de la Unión Europea (UE).</p><p>El RGPD establece que Usted puede revisar toda la información personal de la que disponemos. Si es ciudadano de la UE, puede solicitar la eliminación de algunos de estos datos.</p>';
+  const MODULE_CONTENT_GDPR_INTRO_PUBLIC_TEXT = '<p><strong>Acceso completo a todos los datos de su cuenta en un solo lugar.</strong></p><p>Vea todos los datos personales que tenemos asociados con su cuenta, incluidas las interacciones con nuestro sitio web. Nos comprometemos a la transparencia y a proteger su privacidad, dándole control total sobre su información. Puede eliminar los datos personales que tenemos utilizando <a class="alert-link" href="%s">Eliminar mi Cuenta aquí</a>.</p>';

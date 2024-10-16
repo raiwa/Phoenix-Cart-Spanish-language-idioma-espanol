@@ -22,6 +22,6 @@ const TEXT_ALL_MANUFACTURERS = 'Todos los fabricantes';
 
 // seo
 if ( ($category_depth == 'top') && (!isset($_GET['manufacturers_id'])) ) {
-  define('META_SEO_TITLE', 'Título de la página Index');
-  define('META_SEO_DESCRIPTION', 'Esta es la descripción de su sitio para ser utilizado en el META Elemento Descripción');
+  define('META_SEO_TITLE', 'Bienvenido a Nuestra Tienda en Línea');
+  define('META_SEO_DESCRIPTION', 'Descubra una amplia selección de productos y disfrute de una compra en línea fácil con un excelente servicio al cliente.');
 }

@@ -79,7 +79,7 @@ const WARNING_ORDER_NOT_UPDATED = '<strong>Advertencia:</strong> Nada que cambia
 const ENTRY_ADD_COMMENT = 'Añadir Comentario:';
 
 const ENTRY_NOTIFY_CUSTOMER_TEXT = 'Esto notificará al cliente que su pedido ha sido actualizado.';
-const ENTRY_NOTIFY_COMMENTS_TEXT = 'Esto añadirá sus comentarios al pedido y al correo electrónico.';
+const ENTRY_NOTIFY_COMMENTS_TEXT = 'Esto añadirá sus comentarios al correo electrónico de notificación del cliente.';
 
 const TEXT_ORDER_STATUS = '<strong>%s</strong> [%s]';
 const TEXT_ORDER_PAYMENT = '<strong>%s</strong> [%s]';
