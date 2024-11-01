@@ -14,11 +14,11 @@ const NAVBAR_TITLE = 'Comprobación de Seguridad';
 const HEADING_TITLE = 'Comprobación de Seguridad';
 
 const TEXT_INFORMATION = <<<'EOT'
-Hemos detectado que su navegador ha generado un Identificativo de Sesión Seguro diferente al que ha estado usando a lo largo de su visita.<br><br>
-Por razones de seguridad, deberá entrar de nuevo en su cuenta para verificar su identidad.<br><br>
-Algunos navegadores como Konqueror 3.1 no tienen la capacidad de generar automáticamente un ID de sesión SSL seguro, lo cual requerimos. Si utiliza un navegador de este tipo, le recomendamos que cambie a otro navegador, como <a class = "btn btn-light btn-sm" role="button" href="http://www.microsoft.com/ie/" target="_blank" rel="noreferrer">Microsoft Internet Explorer</a> o <a class = "btn btn-light btn-sm" role="button" href="http://channels.netscape.com/ns/browsers/download_other.jsp" target="_blank" rel="noreferrer">Netscape</a> o <a class = "btn btn-light btn-sm" role = "button" href = "http://www.mozilla.org/releases/" target="_blank" rel="noreferrer">Mozilla</a> para continuar con su experiencia de compra en línea.<br><br>
-Hemos tomado esta medida de seguridad para su beneficio y le pedimos disculpas por adelantado si se producen inconvenientes.<br><br>
-<a class="btn btn-success btn-sm" role="button" href="%s">póngase en contacto el propietario de la tienda</a> si tiene alguna pregunta relacionada con este requisito o si desea continuar comprando productos sin conexión.
+Hemos detectado que su navegador ha generado un ID de sesión SSL diferente que se utiliza en nuestras páginas seguras.<br><br>
+Por motivos de seguridad, necesitará iniciar sesión en su perfil nuevamente para continuar comprando.<br><br>
+Algunos navegadores no tienen la capacidad de generar automáticamente un ID de sesión SSL seguro. Si utiliza un navegador así, le recomendamos cambiar a un navegador más moderno como <a href="https://www.microsoft.com/en-us/edge/download?form=MA13FJ" target="_blank" rel="noreferrer">Microsoft Edge</a>, <a href="https://support.google.com/chrome/answer/95346" target="_blank" rel="noreferrer">Google Chrome</a> o <a href="https://www.mozilla.org/en-GB/firefox/" target="_blank" rel="noreferrer">Mozilla Firefox</a> para seguir utilizando nuestro sitio.<br><br>
+Hemos tomado esta medida de seguridad para su beneficio y nos disculpamos por cualquier inconveniente causado.<br><br>
+Por favor, <a class="btn btn-success" role="button" href="%s">contáctenos</a> si tiene alguna pregunta sobre este requisito.
 EOT;
 
 const BOX_INFORMATION_HEADING = 'Seguridad y Privacidad';

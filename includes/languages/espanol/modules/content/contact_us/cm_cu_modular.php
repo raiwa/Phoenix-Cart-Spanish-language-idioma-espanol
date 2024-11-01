@@ -11,4 +11,4 @@
 */
 
   const MODULE_CONTENT_CU_MODULAR_TITLE = '&pi; Módulo de contacto modular';
-  const MODULE_CONTENT_CU_MODULAR_DESCRIPTION = 'Ahora puede diseñar su página de contacto más fácilmente.<div class="alert alert-warning">Este módulo requiere el uso de módulos secundarios de &pi;. ¡Cualquier slot que no tenga módulos secundarios... no se mostrará!</div>';
+  const MODULE_CONTENT_CU_MODULAR_DESCRIPTION = 'Ahora puede diseñar su página de contacto más fácilmente.<div class="alert alert-warning">Este módulo requiere el uso de módulos secundarios de &pi;. ¡Las secciones que no tienen módulos secundarios no se mostrarán!</div>';
