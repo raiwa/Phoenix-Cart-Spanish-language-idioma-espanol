@@ -13,4 +13,4 @@
   const MODULE_CONTENT_FOOTER_EXTRA_COPYRIGHT_TITLE = 'Detalles Copyright';
   const MODULE_CONTENT_FOOTER_EXTRA_COPYRIGHT_DESCRIPTION = 'Añade un bloque con los derechos de autor reservados al área de pie de página adicional de su sitio.';
 
-  const FOOTER_TEXT_BODY = '<p>Copyright &copy; %s <a href="%s">%s</a> &middot; Powered by <a href="https://phoenixcart.org" target="_blank" rel="noreferrer">CE Phoenix Cart</a></p>';
+  const FOOTER_TEXT_BODY = '<p>Copyright &copy; %s <a class="text-body-emphasis"  href="%s">%s</a> &middot; Powered by <a class="text-body-emphasis"  href="https://phoenixcart.org" target="_blank" rel="noreferrer">CE Phoenix Cart</a></p>';

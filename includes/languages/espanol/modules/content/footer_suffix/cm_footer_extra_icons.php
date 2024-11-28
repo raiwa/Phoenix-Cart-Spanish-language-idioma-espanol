@@ -10,8 +10,9 @@
   Released under the GNU General Public License
 */
 
-  const MODULE_CONTENT_FOOTER_EXTRA_ICONS_TITLE = 'Íconos de pago';
+  const MODULE_CONTENT_FOOTER_EXTRA_ICONS_TITLE = 'Iconos del pie de página adicional';
   const MODULE_CONTENT_FOOTER_EXTRA_ICONS_DESCRIPTION = <<<'EOT'
-Añade un bloque de íconos de pago al área del pie de página adicional de su sitio.<div class="alert alert-info">Los iconos de marca disponibles se muestran aquí: https://fontawesome.com/search?q=shopping&o=r&m=free&f=brands</div>
+Añade iconos de FontAwesome al área del pie de página adicional de su sitio.<div class="alert alert-info">Los iconos disponibles se pueden ver aquí: https://fontawesome.com/search?o=r&m=free</div>
 EOT;
+
   const MODULE_CONTENT_FOOTER_EXTRA_ICONS_TEXT = '';

@@ -13,3 +13,6 @@
   const I_BRAND_ICONS_TITLE = 'Íconos de Marca';
   const I_BRAND_ICONS_DESCRIPTION = 'Mostrar íconos de marca con un enlace a la página de la marca correspondiente.<div class="alert alert-info">Este es un módulo secundario para usar con el sistema &Pi;.</div>';
   const I_BRAND_ICONS_HEADING     = 'Marcas Populares';
+
+  const I_BRAND_ICONS_PREV = 'Anterior';
+  const I_BRAND_ICONS_NEXT = 'Siguiente';

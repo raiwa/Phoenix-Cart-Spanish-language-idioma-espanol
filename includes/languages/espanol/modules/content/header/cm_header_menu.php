@@ -16,3 +16,5 @@
   const MODULE_CONTENT_HEADER_MENU_TOGGLER = 'Alternar Menú';
 
   const MODULE_CONTENT_HEADER_MENU_MANUFACTURER_DROPDOWN = 'Fabricantes';
+
+  const MODULE_CONTENT_HEADER_MENU_MENU = 'Menú de navegación';

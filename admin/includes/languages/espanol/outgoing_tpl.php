@@ -27,7 +27,10 @@ const TEXT_OUTGOING_SLUG = 'Nombre de Plantilla';
 const TEXT_OUTGOING_SLUG_TITLE = 'Título del Correo Electrónico';
 const TEXT_OUTGOING_SLUG_TEXT = 'Texto del Correo Electrónico';
 
-const MISSING_SLUGS = '<div class="alert alert-danger">Atención: ¡Existen estos módulos de programación y DEBEN tener una plantilla creada para ellos!<br><b>%s</b></div>';
+const MISSING_SLUGS = '<div class="alert alert-danger d-flex justify-content-between">\
+<span>Atención: ¡Estos módulos de programación existen y DEBEN tener una plantilla creada para ellos!<br><b>%s</b></span>\
+<span>%s</span>\
+</div>';
 
 const TEXT_HEADING_NEW_OUTGOING_EMAIL = 'Agregar Nueva Plantilla de Correo Electrónico';
 const TEXT_HEADING_EDIT_OUTGOING_EMAIL = 'Editar Plantilla de Correo Electrónico';
