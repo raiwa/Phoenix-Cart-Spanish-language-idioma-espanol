@@ -53,4 +53,8 @@ const BUTTON_INSERT_NEW_MANUFACTURER = 'Nuevo Fabricante';
 
 const TEXT_MANUFACTURERS_IMAGE_LABEL = 'Seleccionar Fabricante';
 
+const TEXT_MANUFACTURERS_ADDRESS = 'Dirección:<br>%s';
+const TEXT_MANUFACTURERS_EMAIL = 'Correo electrónico: %s';
+const TEXT_NA = 'N/D';
+
 const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Manufacturers';

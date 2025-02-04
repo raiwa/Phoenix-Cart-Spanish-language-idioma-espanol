@@ -92,6 +92,7 @@ const TEXT_PRODUCTS_URL_WITHOUT_HTTP = 'Asegúrese de incluir http:// o https://
 const TEXT_PRODUCTS_PRICE_NET = 'Precio del Producto (Neto):';
 const TEXT_PRODUCTS_PRICE_GROSS = 'Precio del Producto (Bruto):';
 const TEXT_PRODUCTS_WEIGHT = 'Peso del producto:';
+const TEXT_PRODUCTS_IMPORTER = 'Importador del producto';
 
 const EMPTY_CATEGORY = 'Categoría vacía';
 

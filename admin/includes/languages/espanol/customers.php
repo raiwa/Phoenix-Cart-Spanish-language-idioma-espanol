@@ -32,6 +32,8 @@ const PLEASE_SELECT = 'Seleccione';
 
 const PULL_DOWN_DEFAULT = PLEASE_SELECT;
 
+const CUSTOMER_REVIEW_ANONYMIZED = 'Cliente verificado';
+
 const ERROR_PAGE_HAS_UNMET_REQUIREMENT = <<<'EOT'
   La página de clientes requiere que se instalen los módulos de datos de cliente 'sortable_name', 'name', 'email_address', 'country_id' y 'id'. Falta:
 EOT;

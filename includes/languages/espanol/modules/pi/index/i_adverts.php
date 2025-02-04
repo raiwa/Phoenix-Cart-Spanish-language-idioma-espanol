@@ -11,4 +11,4 @@
 */
 
   const I_ADVERTS_TITLE        = 'Anuncios';
-  const I_ADVERTS_DESCRIPTION  = 'Anuncios en paralelo.<div class="alert alert-info">Este es un módulo secundario para usar con el sistema &Pi;, que se vincula con el Administrador de Anuncios.</div>';
+  const I_ADVERTS_DESCRIPTION = 'Anuncios en paralelo.<div class="alert alert-danger mt-2">El contenido de los anuncios se configura en Herramientas > Administrador de Anuncios.</div><div class="alert alert-info">Este es un módulo secundario para usar con el sistema &Pi;, que está vinculado al Administrador de Anuncios.</div>';
