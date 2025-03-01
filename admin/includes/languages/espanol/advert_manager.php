@@ -72,8 +72,8 @@ const ERROR_ADVERT_IMAGE_OR_TEXT_REQUIRED = '<strong>Error:</strong> No ha inser
 const TEXT_DISPLAY_NUMBER_OF_ADVERTS = 'Mostrando <b>%s</b> a <b>%s</b> de <b>%s</b> Anuncios';
 const IMAGE_NEW_ADVERT = 'Nuevo Anuncio';
 
-const TEXT_ADVERT_EXTERNAL_URL = '<i class="fas fa-external-link-alt mr-1"></i> enlace externo:<br>%s';
-const TEXT_ADVERT_INTERNAL_URL = '<i class="fas fa-link mr-1"></i> enlace interno:<br>%s';
+const TEXT_ADVERT_EXTERNAL_URL = '<i class="fas fa-external-link-alt me-1"></i> enlace externo:<br>%s';
+const TEXT_ADVERT_INTERNAL_URL = '<i class="fas fa-link me-1"></i> enlace interno:<br>%s';
 
 const IMAGE_IMPORT_ADVERT = 'Intento de importación de banner';
 const IMAGE_IMPORT_ADVERT_EXPLANATION = 'Esto importará datos de la tabla de la base de datos "banners". Es posible que deba eliminar algunos de los datos después de la importación, ya que los "banners" nunca fueron para uso en Carousel ...';

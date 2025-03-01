@@ -42,6 +42,6 @@ const ERROR_REMOVE_DEFAULT_CURRENCY = '<strong>Error:</strong> La moneda predete
 const ERROR_CURRENCY_INVALID = '<strong>Error:</strong> El tipo de cambio para %s (%s) no fue actualizado vía %s. ¿Se trata de un código de moneda válido?';
 const WARNING_PRIMARY_SERVER_FAILED = '<strong>Advertencia:</strong> El tipo de cambio primario (%s) ha fallado por %s (%s) - probando el servidor de tipo de cambio secundario.';
 
-const ERROR_INSTALL_CURRENCY_CONVERTER = 'No tiene ningún módulo de Conversión de divisas instalado.  <a class="alert-link font-weight-bold" href="%s"> Instalar ahora</a>';
+const ERROR_INSTALL_CURRENCY_CONVERTER = 'No tiene ningún módulo de Conversión de divisas instalado.  <a class="alert-link fw-bold" href="%s"> Instalar ahora</a>';
 
 const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Currencies';

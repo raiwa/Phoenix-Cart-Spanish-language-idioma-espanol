@@ -23,9 +23,9 @@ const ENTRY_CATEGORIES = 'Categoría:';
 const ENTRY_INCLUDE_SUBCATEGORIES = 'Incluir Subcategorías';
 const ENTRY_MANUFACTURERS = 'Fabricante:';
 const ENTRY_PRICE_FROM = 'Precio desde:';
-const ENTRY_PRICE_TO = 'hasta:';
+const ENTRY_PRICE_TO = 'Precio hasta:';
 const ENTRY_DATE_FROM = 'De fecha de alta';
-const ENTRY_DATE_TO = 'hasta:';
+const ENTRY_DATE_TO = 'Hasta fecha de alta:';
 
 const ENTRY_PRICE_FROM_TEXT = 'de';
 const ENTRY_PRICE_TO_TEXT = 'a';

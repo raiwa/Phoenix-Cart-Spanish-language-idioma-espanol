@@ -31,12 +31,12 @@ const CHARSET = 'utf-8';
 const TITLE = 'CE Phoenix Cart Herramienta de Administración';
 
 // header text in includes/hooks/admin/siteWide/hMenu.php
-const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart mr-1 text-primary"></i><span class="border-bottom border-primary">Su Tienda</span>';
-const HEADER_TITLE_PHOENIX_CLUB = '<i class="fas fa-question-circle mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Foro</span>';
-const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary"></i><span class="border-bottom border-primary">Guía del Usuario</span>';
-const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<i class="fas fa-laptop-code mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Socios certificados</span>';
-const HEADER_TITLE_CERTIFIED_ADDONS = '<i class="fas fa-folder-plus mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Addons y Servicios certificados</span>';                                                                                                                                                                           
-const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock mr-1"></i> <span class="border-bottom border-danger"> %s, salir de modo seguro</span>';
+const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart me-1 text-primary" aria-hidden="true" title="Su Tienda"></i><span class="border-bottom border-primary">Su Tienda</span>';
+const HEADER_TITLE_PHOENIX_CLUB = '<i class="fas fa-question-circle me-1 text-primary" aria-hidden="true" title="Foro"></i><span class="border-bottom border-primary">Foro</span>';
+const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school me-1 text-primary aria-hidden="true" title="Guía del Usuario"></i><span class="border-bottom border-primary">Guía del Usuario</span>';
+const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<i class="fas fa-laptop-code me-1 text-primary" aria-hidden="true" title="Socios certificados"></i><span class="border-bottom border-primary">Socios certificados</span>';
+const HEADER_TITLE_CERTIFIED_ADDONS = '<i class="fas fa-folder-plus me-1 text-primary" aria-hidden="true" title="Add-ons"></i><span class="border-bottom border-primary">Addons</span>';                                                                                                                                                                           
+const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock me-1" aria-hidden="true" title="Salir"></i> <span class="border-bottom border-danger"> %s, salir de modo seguro</span>';
 
 // images
 const IMAGE_BACK = 'Volver';
@@ -135,8 +135,8 @@ const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i 
 const TEXT_IMAGE_NON_EXISTENT = 'NO EXISTE IMAGEN';
 
 const STAR_RATING = 'Valorado con %s Estrellas';
-const GET_HELP = '<img src="images/icon_phoenix.png" class="mr-2">Ayuda';
-const GET_ADDONS = '<img src="images/icon_phoenix.png" class="mr-2">Addons';
+const GET_HELP = '<img alt="" src="images/icon_phoenix.png" class="me-2">Ayuda';
+const GET_ADDONS = '<img alt="" src="images/icon_phoenix.png" class="me-2">Addons';
 const ADDONS_FREE = 'Gratis';
 const ADDONS_COMMERCIAL = 'De Pago';
 const ADDONS_PRO = 'PRO';

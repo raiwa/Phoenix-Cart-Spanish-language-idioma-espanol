@@ -16,10 +16,12 @@ const NAVBAR_TITLE_2 = 'Mis Direcciones';
 const HEADING_TITLE = 'Mis Direcciones';
 
 const PRIMARY_ADDRESS_TITLE = 'Dirección Principal';
-const PRIMARY_ADDRESS_DESCRIPTION = 'Esta dirección se seleccionará por defecto para el envío y para la facturación de sus pedidos.<br><br>Esta dirección también se utilizará para calcular los impuestos que le corresponden.';
+const PRIMARY_ADDRESS_DESCRIPTION = <<<'EOT'
+Esta dirección se utiliza como la dirección de entrega y facturación preseleccionada para los pedidos realizados en esta tienda, así como para el cálculo de impuestos sobre productos y servicios.
+EOT;
 
 const ADDRESS_BOOK_TITLE = 'Direcciones';
 
 const PRIMARY_ADDRESS = '(dirección principal)';
 
-const TEXT_MAXIMUM_ENTRIES = '<span class="inputRequirement">NOTA:</span> Se permiten un máximo de %s direcciones.';
+const TEXT_MAXIMUM_ENTRIES = '<span class="text-danger-emphasis">NOTA:</span> Se permiten un máximo de %s direcciones.';

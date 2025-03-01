@@ -75,8 +75,8 @@ const TEXT_CCVAL_ERROR_UNKNOWN_CARD = 'Los primeros cuatro dígitos de su tarjet
 const TEXT_SEARCH_PLACEHOLDER = 'Buscar';
 
 // message for required inputs
-const FORM_REQUIRED_INFORMATION = '<i class="fas fa-asterisk text-danger"></i> Información requerida';
-const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>';
+const FORM_REQUIRED_INFORMATION = '';
+const FORM_REQUIRED_INPUT = '';
 
 // product notifications
 const PRODUCT_SUBSCRIBED = '%s se ha agregado a su lista de notificaciones';
@@ -96,10 +96,19 @@ EOT;
 
 // for new style internal pages
 const LINK_TEXT_EDIT = '<small><a class="%s" href="%s">Editar</a></small>';
-const SHIPPING_FA_ICON = '<i class="fas fa-shipping-fast fa-fw fa-3x float-right text-secondary"></i>';
-const PAYMENT_FA_ICON = '<i class="fas fa-file-invoice-dollar fa-fw fa-3x float-right text-secondary"></i>';
+const SHIPPING_FA_ICON = '<i class="fas fa-shipping-fast fa-fw fa-3x float-end"></i>';
+const PAYMENT_FA_ICON = '<i class="fas fa-file-invoice-dollar fa-fw fa-3x float-end"></i>';
 
 const ENTRY_COMMENTS = '¿Algo que deberíamos saber?';
 const ENTRY_COMMENTS_PLACEHOLDER = 'Comentario aquí...';
 
 const STAR_RATING = 'Valorado con %s Estrellas';
+
+// added BS5 template
+const NAVBAR_ICON_CART_CONTENTS = '<span class="position-relative%2$s">
+  <i title="Carrito de compras: %1$s artículo(s) en su carrito" class="fas fa-shopping-cart fa-fw fa-xl"></i>
+  <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-primary border">
+    <span class="cart-count">%1$s</span>
+  </span>
+</span>
+';

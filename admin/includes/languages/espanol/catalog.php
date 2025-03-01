@@ -14,9 +14,9 @@ const HEADING_TITLE = 'Categorías / Productos';
 const HEADING_TITLE_SEARCH = 'Buscar:';
 const HEADING_TITLE_GOTO = 'Ir a:';
 
-const SECTION_HEADING_GENERAL = '<i class="fas fa-language fa-fw mr-1"></i>Específico para idioma';
-const SECTION_HEADING_DATA = '<i class="fas fa-language fa-fw mr-1"></i>Específico para producto';
-const SECTION_HEADING_IMAGES = '<i class="fas fa-language fa-fw mr-1"></i>Imágenes de producto';
+const SECTION_HEADING_GENERAL = '<i class="fas fa-language fa-fw me-1"></i>Específico para idioma';
+const SECTION_HEADING_DATA = '<i class="fas fa-language fa-fw me-1"></i>Específico para producto';
+const SECTION_HEADING_IMAGES = '<i class="fas fa-language fa-fw me-1"></i>Imágenes de producto';
 
 const TABLE_HEADING_ID = 'ID';
 const TABLE_HEADING_CATEGORIES_PRODUCTS = 'Categorías / Productos';
@@ -44,7 +44,6 @@ const TEXT_PRODUCT_DATE_AVAILABLE = 'Fecha disponible.';
 const TEXT_EDIT_INTRO = 'Por favor realice los cambios necesarios';
 const TEXT_EDIT_CATEGORIES_NAME = 'Nombre Categoría:';
 const TEXT_EDIT_CATEGORIES_IMAGE = 'Imagen Categoría:';
-const TEXT_EDIT_SORT_ORDER = 'Orden:';
 
 const TEXT_INFO_COPY_TO_INTRO = 'Elija la categoría hacia donde quiera copiar este producto';
 const TEXT_INFO_CURRENT_CATEGORIES = 'Categorías:';
@@ -77,6 +76,7 @@ const TEXT_PRODUCTS_DATE_AVAILABLE_HELP = '';
 const TEXT_PRODUCT_AVAILABLE = 'Disponible';
 const TEXT_PRODUCT_NOT_AVAILABLE = 'Agotado';
 const TEXT_PRODUCTS_MANUFACTURER = 'Fabricante del producto:';
+const TEXT_PRODUCTS_IMPORTER = 'Importador del producto';
 const TEXT_PRODUCTS_NAME = 'Nombre del Producto:';
 const TEXT_PRODUCTS_DESCRIPTION = 'Descripción del producto:';
 const TEXT_PRODUCTS_QUANTITY = 'Cantidad:';
@@ -85,14 +85,16 @@ const TEXT_PRODUCTS_IMAGE = 'Imagen:';
 const TEXT_PRODUCTS_MAIN_IMAGE = 'Imagen Principal';
 const TEXT_PRODUCTS_LARGE_IMAGE = 'Imagen Grande';
 const TEXT_PRODUCTS_LARGE_IMAGE_HTML_CONTENT = 'Contenido HTML (para la ventana emergente)';
-const TEXT_PRODUCTS_ADD_LARGE_IMAGE = '<i class="fas fa-plus mr-2"></i>Añadir Nueva Imagen Grande';
-const TEXT_PRODUCTS_DELETE_LARGE_IMAGES = '<i class="fas fa-trash mr-2"></i>Borrar todas</a>';
+const TEXT_PRODUCTS_LARGE_IMAGE_FILE = 'Fichero';
+const TEXT_PRODUCTS_LARGE_IMAGE_SORT = 'Órden';
+const TEXT_PRODUCTS_LARGE_IMAGE_ACTION = 'Acción';
+const TEXT_PRODUCTS_ADD_LARGE_IMAGE = '<i class="fas fa-plus me-2"></i>Añadir Nueva Imagen Grande';
+const TEXT_PRODUCTS_DELETE_LARGE_IMAGES = '<i class="fas fa-trash me-2"></i>Borrar todas</a>';
 const TEXT_PRODUCTS_URL = 'URL de los Productos:';
 const TEXT_PRODUCTS_URL_WITHOUT_HTTP = 'Asegúrese de incluir http:// o https://';
 const TEXT_PRODUCTS_PRICE_NET = 'Precio del Producto (Neto):';
 const TEXT_PRODUCTS_PRICE_GROSS = 'Precio del Producto (Bruto):';
 const TEXT_PRODUCTS_WEIGHT = 'Peso del producto:';
-const TEXT_PRODUCTS_IMPORTER = 'Importador del producto';
 
 const EMPTY_CATEGORY = 'Categoría vacía';
 

@@ -22,7 +22,7 @@ const ENTRY_PRODUCT = 'Producto:';
 const ENTRY_FROM = 'De:';
 const ENTRY_DATE = 'Fecha:';
 const ENTRY_REVIEW = 'Comentario:';
-const ENTRY_REVIEW_TEXT = '<span class="text-danger font-weight-bold">NOTE:</span> ¡El código HTML no se interpretará!';
+const ENTRY_REVIEW_TEXT = '<span class="text-danger fw-bold">NOTE:</span> ¡El código HTML no se interpretará!';
 const ENTRY_RATING = 'Valoración:';
 
 const TEXT_INFO_DELETE_REVIEW_INTRO = '¿Seguro que desea eliminar este comentario?';
@@ -38,8 +38,8 @@ const TEXT_INFO_PRODUCTS_AVERAGE_RATING = 'Valoración Media: %s';
 const TEXT_REVIEW_PUBLISHED = 'Publicado';
 const TEXT_REVIEW_NOT_PUBLISHED = 'No Publicado';
 
-const TEXT_GOOD = '<span class="text-success font-weight-bold">BUENO</span>';
-const TEXT_BAD = '<span class="text-danger font-weight-bold">MALO</span>';
+const TEXT_GOOD = '<span class="text-success fw-bold">BUENO</span>';
+const TEXT_BAD = '<span class="text-danger fw-bold">MALO</span>';
 const TEXT_INFO_HEADING_DELETE_REVIEW = 'Eliminar Comentario';
 
 const IMAGE_BUTTON_ADD_REVIEW = 'Añadir un Comentario';

@@ -10,5 +10,4 @@
   Released under the GNU General Public License
 */
 
-  const BOX_HEADING_OUTGOING_EMAIL = '<i data-content="Correos electrónicos en cola" data-toggle="popover" data-placement="right" class="fas fa-clock fa-fw mr-1"></i><span class="d-inline d-md-none">Correos electrónicos en cola</span>';
- 
+  const BOX_HEADING_OUTGOING_EMAIL = '<i title="Correos electrónicos en cola" class="fas fa-clock fa-fw me-1"></i><span title="Correos electrónicos en cola" class="d-xl-none">Correos electrónicos en cola</span>'; 

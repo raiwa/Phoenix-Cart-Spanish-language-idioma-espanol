@@ -15,9 +15,9 @@ const HEADING_TITLE_SEARCH = 'ID Pedido:';
 const HEADING_TITLE_STATUS = 'Estado:';
 const HEADING_TITLE_ORDER = 'Pedido #%s';
 
-const TAB_TITLE_SUMMARY = '<i class="fas fa-info-circle fa-fw mr-1"></i>Resumen';
-const TAB_TITLE_PRODUCTS = '<i class="fas fa-box-open fa-fw mr-1"></i>Productos';
-const TAB_TITLE_STATUS_HISTORY = '<i class="fas fa-history fa-fw mr-1"></i>Historial de Estado';
+const TAB_TITLE_SUMMARY = '<i class="fas fa-info-circle fa-fw me-1"></i>Resumen';
+const TAB_TITLE_PRODUCTS = '<i class="fas fa-box-open fa-fw me-1"></i>Productos';
+const TAB_TITLE_STATUS_HISTORY = '<i class="fas fa-history fa-fw me-1"></i>Historial de Estado';
 
 const TABLE_HEADING_OID = 'Pedido';
 const TABLE_HEADING_COMMENTS = 'Comentarios';
