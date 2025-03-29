@@ -16,8 +16,8 @@
   const MODULE_CONTENT_FOOTER_CONTACT_US_HEADING_TITLE = 'Cómo contactar';
   const MODULE_CONTENT_FOOTER_CONTACT_US_EMAIL_LINK = 'Contactar';
 
-  const MODULE_CONTENT_FOOTER_CONTACT_US_PHONE = '<i class="fas fa-phone fa-fw mr-1" title="Teléfono"></i>';
-  const MODULE_CONTENT_FOOTER_CONTACT_US_EMAIL = '<i class="fas fa-at fa-fw mr-1" title="Correo electrónico"></i>';
+  const MODULE_CONTENT_FOOTER_CONTACT_US_PHONE = '<i class="fas fa-phone fa-fw me-1" title="Teléfono"></i>';
+  const MODULE_CONTENT_FOOTER_CONTACT_US_EMAIL = '<i class="fas fa-at fa-fw me-1" title="Correo electrónico"></i>';
 
   const MODULE_CONTENT_FOOTER_CONTACT_US_TAX_ID = 'Número de Identificación Fiscal: %s';
   

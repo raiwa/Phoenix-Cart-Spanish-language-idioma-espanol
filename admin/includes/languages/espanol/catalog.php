@@ -44,6 +44,7 @@ const TEXT_PRODUCT_DATE_AVAILABLE = 'Fecha disponible.';
 const TEXT_EDIT_INTRO = 'Por favor realice los cambios necesarios';
 const TEXT_EDIT_CATEGORIES_NAME = 'Nombre Categoría:';
 const TEXT_EDIT_CATEGORIES_IMAGE = 'Imagen Categoría:';
+const TEXT_EDIT_SORT_ORDER = 'Orden';
 
 const TEXT_INFO_COPY_TO_INTRO = 'Elija la categoría hacia donde quiera copiar este producto';
 const TEXT_INFO_CURRENT_CATEGORIES = 'Categorías:';

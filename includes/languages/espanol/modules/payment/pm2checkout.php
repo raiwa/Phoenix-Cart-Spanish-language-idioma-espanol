@@ -21,7 +21,7 @@ const MODULE_PAYMENT_2CHECKOUT_TEXT_DESCRIPTION = <<<'EOT'
 </div>
 
 <h6>Información de Prueba de Tarjeta de Crédito</h6>
-<dl class="row no-gutters">
+<dl class="row g-0">
   <dt class="col-sm-4">Número de Tarjeta</dt>
   <dd class="col-sm-8">4111111111111111</dd>
   <dt class="col-sm-4">Caducidad</dt>

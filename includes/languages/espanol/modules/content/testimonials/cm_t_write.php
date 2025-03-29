@@ -13,7 +13,7 @@
   const MODULE_CONTENT_TESTIMONIALS_WRITE_TITLE        = 'Escribir Testimonio';
   const MODULE_CONTENT_TESTIMONIALS_WRITE_DESCRIPTION  = 'Permitir al cliente escribir un testimonio.';
 
-  const MODULE_CONTENT_TESTIMONIALS_WRITE_BUTTON_TEXT = '<i class="fas fa-pen mr-2 me-2"></i>Escribir un Testimonio';
+  const MODULE_CONTENT_TESTIMONIALS_WRITE_BUTTON_TEXT = '<i class="fas fa-pen me-2"></i>Escribir un Testimonio';
 
   const MODULE_CONTENT_TESTIMONIALS_WRITE_PUBLIC_TEXT = 'Cuéntenos lo que le gustaría que supiéramos. Estos comentarios pueden hacerse públicos en esta página, por lo que podría preferir usar un apodo en lugar de su nombre real.';
 
