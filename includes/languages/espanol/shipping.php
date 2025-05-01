@@ -10,8 +10,6 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE = 'Envíos y Devoluciones';
-
 /*
 Defina el título y el texto de esta página utilizando el Administrador de páginas de información.
 Admin > Herramientas > Páginas de información

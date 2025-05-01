@@ -24,6 +24,7 @@
   const MODULE_PAYMENT_STRIPE_SCA_TEXT_TITLE = 'Stripe SCA';
   const MODULE_PAYMENT_STRIPE_SCA_TEXT_PUBLIC_TITLE = 'Tarjeta de crédito (Stripe SCA)';
   const MODULE_PAYMENT_STRIPE_SCA_TEXT_DESCRIPTION = '<i class="fas fa-external-link-alt me-2"></i><a href="https://www.stripe.com" target="_blank" rel="noopener">Visitar sitio web de Stripe</a>';
+  const MODULE_PAYMENT_STRIPE_SCA_TEXT_INSTRUCTIONS = '<p>Instrucciones:<br><i class="fas fa-external-link-alt me-2"></i>&nbsp;<a href="https://phoenixcart.org/phoenixcartwiki/index.php?title=Payment#Stripe_SCA" target="_blank" rel="noopener">Configuración del Webhook</a></p>';
 
   const MODULE_PAYMENT_STRIPE_SCA_ERROR_ADMIN_CURL = 'Este módulo requiere que cURL esté habilitado en PHP y no se cargará hasta que esté habilitado en este servidor web.';
   const MODULE_PAYMENT_STRIPE_SCA_ERROR_ADMIN_CONFIGURATION = 'Este módulo no se cargará hasta que se configuren los parámetros de Clave Pública y Clave Secreta. Por favor, edite y configure los ajustes de este módulo.';
