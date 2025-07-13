@@ -13,4 +13,4 @@
   const MODULE_NAVBAR_TESTIMONIALS_TITLE = 'Testimonios';
   const MODULE_NAVBAR_TESTIMONIALS_DESCRIPTION = 'Mostrar el enlace a Testimonios en el menú de navegación.';
 
-  const MODULE_NAVBAR_TESTIMONIALS_PUBLIC_TEXT = '<i title="Testimonios" class="fas fa-fw fa-user-edit"></i><span class="d-inline d-sm-none d-md-inline"> Testimonios</span>';
+  const MODULE_NAVBAR_TESTIMONIALS_PUBLIC_TEXT = '<i title="Testimonios" class="fas fa-pen-to-square fa-fw fa-xl"></i><span class="d-inline d-sm-none d-md-inline"> Testimonios</span>';
