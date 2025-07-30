@@ -21,7 +21,7 @@
   const MODULE_CONTENT_GDPR_TESTIMONIALS_ANONYMIZE = '<i class="fas fa-user-secret text-white"></i>';
   const MODULE_CONTENT_GDPR_TESTIMONIALS_DELETE = '<i class="fas fa-trash"></i>';
 
-  const MODULE_CONTENT_GDPR_TESTIMONIALS_ANONYMIZED = ' <label class="badge badge-secondary">¡Anonimizado!</label>';
+  const MODULE_CONTENT_GDPR_TESTIMONIALS_ANONYMIZED = ' <label class="badge bg-secondary">¡Anonimizado!</label>';
   const MODULE_CONTENT_GDPR_TESTIMONIALS_ANONYMIZED_NAME = 'Anónimo [Cliente Verificado]';
 
   const MODULE_CONTENT_GDPR_TESTIMONIALS_ANON = '<small>Puede anonimizar sus testimonios si lo desea, haciendo clic en el botón azul.</small>';

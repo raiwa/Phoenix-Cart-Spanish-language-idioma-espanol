@@ -18,7 +18,7 @@
 
 const MODULE_PAYMENT_PAYPAL_STANDARD_TEXT_TITLE = 'Pagos estándar de PayPal';
 const MODULE_PAYMENT_PAYPAL_STANDARD_TEXT_PUBLIC_TITLE = 'PayPal';
-const MODULE_PAYMENT_PAYPAL_STANDARD_TEXT_DESCRIPTION = '<div class="alert alert-warning text-break">Active la opción de Retorno Automático para Pagos en su configuración de PayPal y configure la URL de retorno en:<br/>%s<br><br>Active PDT y copie el token de identidad en el módulo.<br><br>Active la Notificación Instantánea de Pago y establezca la URL de notificación en:<br/>%s</div><i class="fas fa-external-link-alt me-2"></i><a href="https://www.paypal.com" target="_blank" rel="noopener">Sitio web de PayPal</a>';
+const MODULE_PAYMENT_PAYPAL_STANDARD_TEXT_DESCRIPTION = '<div class="alert alert-warning text-break">Active la opción de Retorno Automático para Pagos en su configuración de PayPal y configure la URL de retorno en:<br>%s<br><br>Active PDT y copie el token de identidad en el módulo.<br><br>Active la Notificación Instantánea de Pago y establezca la URL de notificación en:<br>%s</div><i class="fas fa-external-link-alt me-2"></i><a href="https://www.paypal.com" target="_blank" rel="noopener">Sitio web de PayPal</a>';
 
 const MODULE_PAYMENT_PAYPAL_STANDARD_TEXT_RETURN_BUTTON = 'Volver a ' . STORE_NAME; // máx. 60 caracteres
 

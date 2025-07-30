@@ -32,10 +32,10 @@ const HTPASSWD_INFO = <<<'EOT'
 <p>Esta Instalación de la Herramienta de Administración CE Phoenix no está protegido a través de htaccess/htpasswd.</p>
 <p>Si habilita la capa de seguridad htaccess/htpasswd, el nombre de usuario del administrador y su contraseña se guardarán automáticamente en el archivo htpasswd cuando actualice los datos de un administrador.</p>
 <p><strong>Tenga en cuenta</strong>, que si esta capa adicional de seguridad está habilitada y usted no puede acceder a la herramienta de administración, realice los cambios siguientes y consulte a su proveedor de hosting para habilitar la protección de htaccess/htpasswd:</p>
-<p><u><strong>1. Edite este archivo:</strong></u><br /><br />%s</p>
+<p><u><strong>1. Edite este archivo:</strong></u><br><br>%s</p>
 <p>Quite las siguientes líneas si existen:</p>
 <p><i>%s</i></p>
-<p><u><strong>2. Elimine este archivo:</strong></u><br /><br />%s</p>
+<p><u><strong>2. Elimine este archivo:</strong></u><br><br>%s</p>
 EOT;
 const HTPASSWD_SECURED = <<<'EOT'
 <strong>Protección adicional con htaccess/htpasswd</strong>
