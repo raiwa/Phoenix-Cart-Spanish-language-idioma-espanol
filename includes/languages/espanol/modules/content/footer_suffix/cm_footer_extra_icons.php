@@ -13,8 +13,8 @@
   const MODULE_CONTENT_FOOTER_EXTRA_ICONS_TITLE = 'Iconos del pie de página adicional';
 
   const MODULE_CONTENT_FOOTER_EXTRA_ICONS_DESCRIPTION = <<<'EOT'
-  Añade iconos de FontAwesome al área del pie de página adicional de su sitio.<div class="alert alert-info">Buscar iconos: https://fontawesome.com/v6/search</div>
-  EOT;
+Añade iconos de FontAwesome al área del pie de página adicional de su sitio.<div class="alert alert-info">Buscar iconos: https://fontawesome.com/v6/search</div>
+EOT;
 
   // alternatively you can override Fontawesome using;
   const MODULE_CONTENT_FOOTER_EXTRA_ICONS_TEXT = '';

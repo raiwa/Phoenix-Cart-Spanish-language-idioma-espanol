@@ -23,6 +23,7 @@ const TEXT_HEADING_EDIT_OUTGOING_EMAIL = 'Editar Correo en Cola';
 const TEXT_OUTGOING_DATE = 'Enviar El:';
 const TEXT_OUTGOING_SLUG = 'Slug:';
 const TEXT_OUTGOING_EMAIL = 'Dirección de Correo:';
+const TEXT_OUTGOING_i18n = 'Idioma:';
 
 const TEXT_HEADING_NEW_OUTGOING_EMAIL = 'Añadir Correo a la Cola';
 const TEXT_OUTGOING_CUSTOMER = 'Cliente:';
