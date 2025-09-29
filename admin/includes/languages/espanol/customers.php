@@ -16,6 +16,7 @@ const HEADING_TITLE_SEARCH = 'Buscar:';
 const TABLE_HEADING_ID = 'ID';
 const TABLE_HEADING_NAME = 'Nombre';
 const TABLE_HEADING_ACCOUNT_CREATED = 'Cuenta Creada';
+const TABLE_HEADING_STATUS = 'Estado';
 const TABLE_HEADING_ACTION = 'Acción';
 
 const TEXT_DATE_ACCOUNT_CREATED = 'Cuenta Creada:';
