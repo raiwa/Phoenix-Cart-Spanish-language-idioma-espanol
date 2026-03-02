@@ -51,6 +51,7 @@ const ERROR_NO_PAYMENT_MODULE_SELECTED = 'Por favor, seleccione un método de pa
 const IMAGE_BUTTON_ADD_ADDRESS = 'Añadir Dirección';
 const IMAGE_BUTTON_BACK = 'Volver';
 const IMAGE_BUTTON_CLOSE = 'Cerrar';
+const IMAGE_BUTTON_CONTACT_US = 'Contáctenos';
 const IMAGE_BUTTON_CONTINUE = 'Continuar';
 const IMAGE_BUTTON_DELETE = 'Eliminar';
 const IMAGE_BUTTON_SEARCH = 'Buscar';
