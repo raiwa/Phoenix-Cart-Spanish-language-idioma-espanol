@@ -50,27 +50,15 @@ const ERROR_NO_PAYMENT_MODULE_SELECTED = 'Por favor, seleccione un método de pa
 
 const IMAGE_BUTTON_ADD_ADDRESS = 'Añadir Dirección';
 const IMAGE_BUTTON_BACK = 'Volver';
-const IMAGE_BUTTON_BUY_NOW = 'Comprar Ahora';
-const IMAGE_BUTTON_CHANGE_ADDRESS = 'Cambiar Dirección';
-const IMAGE_BUTTON_CHECKOUT = 'Realizar Pedido';
 const IMAGE_BUTTON_CLOSE = 'Cerrar';
-const IMAGE_BUTTON_CONFIRM_ORDER = 'Confirmar Pedido';
 const IMAGE_BUTTON_CONTINUE = 'Continuar';
 const IMAGE_BUTTON_DELETE = 'Eliminar';
-const IMAGE_BUTTON_LOGIN = 'Entrar';
-const IMAGE_BUTTON_IN_CART = 'Añadir al Carrito';
 const IMAGE_BUTTON_SEARCH = 'Buscar';
 const IMAGE_BUTTON_UPDATE = 'Actualizar';
 const IMAGE_BUTTON_UPDATE_PREFERENCES = 'Actualizar preferencias';
 
 const SMALL_IMAGE_BUTTON_DELETE = 'Eliminar';
 const SMALL_IMAGE_BUTTON_EDIT = 'Modificar';
-const SMALL_IMAGE_BUTTON_VIEW = 'Ver';
-const SMALL_IMAGE_BUTTON_BUY = 'Comprar';
-
-const TEXT_CCVAL_ERROR_INVALID_DATE = 'La fecha de caducidad de la tarjeta de crédito es incorrecta. Compruebe la fecha e inténtelo de nuevo.';
-const TEXT_CCVAL_ERROR_INVALID_NUMBER = 'El número de la tarjeta de crédito es incorrecto. Compruebe el número e inténtelo de nuevo.';
-const TEXT_CCVAL_ERROR_UNKNOWN_CARD = 'Los primeros cuatro dígitos de su tarjeta son: %s. Si este número es correcto, no aceptamos este tipo de tarjetas. Si es incorrecto, inténtelo de nuevo.';
 
 const TEXT_SEARCH_PLACEHOLDER = 'Buscar';
 
