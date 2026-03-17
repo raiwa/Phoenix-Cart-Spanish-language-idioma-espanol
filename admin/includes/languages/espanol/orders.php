@@ -64,6 +64,7 @@ const ENTRY_PRINTABLE = 'Imprimir Factura';
 const TEXT_INFO_HEADING_DELETE_ORDER = 'Eliminar Pedido';
 const TEXT_INFO_DELETE_INTRO = '¿Seguro que quiere eliminar este pedido?';
 const TEXT_INFO_RESTOCK_PRODUCT_QUANTITY = 'Añadir productos al almacen';
+const TEXT_INFO_REACTIVATE_PRODUCT_STATUS = 'Reactivar productos';
 const TEXT_DATE_ORDER_CREATED = 'Creado el: %s';
 const TEXT_DATE_ORDER_LAST_MODIFIED = 'Última Modificación: %s';
 const TEXT_INFO_PAYMENT_METHOD = 'Método de Pago: %s';
