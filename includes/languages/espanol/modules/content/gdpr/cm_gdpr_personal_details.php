@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-  const MODULE_CONTENT_GDPR_PERSONAL_DETAILS_TITLE = 'Detalles personals RGPD';
+  const MODULE_CONTENT_GDPR_PERSONAL_DETAILS_TITLE = 'Detalles personales RGPD';
   const MODULE_CONTENT_GDPR_PERSONAL_DETAILS_DESCRIPTION = 'Mostrar detalles personales de los clientes en la página RGPD.';
 
   const MODULE_CONTENT_GDPR_PERSONAL_DETAILS_PUBLIC_TITLE = 'Sus datos personales';
