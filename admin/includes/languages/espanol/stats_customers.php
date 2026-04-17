@@ -8,13 +8,13 @@
   Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
-  Más
 */
 
 const HEADING_TITLE = 'Clientes por Total de Pedido';
 
 const TABLE_HEADING_NUMBER = 'Nº';
 const TABLE_HEADING_CUSTOMERS = 'Clientes';
+const TABLE_HEADING_CUSTOMERS_ID = 'ID';
 const TABLE_HEADING_TOTAL_PURCHASED = 'Total Pedido';
 
 const TABLE_HEADING_ACTION = 'Acción';
