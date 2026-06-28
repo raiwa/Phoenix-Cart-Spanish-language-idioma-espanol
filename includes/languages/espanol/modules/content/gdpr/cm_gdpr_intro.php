@@ -13,4 +13,4 @@
   const MODULE_CONTENT_GDPR_INTRO_TITLE = 'Introducción RGPD';
   const MODULE_CONTENT_GDPR_INTRO_DESCRIPTION = 'Explique a los clientes el acceso a los datos de su cuenta y el derecho a la eliminación de datos.';
 
-  const MODULE_CONTENT_GDPR_INTRO_PUBLIC_TEXT = '<p><strong>Acceso completo a todos los datos de su cuenta en un solo lugar.</strong></p><p>Vea todos los datos personales que tenemos asociados con su cuenta, incluidas las interacciones con nuestro sitio web. Nos comprometemos a la transparencia y a proteger su privacidad, dándole control total sobre su información. Puede eliminar los datos personales que tenemos utilizando <a class="alert-link" href="%s">Eliminar mi Cuenta aquí</a>.</p>';
+	const MODULE_CONTENT_GDPR_INTRO_PUBLIC_TEXT = '<p><strong>Sus datos y privacidad</strong></p><p>Consulte todos los datos personales que almacenamos sobre usted, incluidas las interacciones en el sitio web. Priorizamos la transparencia y le damos control total. También puede <a class="alert-link" href="%s">eliminar su cuenta</a> en cualquier momento.</p>';

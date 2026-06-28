@@ -12,4 +12,4 @@
 
 const MODULE_ADMIN_DASHBOARD_SECURITY_CHECKS_TITLE = 'Comprobaciones de Seguridad';
 const MODULE_ADMIN_DASHBOARD_SECURITY_CHECKS_DESCRIPTION = 'Ejecutar Comprobaciones de Seguridad';
-const MODULE_ADMIN_DASHBOARD_SECURITY_CHECKS_SUCCESS = '¡Ésta es una instalación correctamente configurada de CE Phoenix!';
+const MODULE_ADMIN_DASHBOARD_SECURITY_CHECKS_SUCCESS = '¡Ésta es una instalación correctamente configurada de Phoenix.';

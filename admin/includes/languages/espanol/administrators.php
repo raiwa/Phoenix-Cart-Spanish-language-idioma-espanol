@@ -29,7 +29,7 @@ const ERROR_ADMINISTRATOR_EXISTS = '<strong>Error:</strong> Administrador YA exi
 
 const HTPASSWD_INFO = <<<'EOT'
 <strong>Protección adicional con htaccess/htpasswd</strong>
-<p>Esta Instalación de la Herramienta de Administración CE Phoenix no está protegido a través de htaccess/htpasswd.</p>
+<p>Esta Instalación de la Herramienta de Administración Phoenix no está protegido a través de htaccess/htpasswd.</p>
 <p>Si habilita la capa de seguridad htaccess/htpasswd, el nombre de usuario del administrador y su contraseña se guardarán automáticamente en el archivo htpasswd cuando actualice los datos de un administrador.</p>
 <p><strong>Tenga en cuenta</strong>, que si esta capa adicional de seguridad está habilitada y usted no puede acceder a la herramienta de administración, realice los cambios siguientes y consulte a su proveedor de hosting para habilitar la protección de htaccess/htpasswd:</p>
 <p><u><strong>1. Edite este archivo:</strong></u><br><br>%s</p>
@@ -39,11 +39,11 @@ const HTPASSWD_INFO = <<<'EOT'
 EOT;
 const HTPASSWD_SECURED = <<<'EOT'
 <strong>Protección adicional con htaccess/htpasswd</strong>
-<p>Esta Instalación de la Herramienta de Administración CE Phoenix está adicionalmente protegida a través de htaccess/htpasswd.</p>
+<p>Esta Instalación de la Herramienta de Administración Phoenix está adicionalmente protegida a través de htaccess/htpasswd.</p>
 EOT;
 const HTPASSWD_PERMISSIONS = <<<'EOT'
 <strong>Protección adicional con htaccess/htpasswd</strong>
-<p>Esta Instalación de la Herramienta de Administración CE Phoenix no está adicionalmente protegida a través de htaccess/htpasswd.</p>
+<p>Esta Instalación de la Herramienta de Administración Phoenix no está adicionalmente protegida a través de htaccess/htpasswd.</p>
 <p>Los siguientes archivos necesitan tener permisos de escritura en el servidor web para poder activar la capa de seguridad htaccess/htpasswd:</p>
 <ul>
 <li>%s</li>

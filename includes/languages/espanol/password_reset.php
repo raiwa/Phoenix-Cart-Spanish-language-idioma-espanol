@@ -10,14 +10,14 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE_1 = 'Entrar';
-const NAVBAR_TITLE_2 = 'Restablecer contraseña';
+	const NAVBAR_TITLE_1 = 'Iniciar sesión';
+	const NAVBAR_TITLE_2 = 'Restablecer contraseña';
 
-const HEADING_TITLE = 'Restablecer contraseña';
+	const HEADING_TITLE = 'Restablecer contraseña';
 
-const TEXT_MAIN = 'Por favor, introduzca una contraseña nueva para su cuenta.';
+	const TEXT_MAIN = 'Por favor, introduzca una nueva contraseña';
 
-const TEXT_NO_RESET_LINK_FOUND = 'Error: El enlace de restablecimiento de contraseña no se encuentra en nuestros registros. Por favor, inténtelo de nuevo mediante la generación de un nuevo enlace.';
-const TEXT_NO_EMAIL_ADDRESS_FOUND = 'Error: Este correo electrónico no figura en nuestros datos, inténtelo de nuevo.';
+	const TEXT_NO_RESET_LINK_FOUND = 'Error: El enlace de restablecimiento de contraseña no se encontró en nuestros registros, por favor intente generar un nuevo enlace.';
+	const TEXT_NO_EMAIL_ADDRESS_FOUND = 'Si este correo electrónico está en nuestros registros, le hemos enviado un enlace de restablecimiento. Por favor, revise su bandeja de entrada.';
 
-const SUCCESS_PASSWORD_RESET = 'Su contraseña se ha actualizado correctamente. Por favor, acceda a su cuenta con su nueva contraseña.';
+	const SUCCESS_PASSWORD_RESET = 'Su contraseña se ha actualizado correctamente. Por favor, inicie sesión con su nueva contraseña.';

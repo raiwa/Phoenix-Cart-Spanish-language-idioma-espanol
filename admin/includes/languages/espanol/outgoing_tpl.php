@@ -41,8 +41,7 @@ const TEXT_OUTGOING_EMAIL = 'Dirección de Correo Electrónico:';
 
 const TEXT_NEW_INTRO = 'Por favor, complete la siguiente información para el nuevo Correo Electrónico';
 const TEXT_EDIT_INTRO = 'Por favor, realice los cambios necesarios';
-const TEXT_DELETE_INTRO = '¿Está seguro de que desea eliminar este Correo Electrónico?';
-
+const TEXT_DELETE_INTRO = '¿Está seguro de que desea eliminar esta plantilla <i>y todos los correos electrónicos en cola asociados</i>?';
 const TEXT_DATE_ADDED = 'Fecha de Creación: %s';
 const TEXT_LAST_MODIFIED = 'Última Modificación: %s';
 

@@ -15,6 +15,7 @@
 //España: 'es_ES.UTF-8', 'es_ES.UTF8', 'esp_es'
 //México 'es_MX.UTF-8', 'es_MX.UTF8', 'esm_es'
 
+
 @setlocale(LC_ALL, ['en_US.UTF-8', 'en_US.UTF8', 'enu_usa']);
 
 $long_date_formatter = new IntlDateFormatter('es', IntlDateFormatter::FULL, IntlDateFormatter::NONE);
@@ -28,7 +29,7 @@ const HTML_PARAMS = ' dir="ltr" lang="es"';
 const CHARSET = 'utf-8';
 
 // page title
-const TITLE = 'CE Phoenix Cart Herramienta de Administración';
+const TITLE = 'CPhoenix Cart Herramienta de Administración';
 
 // header text in includes/hooks/admin/siteWide/hMenu.php
 const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart me-1 text-primary" aria-hidden="true" title="Su Tienda"></i><span class="border-bottom border-primary">Su Tienda</span>';

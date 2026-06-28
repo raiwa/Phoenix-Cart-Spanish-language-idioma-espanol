@@ -30,7 +30,7 @@ const IMAGE_BUTTON_ADD_REVIEW = 'Enviar su valoración al propietario de la tien
 
 const TEXT_REVIEW_RECEIVED = '%s gracias por su opinión. Se ha presentado al administrador de la web para su aprobación y deberá aparecer en breve.';
 
-const TEXT_REVIEW_WRITING = '<p class="lead">%s, por favor, háganos saber sus opiniones y calificación sobre %s - gracias!</p><p>Después de presionar el botón "Enviar", se presentará al propietario de la tienda y debería aparecer en la tienda en breve.</p>';
+const TEXT_REVIEW_WRITING = '<p class="lead">%s, por favor, indíquenos su opinión y valoración sobre %s – ¡gracias!</p><p>Después de pulsar el botón "Enviar", su reseña debería aparecer en el sitio en breve.</p>';
 
-const TEXT_NOT_PURCHASED = '¡%s parece haber un conflicto! ¡No ha comprado este producto!';
-const TEXT_ALREADY_REVIEWED = '¡%s parece haber un conflicto! ¡Ya ha valorado este producto!';
+const TEXT_NOT_PURCHASED = '%s ¡gracias por su interés! Actualmente, las reseñas están limitadas a compradores verificados para garantizar la autenticidad.<br>Si ha comprado este artículo recientemente, espere entre 24 y 48 horas para que su pedido se sincronice.';
+const TEXT_ALREADY_REVIEWED = '%s vemos que ya ha dejado una reseña para este producto.<br>¡Gracias por tomarse el tiempo de compartir su experiencia!';

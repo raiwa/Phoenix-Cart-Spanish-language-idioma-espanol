@@ -15,4 +15,4 @@
 
   const MODULE_CONTENT_GDPR_CONTACT_ADDRESSES_PUBLIC_TITLE = 'Más direcciones vinculadas a su cuenta';
 
-  const MODULE_CONTENT_GDPR_CONTACT_ADDRESSES_NUM_ADDRESSES = 'Hemos encontrado<br><span class="h1"><span class="num_addresses">%s</span></span><br> más direcciones';
+  const MODULE_CONTENT_GDPR_CONTACT_ADDRESSES_NUM_ADDRESSES = 'Hemos encontrado<br><span class="h1"><span class="num_addresses">%s</span></span><br> direcciones adicionales';

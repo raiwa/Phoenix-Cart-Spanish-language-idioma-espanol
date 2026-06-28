@@ -13,8 +13,8 @@
   const MODULE_CONTENT_CAS_MESSAGE_TITLE        = 'Mensaje de agradecimiento';
   const MODULE_CONTENT_CAS_MESSAGE_DESCRIPTION  = 'Muestra un mensaje al cliente agradeciéndole por crear su perfil.';
 
-  const MODULE_CONTENT_CAS_MESSAGE_PUBLIC_TITLE = <<<'EOT'
-<p class="lead">¡Enhorabuena! ¡Su cuenta ha sido creada con éxito!</p>
-<p>Ahora puede disfrutar de las ventajas de disponer de una cuenta para mejorar su experiencia de compra en línea con nosotros. Si tiene alguna pregunta sobre el funcionamiento de esta tienda, <a class="alert-link" href="%1$s">contáctenos</a> o vea su <a class="alert-link" href="%2$s">cuenta</a>.</p>
-<p>Se ha enviado una confirmación a su dirección de correo electrónico.</p>
+	const MODULE_CONTENT_CAS_MESSAGE_PUBLIC_TITLE = <<<'EOT'
+<p class="lead">¡Bienvenido! Su cuenta está lista.</p>
+<p>Ahora puede <a class="alert-link" href="%2$s">gestionar su cuenta</a> para un proceso de compra más rápido. Si tiene alguna pregunta, por favor <a class="alert-link" href="%1$s">contáctenos</a>.</p>
+<p>Hemos enviado un correo de confirmación a su bandeja de entrada.</p>
 EOT;
